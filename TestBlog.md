@@ -1,5 +1,5 @@
 [Return To Home](README.md)
-# <NAME HERE> Blog
+title: [BLOG]
 
 ## Week 1
 
