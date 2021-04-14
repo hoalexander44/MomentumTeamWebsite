@@ -7,6 +7,19 @@ layout: default
 
 ### Week 1
 
+Tasks Completed: Elevator pitch, One page GDD, TechDemo 
+
+
+Number of hours: 3 hours 
+
+
+Positives: Was able to finish all the tasks needed for the week 
+
+
+Negative: Issues setting up git and version control 
+
+
+Upcoming: Talk to team to assign roles for the future of the game
 ### Week 2
 
 ### Week 3
