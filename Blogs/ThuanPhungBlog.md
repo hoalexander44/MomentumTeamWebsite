@@ -3,7 +3,7 @@ title: Template Blog
 layout: default
 ---
 
-## Welcome to another page
+## Welcome to Thuan Phung's Personal Production Journal
 
 ### Week 1
 
