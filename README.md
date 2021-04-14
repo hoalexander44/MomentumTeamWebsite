@@ -1,2 +1,2 @@
 This is the Momentum Team Website
-[a relative link](TestBlog.md)
+[a relative link](TestBlog.html)
