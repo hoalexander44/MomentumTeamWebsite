@@ -1,28 +1,11 @@
 ---
 layout: default
-title: <NAME>'s blog
-description: This is <NAME>'s blog
+title: Another page
+description: This is just another page
 ---
 
+## Welcome to another page
 
-[Return To Home](README.md)
+_yay_
 
-## Week 1
-
-## Week 2
-
-## Week 3
-
-## Week 4
-
-## Week 5
-
-## Week 6
-
-## Week 7
-
-## Week 8
-
-## Week 9
-
-## Week 10
+[back](./)
