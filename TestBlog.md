@@ -1,5 +1,11 @@
+---
+layout: default
+title: <NAME>'s blog
+description: This is <NAME>'s blog
+---
+
+
 [Return To Home](README.md)
-title: [BLOG]
 
 ## Week 1
 
