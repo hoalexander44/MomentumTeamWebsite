@@ -2,7 +2,7 @@ Here are our Blogs.
 
 [Alexander Ho](AlexanderHoBlog.html)
 
-[Diego](DiegoVaronaBlog.html)
+[Diego Vardona](DiegoVaronaBlog.html)
 
 [Kendal Mitchell](KendalMitchellBlog.html)
 
