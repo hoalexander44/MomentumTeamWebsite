@@ -1,5 +1,5 @@
 ---
-title: Another page
+title: BLOG
 description: This is just another page
 ---
 
