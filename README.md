@@ -1,2 +1,2 @@
 This is the Momentum Team Website
-[a relative link](./Blogs/_Blogs.md)
+[Personal Production Journals](./Blogs/_Blogs.md)
