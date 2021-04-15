@@ -6,6 +6,7 @@ layout: default
 ## Welcome to Soren Strnisa's Personal Production Journal
 
 ### Week 1
+Soren Strnisa PPJ 1
 Tasks:
 
 Assigning Trello Tasks
