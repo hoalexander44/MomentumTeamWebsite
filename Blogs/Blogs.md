@@ -18,4 +18,4 @@ Here are our Blogs.
 
 [Yash Pandey](YashPandeyBlog.html)
 
-[back](../README.md)
+[back](./README.md)
