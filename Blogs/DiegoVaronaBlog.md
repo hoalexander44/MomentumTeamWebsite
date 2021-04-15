@@ -5,7 +5,7 @@ layout: default
 
 ## Welcome to Diego Varona's Personal Production Journal
 
-### Week 1
+### Week 2
 
 Diego Varona, PPJ 1
 Tasks Done:
@@ -26,8 +26,6 @@ Negative: Couple issues with some people not being able to get on the Sourcetree
 
 
 Upcoming: Full development will be happening once everyone is delegated a task.
-### Week 2
-
 ### Week 3
 
 ### Week 4
