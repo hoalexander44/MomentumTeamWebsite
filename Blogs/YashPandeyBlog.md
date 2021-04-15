@@ -6,6 +6,8 @@ layout: default
 ## Welcome to Yash Pandey's Personal Production Journal
 
 ### Week 1
+Yash Pandey PPJ 1
+
 Tasks – Hours taken:
 -	Infrastructure Set-up (Unity Hub, get correct unity version, set-up github)
 o	1.5 Hours
