@@ -16,6 +16,11 @@ Worked on concept art for enemies in game: (4 hours)
 Total Hours: 5 hours completed. 
 
 Concept work:
+![image](https://user-images.githubusercontent.com/39490762/114909387-17606200-9deb-11eb-94b1-91c1c8e7f3ff.png)
+![image](https://user-images.githubusercontent.com/39490762/114909401-1af3e900-9deb-11eb-8d80-11ad70ee2b72.png)
+![image](https://user-images.githubusercontent.com/39490762/114909420-1deed980-9deb-11eb-9cde-8804b5c5230c.png)
+![image](https://user-images.githubusercontent.com/39490762/114909432-20e9ca00-9deb-11eb-904c-edd65aaba06a.png)
+![image](https://user-images.githubusercontent.com/39490762/114909445-234c2400-9deb-11eb-92d8-5fbf74ba332f.png)
 
 
 Positives:
