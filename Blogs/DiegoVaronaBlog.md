@@ -6,6 +6,8 @@ layout: default
 ## Welcome to Diego Varona's Personal Production Journal
 
 ### Week 1
+
+Diego Varona, PPJ 1
 Tasks Done:
 * One Page Final
 * Github Setup
