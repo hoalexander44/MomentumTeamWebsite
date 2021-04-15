@@ -5,7 +5,7 @@ layout: default
 
 ## Welcome to Yash Pandey's Personal Production Journal
 
-### Week 1
+### Week 2
 Yash Pandey PPJ 1
 
 Tasks – Hours taken:
@@ -23,8 +23,6 @@ Upcoming: Game Mechanics Design, Player Movement (and all the arithmetic related
 ![image](https://user-images.githubusercontent.com/39490762/114806322-8fd70c80-9d72-11eb-8a57-ea4659fd6558.png)
 ![image](https://user-images.githubusercontent.com/39490762/114806339-9796b100-9d72-11eb-99a5-a5e611054354.png)
 ![image](https://user-images.githubusercontent.com/39490762/114806345-99607480-9d72-11eb-8890-702de08b7aa3.png)
-
-### Week 2
 
 ### Week 3
 
