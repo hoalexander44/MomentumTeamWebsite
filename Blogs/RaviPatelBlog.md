@@ -6,6 +6,7 @@ layout: default
 ## Welcome to Ravi Patel's Personal Production Journal
 
 ### Week 1
+Ravi Patel, PPJ 1
 
 Tasks Completed: Elevator pitch, One page GDD, TechDemo 
 
