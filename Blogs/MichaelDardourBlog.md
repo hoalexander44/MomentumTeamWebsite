@@ -37,4 +37,4 @@ Tags: Design, Programming, Week 2
 
 ### Week 10
 
-[back](./)
+[back](Blogs.html)

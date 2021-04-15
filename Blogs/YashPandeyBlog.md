@@ -40,4 +40,4 @@ Upcoming: Game Mechanics Design, Player Movement (and all the arithmetic related
 
 ### Week 10
 
-[back](./)
+[back](Blogs.html)

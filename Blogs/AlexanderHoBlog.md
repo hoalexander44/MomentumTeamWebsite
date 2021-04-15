@@ -25,4 +25,4 @@ layout: default
 
 ### Week 10
 
-[back](./)
+[back](Blogs.html)

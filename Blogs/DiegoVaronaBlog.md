@@ -42,4 +42,4 @@ Upcoming: Full development will be happening once everyone is delegated a task.
 
 ### Week 10
 
-[back](./)
+[back](Blogs.html)

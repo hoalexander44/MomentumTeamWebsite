@@ -38,4 +38,4 @@ Upcoming: Talk to team to assign roles for the future of the game
 
 ### Week 10
 
-[back](./)
+[back](Blogs.html)

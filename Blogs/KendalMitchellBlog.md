@@ -27,4 +27,4 @@ I researched the A* algorithm for pathfinding and assisted in paired programming
 
 ### Week 10
 
-[back](./)
+[back](Blogs.html)
