@@ -5,7 +5,7 @@ layout: default
 
 ## Welcome to Ravi Patel's Personal Production Journal
 
-### Week 1
+### Week 2
 Ravi Patel, PPJ 1
 
 Tasks Completed: Elevator pitch, One page GDD, TechDemo 
@@ -21,7 +21,6 @@ Negative: Issues setting up git and version control
 
 
 Upcoming: Talk to team to assign roles for the future of the game
-### Week 2
 
 ### Week 3
 
