@@ -8,6 +8,7 @@ layout: default
 ### Week 2
 
 Diego Varona, PPJ 1
+
 Tasks Done:
 * One Page Final
 * Github Setup
