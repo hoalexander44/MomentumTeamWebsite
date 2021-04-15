@@ -8,6 +8,7 @@ layout: default
 ### Week 2
 
 Alexander Ho, PPJ 1
+
 Tasks: 
 
 1. Created the team website: 7 hours
