@@ -35,12 +35,9 @@ o	3.5 Hours
 o	2.5 Hours
 Total Hours: 6 Hours
 
-Positive: 
--	Constructed Hex Class with future proofing for level generation, hex distance (between two points) and movement calculation trackers, etc.
--	Helped implementing the hex grid generation for creating the hex map
+Positive: Constructed Hex Class with future proofing for level generation, hex distance (between two points) and movement calculation trackers, etc. Also helped implementing the hex grid generation for creating the hex map
 
-Negative: 
--	Difference in purpose for elements give rise to the need for further specification and discussion on details
+Negative: Difference in purpose for elements give rise to the need for further specification and discussion on details
 
 Upcoming: Unit Movement, Unit Path Choosing (how to get from point A to point B)
 
