@@ -17,6 +17,7 @@ Tasks Done:
 
 Number of Hours Worked:
 About 1 - 2 Hours
+
 Work Samples:
 N/A
 
@@ -40,6 +41,7 @@ Tasks Done:
 
 Number of Hours Worked:
 About 7 - 9 Hours
+
 Work Samples:
 N/A
 
