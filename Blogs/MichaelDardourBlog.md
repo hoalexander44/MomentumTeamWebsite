@@ -5,7 +5,9 @@ layout: default
 
 ## Welcome to Michael Dardour's Personal Production Journal
 
-### Week 1
+### Week 2
+Michael Dardour, PPJ 1
+
 Week 2 mainly consisted of getting my one and other group members git repositories and Unity versions in sync. (1hr)
 Additionally I made comments about movement systems in other games such as Titanfall and how they could potentially be used as a basis of how Momentums system could perform.  (1.5hr)
 Worked with Yash and Kendall mocking up the tech demo to show the player moving through a hexagonal grid with a basic environment. (2hr)
@@ -18,8 +20,6 @@ Negative: Unity is finicky and had to spend way too much time trying to download
 Total Hours: 4.5
 
 Tags: Design, Programming, Week 2
-
-### Week 2
 
 ### Week 3
 
