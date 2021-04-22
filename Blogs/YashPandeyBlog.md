@@ -16,7 +16,9 @@ o	1 Hour
 Total Hours: 2.5 Hours
 
 Positive: Were able to tackle some design questions and create the tech demo
+
 Negative: The team’s schedule is very tight making it hard to meet up for meetings
+
 Upcoming: Game Mechanics Design, Player Movement (and all the arithmetic related to it), Learn about Algorithm A* for figuring out AI mechanics
 
 
@@ -36,9 +38,12 @@ Total Hours: 6 Hours
 Positive: 
 -	Constructed Hex Class with future proofing for level generation, hex distance (between two points) and movement calculation trackers, etc.
 -	Helped implementing the hex grid generation for creating the hex map
+
 Negative: 
--	Difference in purpose for elements give rise to the need for further specification and discussion on details.
+-	Difference in purpose for elements give rise to the need for further specification and discussion on details
+
 Upcoming: Unit Movement, Unit Path Choosing (how to get from point A to point B)
+
 
 
 ![image](https://user-images.githubusercontent.com/39490762/115772490-2d3acd80-a37d-11eb-9a70-d568f68a69f5.png)
