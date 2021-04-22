@@ -30,6 +30,24 @@ Upcoming: Distribute development tasks. Complete development tasks. Create art f
 
 ### Week 3
 
+Alexander Ho, PPJ 2
+
+Tasks: 
+
+1. GDD: 8 hours
+
+2. Setting up presentation: 4 hour
+
+3. Integrated classes that other team members created: 1
+
+Total hours: 13
+
+Positive: Everyone was able to deliver on their tasks which is amazing. The programmers made it very easy for me to use their code and integrate things together. Even when I haven't worked on the code as much as them, I can still have insight to whats going on, on the development side. The artist were able to deliver on good concepts, and a decent draft of the documentation actually got made. 
+
+Negative: I was extremely busy with other work this week so it was stressful cramming a lot of the game design requirements. Also, its hard to work on game design and develop the game, and assign tasks in parallel. I want to create the base game first, which I feel is well defined, and then once everyone is comfrotable, actually take some time to define additional aspects of the game. I feel that a lot of the game design document additions I made are more temporary in nature as a result.  
+
+Upcoming: Pass out development tasks. Start making art assets. Be more invovled in code development. Have a long form discussion with the team on the design of the game. 
+
 ### Week 4
 
 ### Week 5
