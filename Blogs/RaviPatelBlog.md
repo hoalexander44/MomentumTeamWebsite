@@ -23,6 +23,15 @@ Negative: Issues setting up git and version control
 Upcoming: Talk to team to assign roles for the future of the game
 
 ### Week 3
+Task Comleted: Finished concept art for the enviorments 
+
+Number of hours: 3
+
+Positives: was able to finish all the work before deadline 
+
+Negitives: Struggled in top down art style 
+
+Upcoming: Start refining enviorments and start production on assets for levels 
 
 ### Week 4
 
