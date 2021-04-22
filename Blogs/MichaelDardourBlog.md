@@ -22,6 +22,22 @@ Total Hours: 4.5
 Tags: Design, Programming, Week 2
 
 ### Week 3
+Michael Dardour, PPJ 2
+
+Spent time going over various ways of creating an easily accessible and scalable base character script which all enemies should derive from. Player character also derives from this script  (2hrs)
+
+Took example sprites to show basic sprite interactions (2hr)
+
+Discussions with other team members as to what characters should have certain attributes such as momentum. Eventually decided that the player is the only person with a Momentum Mechanic, however ideas of having a boss with momentum is still on the table (1hr)
+
+
+Positive: Made a solid foundation for every character piece that will be implemented in the game. 
+Negative: Unities method of doing sprite animations are tricky, and requires some workarounds to do basic things.
+
+Total Hours: 5
+
+Tags: Design, Programming, Animation, Week 3
+
 
 ### Week 4
 
