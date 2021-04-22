@@ -25,6 +25,21 @@ Upcoming: Game Mechanics Design, Player Movement (and all the arithmetic related
 ![image](https://user-images.githubusercontent.com/39490762/114806345-99607480-9d72-11eb-8890-702de08b7aa3.png)
 
 ### Week 3
+Yash Pandey, PPJ 2
+Tasks – Hours taken:
+-	Hex object with implementation of grid calculation references, grid generation script.
+o	3.5 Hours
+-	Standardized Hex Template using classes for laying the foundation for map generation (level design tool creation)
+o	2.5 Hours
+Total Hours: 6 Hours
+
+Positive: 
+-	Constructed Hex Class with future proofing for level generation, hex distance (between two points) and movement calculation trackers, etc.
+-	Helped implementing the hex grid generation for creating the hex map
+Negative: 
+-	Difference in purpose for elements give rise to the need for further specification and discussion on details.
+Upcoming: Unit Movement, Unit Path Choosing (how to get from point A to point B)
+Screenshots:
 
 ### Week 4
 
