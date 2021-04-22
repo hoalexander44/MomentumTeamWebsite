@@ -39,7 +39,8 @@ Positive:
 Negative: 
 -	Difference in purpose for elements give rise to the need for further specification and discussion on details.
 Upcoming: Unit Movement, Unit Path Choosing (how to get from point A to point B)
-Screenshots:
+
+
 ![image](https://user-images.githubusercontent.com/39490762/115772490-2d3acd80-a37d-11eb-9a70-d568f68a69f5.png)
 
 
