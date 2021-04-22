@@ -37,6 +37,32 @@ We'll be further delegating tasks as we go deeper into development.
 
 ### Week 3
 
+Kendal Mitchell, PPJ 2
+
+Tasks Done: 
+
+This week I worked with the others creating our HexMap (grid) and tile scripts. 
+
+* Setup a system to generate Hexagonal grids with adjustable rows, columns, and spacing
+* Built public interfaces for the HexMap and Tile GameObjects.
+* Designers can now input HexType variants through the Unity Editor rather than through scripts.
+
+Our generated HexMaps utilize an "odd-r" horizontal layout. This orientation isn't set in stone at this point but I ended up learning how to adjust it as I learned how to generate it.
+
+Overall, I spent about 6 to 7 hours in development.
+
+Positive:
+
+Core components! Map creation has been automated and we can now track information not only for the Hex Tiles, but the HexMap itself too. Our artists are pumping out enemy designs and it's exciting to see so much progress over a short amount of time.
+
+Negative: 
+
+I was having some trouble line drawing and calculating distances for hexes but with some research found that Bresenham's algorithm may be a potential solution. It is possible that it may be hampered by our use of offsets, but this is still TBD. If necessary, our HexMap will likely need to change from a square offset tile grid to one using axial coordinates. 
+
+Upcoming:
+
+We're hopefully getting to the point now where we can start integrating pathfinding and player/enemy units types. I also had time to start prepping utility functions for pathfinding as well.
+
 ### Week 4
 
 ### Week 5
