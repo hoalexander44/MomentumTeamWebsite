@@ -34,7 +34,15 @@ Negitives: Struggled in top down art style
 Upcoming: Start refining enviorments and start production on assets for levels 
 
 ### Week 4
+Task Comleted: Finished making damage numbers for hits  
 
+Number of hours: 3
+
+Positives: I was able to create a set of numbers that would appear for the player if they hit an enemy 
+
+Negitives: Not able to make a "custom font" but found an alternative solution   
+
+Upcoming: Start creating assets for the levels 
 ### Week 5
 
 ### Week 6
