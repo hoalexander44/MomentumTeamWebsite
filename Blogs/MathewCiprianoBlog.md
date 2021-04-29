@@ -81,7 +81,45 @@ Upcoming:
 
 
 ### Week 4
+Mathew Cipriano, Personal Project Journal #3:
 
+Completed Tasks:
+
+- Finalized monster Designs: 1.5 Hours
+- Created digital versions of monster designs: 10 Hours.
+- Total Hours: 11.5 Hours
+
+Digital Work:
+![Numblett](https://user-images.githubusercontent.com/57156537/116603178-a34db000-a8fa-11eb-831c-f77ea8774f4f.png)
+![Bird Head](https://user-images.githubusercontent.com/57156537/116603200-a8126400-a8fa-11eb-8435-e975e444571b.png)
+![Fly Beast](https://user-images.githubusercontent.com/57156537/116603206-a9dc2780-a8fa-11eb-9937-1dd7d4ffd1e9.png)
+![Hot Head](https://user-images.githubusercontent.com/57156537/116603215-aba5eb00-a8fa-11eb-8764-b041a0a71b46.png)
+![Lava Worm](https://user-images.githubusercontent.com/57156537/116603219-ad6fae80-a8fa-11eb-8ca5-3682a41e90de.png)
+![Snow Man Nuckelavee](https://user-images.githubusercontent.com/57156537/116603223-afd20880-a8fa-11eb-8094-0cf2cf55be02.png)
+![SwordSan](https://user-images.githubusercontent.com/57156537/116603229-b19bcc00-a8fa-11eb-9c94-9bf437289c71.png)
+![Zap Bot](https://user-images.githubusercontent.com/57156537/116603237-b2ccf900-a8fa-11eb-8047-7448be7f163f.png)
+![Tetna-eyes](https://user-images.githubusercontent.com/57156537/116603241-b52f5300-a8fa-11eb-874e-c86ac048f06e.png)
+![Violet Carnavore](https://user-images.githubusercontent.com/57156537/116603244-b6608000-a8fa-11eb-9bb4-cd719a042fe4.png)
+![Cyborg Yeti](https://user-images.githubusercontent.com/57156537/116603248-b791ad00-a8fa-11eb-8d6a-2f3cb2e376f9.png)
+![BoneFisher](https://user-images.githubusercontent.com/57156537/116603254-b95b7080-a8fa-11eb-95bd-6973ddbaab53.png)
+
+
+Positives:
+- Creating digital monster assets for the game.
+- Game physics and mechanics were updated.
+- New UI art was created.
+- Continued focus on coding a balanced playstyle.
+
+Negatives:
+- Minor glitches/errors on some designs of monsters, said assets had to be redesigned.
+- Difficulty in focusing on what style of gameplay would work.
+- Some other minor team technical issues.
+
+Upcoming:
+- Continued work on additional designs, possible cutscenes or extra design elements.
+- Continued work updating coding and physics for the game.
+- Playtesting game to find any bugs or glitches. 
+- Focus on polish and overall design elements. 
 ### Week 5
 
 ### Week 6
