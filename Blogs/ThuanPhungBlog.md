@@ -39,6 +39,23 @@ Upcoming: Develop the Effect script and connect the Indicator UI script with oth
 
 ### Week 4
 
+Thuan Phung, PPJ 3
+
+Tasks:
+
+Created the Screen Shake and Object Spawn scripts
+
+  1. Screen Shake Script - 10 hours 
+  2. Object Spawn Script - 2 hours
+ 
+Total hours: 12
+
+Positive: Like last week, everything went well and everyone did their respected duties. We went through a game idea change and it is exciting.
+
+Negative: We went through a game idea change and it took a little of bit to re-orientate everyone back their task. Programmers and documentations team was hit the most for the change, but everything went back to smooth sailing after a day.  
+
+Upcoming: Develop animation spawn scripts and trailing effects on character as it moves. 
+
 ### Week 5
 
 ### Week 6
