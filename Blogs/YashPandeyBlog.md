@@ -46,8 +46,8 @@ Upcoming: Unit Movement, Unit Path Choosing (how to get from point A to point B)
 ![image](https://user-images.githubusercontent.com/39490762/115772490-2d3acd80-a37d-11eb-9a70-d568f68a69f5.png)
 
 ### Week 4
-Yash Pandey, PPJ 3
-Tashs - Hours Taken:
+Yash Pandey, PPJ 4
+Tasks - Hours Taken:
 - Highlight Hex function (along with refactoring and improving several structures)
 o 5 Hours
 - Integration of path decision between two points
