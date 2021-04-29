@@ -40,6 +40,19 @@ Tags: Design, Programming, Animation, Week 3
 
 
 ### Week 4
+Michael Dardour, PPJ 3
+
+Created the BattleController which signals the rounds for the player and enemies. Additionally altered the characters to work with the BattleController. (2h)
+
+Worked on finalizing the new Momentum System and updating the GDD. (4.5h)
+
+Total Hours: 6.5
+
+Positive: Got everyone on the same page for the general game flow and got good examples on the GDD.
+
+Negative: Need to find better times to meet about design because I sleep early.
+
+Tags: Design, Programming, Week 4
 
 ### Week 5
 
