@@ -65,6 +65,32 @@ We're hopefully getting to the point now where we can start integrating pathfind
 
 ### Week 4
 
+Kendal Mitchell, PPJ 3
+
+Tasks Done: 
+
+This week I worked with the others in setting up pathfinding and hex distance calculation. 
+
+* Refactored HexGrid generation to produce a hexagonally shaped grid
+* Setup functions for hex grid calculations and path recognition
+* Converted from our offset coordinates to axial/cube for hex calculations
+
+Just as planned, our conversion from offset coordinates to axial went smoothly, saving us a lot of time and allowing us to focus on hex coordinate math.
+
+Overall, I spent about 7 to 8 hours in development.
+
+Positive:
+
+We saw a lot of growth in creating enemy assets and even got started on UI elements. We had a great design meeting in which we got to flesh out a lot of how we wanted the game to work too.
+
+Negative: 
+
+We ran into some issues with our previous data structure utilized for storing the Hex game objects but were able to find an improvement and get things working smoothly. 
+
+Upcoming:
+
+We should be getting to focus on intensely on enemy AI and creating player abilities.
+
 ### Week 5
 
 ### Week 6
