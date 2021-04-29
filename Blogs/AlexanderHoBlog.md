@@ -50,6 +50,38 @@ Upcoming: Pass out development tasks. Start making art assets. Be more invovled 
 
 ### Week 4
 
+Alexander Ho, PPJ 3
+
+Tasks:
+
+1. Player Controller: 3 hours
+
+2. Grid Public Interface reference for team members: 3 hours
+
+3. Basic Movement: 1 hour
+
+4. Basic Damage: 1 hour
+
+5. Basic Enemy movement: 1 hour
+
+6. Indication Highlights: 3 hours
+
+7. HUD: 30 minutes
+
+8. Integrating Turns: 1 hour
+
+9. Level Generation: 30 minutes
+
+10. Team Design Meeting: 3 hours
+
+Total Hours: 17
+
+Positive: Its really good that we are able to actually get the major components and classes out of the way, because it was tricky developing this project while waiting on so many missing parts. In the end, a lot of major components were layed out and completed which is really good. Also, everyone has a very clear direction for the game now. 
+
+Negative: Had to wait for a big component to be finished so I couldn't get the time to integrate all the the components that I created while using the square grid substitute. Also,  because the team has decided to pivot to a different foundaton of the game, the current state of the demo is not as representative of the actual game loop. Hoping to get a reprsentative example by next week. 
+
+Upcoming: integrate compoonents with new hex grid class. Refine gameplay loop to reflect the team's new direction. Add visual assets to the game. 
+
 ### Week 5
 
 ### Week 6
