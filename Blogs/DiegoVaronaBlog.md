@@ -29,6 +29,7 @@ Negative: Couple issues with some people not being able to get on the Sourcetree
 
 
 Upcoming: Full development will be happening once everyone is delegated a task.
+
 ### Week 3
 
 Diego Varona, PPJ 2
@@ -55,6 +56,30 @@ Negative: Sadly, the design/document meeting had to be canceled due to an issue 
 Upcoming: Start designing levels. Start to work out game mechanics
 
 ### Week 4
+
+Diego Varona, PPJ 3
+
+Tasks Done:
+* Created Playtest Survey
+* GDD Fill In
+* SCRUM PPJ
+* PPJ
+
+Number of Hours Worked:
+About 2-3 Hours
+
+Work Samples:
+N/A
+
+
+Positive: Getting a more in-depth game mechanic can help the game have more replay value and allow for more player enjoyment
+
+
+Negative: Could cause scope problems with how deep this new mechanic is. Took a bit to learn intially. 
+
+
+Upcoming: Start level designing when dev kits go online
+
 
 ### Week 5
 
