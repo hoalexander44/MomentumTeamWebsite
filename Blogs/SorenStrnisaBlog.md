@@ -36,6 +36,20 @@ Upcoming: Pick from created UI template and finalize it in the game's art style
 
 ### Week 4
 
+Soren Strnisa PPJ 3
+Tasks:
+
+Edited the GDD to represent the new game mechanic changes
+Made UI Adjustments to match GDD changes
+4 hours of work
+
+Positive: Production members now have a full understanding of the game mechanics and the implications they have on gameplay.
+
+Negative: We wanted to make the game more strategic while also having momentum play more of a role in the gameplay. We struggled to find a balance between complexity and fun,    but ultimately we think we found a solution.
+
+Upcoming: Update the GDD to expand on how the enemies, progression, and game loop will work, and finalize the UI in the game's art style
+
+
 ### Week 5
 
 ### Week 6
