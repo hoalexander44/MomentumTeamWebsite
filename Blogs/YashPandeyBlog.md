@@ -45,9 +45,32 @@ Upcoming: Unit Movement, Unit Path Choosing (how to get from point A to point B)
 
 ![image](https://user-images.githubusercontent.com/39490762/115772490-2d3acd80-a37d-11eb-9a70-d568f68a69f5.png)
 
-
-
 ### Week 4
+Yash Pandey, PPJ 3
+Tashs - Hours Taken:
+- Highlight Hex function (along with refactoring and improving several structures)
+o 5 Hours
+- Integration of path decision between two points
+o 2 Hours
+- Creation of Mathematical Algorithms for Hex-based calculations
+o 0.5 Hours
+Total Hours: 7.5 Hours
+
+Positive: Implementation of Hex Highlighting and modifications to Hex object for better clarification and build
+
+Negative: Implementation, refactoring, and silly mistakes caused tasks to take a whole lot longer than expected. 
+
+Upcoming: 
+- Finishing of implementation of Hex movement
+- Unit (player and enemy) generation and implementation to complete Game Loop
+- Perhaps even taking a look at Map Generation to allow for a custom bias in the tiles that get used.
+
+Screenshots:
+
+
+
+
+
 
 ### Week 5
 
