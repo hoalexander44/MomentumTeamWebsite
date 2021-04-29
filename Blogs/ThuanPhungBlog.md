@@ -56,6 +56,8 @@ Negative: We went through a game idea change and it took a little of bit to re-o
 
 Upcoming: Develop animation spawn scripts and trailing effects on character as it moves. 
 
+![Shake](https://user-images.githubusercontent.com/60513032/116589828-0e8f8600-a8eb-11eb-8e6e-09a40721b5ca.gif)
+
 ### Week 5
 
 ### Week 6
