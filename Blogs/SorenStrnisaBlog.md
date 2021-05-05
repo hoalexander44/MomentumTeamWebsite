@@ -52,6 +52,19 @@ Upcoming: Update the GDD to expand on how the enemies, progression, and game loo
 
 ### Week 5
 
+Soren Strnisa PPJ 4
+Tasks:
+
+Finshed elaborating on the new game mechanic changes added in the GDD
+Sent out a survey for playtesters to complete.
+4 Hours of work
+
+Positive: We have a complete GDD and a clear gameplay loop planned out. We discussed ways to implement monitization to the game in order to support development.
+
+Negative: The programmers ran into some road blocks this week trying to impletment mulitple system into one working build, so our build is more simplistic than desired. This caused us to get less important playtesting feedback
+
+Uppcoming: Make the UI art for the game
+
 ### Week 6
 
 ### Week 7
