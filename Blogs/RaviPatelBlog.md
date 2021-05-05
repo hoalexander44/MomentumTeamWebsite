@@ -44,7 +44,15 @@ Negitives: Not able to make a "custom font" but found an alternative solution
 
 Upcoming: Start creating assets for the levels 
 ### Week 5
+Task Comleted: Finished making tiles for the game   
 
+Number of hours: 3
+
+Positives: I was able to create a tile for the environments  
+
+Negitives: Not able to make a variations for the tiles    
+
+Upcoming: Start creating assets for the levels
 ### Week 6
 
 ### Week 7
