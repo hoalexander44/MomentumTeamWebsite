@@ -67,9 +67,9 @@ Tasks:
 Created a UI element scene to be integrated into the main game. Created different scripts for the buttons in the UI.
 
   1. UI Scene - 2 hours 
-  2. Scripts - 5 hours
+  2. Scripts - 3 hours
  
-Total hours: 8
+Total hours: 5 hours
 
 Positive: Task was satisfying to me because of the work I did the past weeks can not be integrated into the main game. 
 
