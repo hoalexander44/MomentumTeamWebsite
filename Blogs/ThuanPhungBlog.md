@@ -75,6 +75,8 @@ Positive: Task was satisfying to me because of the work I did the past weeks can
 
 Negative: Confusion and waiting on the main logic of the game to be completed since I need the character to be able to function for the move/health script to be incorporated
 
+Upcoming: Finalize the UI integration 
+
 ### Week 6
 
 ### Week 7
