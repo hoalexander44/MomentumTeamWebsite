@@ -73,10 +73,33 @@ Screenshots:
 
 ![image](https://user-images.githubusercontent.com/50269613/116589718-edc73080-a8ea-11eb-83a9-fd8bdde51ef9.png)
 
-
-
-
 ### Week 5
+Yash Pandey, PPJ 4
+Tasks - Hours Taken:
+- Helped with Conical Highlight Function
+o 1 Hour
+- Helped Hex Implementation from Grid
+o 2 Hours
+- Resolved Merge Conflicts
+o 1 Hour
+- Generate algorithm for figuring out direction of momentum
+o 1 Hour
+Total Hours: 5 Hours
+
+Positive: Lots (and lots) of Pair Programming, Resolved Merge Conflict, Translated Square Grid to Hex
+
+Negative: Merge Conflicts, Realize need to clean pipeline and code, Tasks were only partially complete
+
+Upcoming: 
+- Refactor and Clean up Code
+- Implement algorithm for finding direction of momentum
+- Implement Enemy AI (while following rules of Movement)
+- Integrate different art and tile assets created (create tile bias, enemy bias, etc.)
+
+
+![image](https://user-images.githubusercontent.com/50269613/117350646-cdfbb380-ae7a-11eb-86d6-84e567c0bf9b.png)
+![image](https://user-images.githubusercontent.com/50269613/117351136-5b3f0800-ae7b-11eb-93a1-4389458d45e3.png)
+![image](https://user-images.githubusercontent.com/50269613/117351241-7873d680-ae7b-11eb-8be0-809729e8ce1b.png)
 
 ### Week 6
 
