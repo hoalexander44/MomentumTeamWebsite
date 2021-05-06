@@ -122,6 +122,35 @@ Upcoming:
 - Focus on polish and overall design elements. 
 
 ### Week 5
+Mathew Cipriano, Personal Project Journal #4:
+
+Tasks Completed:
+Animated Enemy Characters: 7 Hours.
+Total Hours: 7 
+
+Digital work (in the form of gifs):
+
+![Cyborg Yeti](https://user-images.githubusercontent.com/57156537/117354041-e40b7300-ae7e-11eb-8ae3-0bbb1bcedf5f.png)
+![Snow Man Nuckelavee](https://user-images.githubusercontent.com/57156537/117354051-e66dcd00-ae7e-11eb-862d-3504918dbf05.png)
+![Zap Bot](https://user-images.githubusercontent.com/57156537/117354069-ed94db00-ae7e-11eb-85c8-765aeb5a6ed6.png)
+
+Positives:
+ - Began Animated Character work for the enemies.
+ - Detailed tiles for the board were created, backgrounds edited.
+ - Continued work on coding the game’s mechanics & playstyle. 
+
+Negatives:
+ - Minor issues/glitches with animation. 
+ - Group still continuing the slow process of working on mechanics.
+ - Minor team technical issues with the game. 
+
+Upcoming:
+ - Continued work animating enemies, possibly finish them by next week.
+ - Group editing and finalizing mechanics for the game. 
+ - Continue design elements and art assets for the overall game experience.
+ - Keep playtesting for any overlooked bugs or glitches in the game. 
+
+
 
 ### Week 6
 
