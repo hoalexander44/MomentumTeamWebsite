@@ -44,7 +44,7 @@ Negitives: Not able to make a "custom font" but found an alternative solution
 
 Upcoming: Start creating assets for the levels 
 ### Week 5
-Task Comleted: Finished making tiles for the game   
+Task Comleted: Finished making tiles for the game, got people to playtest current build    
 
 Number of hours: 3
 
