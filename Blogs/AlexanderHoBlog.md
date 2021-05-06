@@ -86,7 +86,11 @@ Upcoming: integrate compoonents with new hex grid class. Refine gameplay loop to
 Alexander Ho PPJ 4
 
 Tasks:
-Integrate hex with components: 7 hours
+Integrate hex with components and Pair programming with developers: 7 hours
+
+This includes switching over the square grid to hex grid
+Update player controller
+Update Hex Tile interface and interactions 
 
 Total Hours: 7
 
