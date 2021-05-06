@@ -83,6 +83,30 @@ Upcoming: Start level designing when dev kits go online
 
 ### Week 5
 
+Diego Varona, PPJ 3
+
+Tasks Done:
+* Revised Playtest Survey
+* GDD Fill In
+* SCRUM PPJ
+* PPJ
+* Early Concept of Tutorial Levels
+
+Number of Hours Worked:
+About 2-3 Hours
+
+Work Samples:
+N/A
+
+
+Positive: Things are still moving along.
+
+
+Negative: Could have a bit of scope issues but I think the kinks are being worked out. 
+
+
+Upcoming: Main mechanics should be finished added soon.
+
 ### Week 6
 
 ### Week 7
