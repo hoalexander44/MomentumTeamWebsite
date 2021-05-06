@@ -83,7 +83,7 @@ Upcoming: Start level designing when dev kits go online
 
 ### Week 5
 
-Diego Varona, PPJ 3
+Diego Varona, PPJ 4
 
 Tasks Done:
 * Revised Playtest Survey
