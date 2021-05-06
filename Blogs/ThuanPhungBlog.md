@@ -74,7 +74,7 @@ Total hours: 5 hours
 Positive: Task was satisfying to me because of the work I did the past weeks can not be integrated into the main game. 
 
 Negative: Confusion and waiting on the main logic of the game to be completed since I need the character to be able to function for the move/health script to be incorporated.
-          Also, merge conflict happened this week and it was pain
+          Also, merge conflict happened this week and it was pained
 
 Upcoming: Finalize the UI integration 
 
