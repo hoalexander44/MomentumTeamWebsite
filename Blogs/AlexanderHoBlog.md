@@ -83,6 +83,18 @@ Negative: Had to wait for a big component to be finished so I couldn't get the t
 Upcoming: integrate compoonents with new hex grid class. Refine gameplay loop to reflect the team's new direction. Add visual assets to the game. 
 
 ### Week 5
+Alexander Ho PPJ 4
+
+Tasks:
+Integrate hex with components: 7 hours
+
+Total Hours: 7
+
+Positive: Pair Programming has proven to be effective.
+
+Negative: A lot of work to juggle this week, difficult to organize and distribute task to team members. 
+
+Upcoming: finish integration and finish foundation. 
 
 ### Week 6
 
