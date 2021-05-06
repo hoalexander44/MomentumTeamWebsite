@@ -55,6 +55,23 @@ Negative: Need to find better times to meet about design because I sleep early.
 Tags: Design, Programming, Week 4
 
 ### Week 5
+Michael Dardour, PPJ 4
+
+Created method to find appropriate tiles for player movement in a certain direction (3hr)
+
+Used the above method to handle player movement (2hr)
+
+Worked on GDD and updated concept (2hr)
+
+Helped art team to bring assets into Unity (30 min)
+
+Total Hours: 7.5
+
+Positives: Got a robust method of movement for the player.
+
+Negatives: Was very swamped on work.
+
+Tags: Design, Programming, Week 5
 
 ### Week 6
 
