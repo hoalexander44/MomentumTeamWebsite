@@ -93,6 +93,31 @@ We should be getting to focus on intensely on enemy AI and creating player abili
 
 ### Week 5
 
+Kendal Mitchell, PPJ 4
+
+Tasks Done: 
+
+This week I worked with the others in integrating our new hexmap with our player, enemy, and game controllers. 
+
+* Constructed HexMap and refined coordinate system 
+* Adjusted LevelGeneration script for a HexMap
+* Pair programmed with other team members to translate HexBattleController and movement scripts to utilize cubic coordinates
+
+
+Overall, I spent about 8 hours in development.
+
+Positive:
+
+Implementation of UI, hexgrid, and player movement together.  
+
+Negative: 
+
+We ran into setbacks getting highlighting and the momentum movement components working but were ultimately able to get it implemented. 
+
+Upcoming:
+
+Refactoring codebase for organization and brevity. Implementing EnemyAI and hex/enemy variants.
+
 ### Week 6
 
 ### Week 7
