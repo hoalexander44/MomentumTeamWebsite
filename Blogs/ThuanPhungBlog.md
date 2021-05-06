@@ -60,6 +60,21 @@ Upcoming: Develop animation spawn scripts and trailing effects on character as i
 
 ### Week 5
 
+Thuan Phung, PPJ 4
+
+Tasks:
+
+Created a UI element scene to be integrated into the main game. Created different scripts for the buttons in the UI.
+
+  1. UI Scene - 5 hours 
+  2. Scripts - 5 hours
+ 
+Total hours: 10
+
+Positive: Task was satisfying to me because of the work I did the past weeks can not be integrated into the main game. 
+
+Negative: Confusion and waiting on the main logic of the game to be completed since I need the character to be able to function for the move/health script to be incorporated
+
 ### Week 6
 
 ### Week 7
