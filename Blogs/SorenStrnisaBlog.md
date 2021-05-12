@@ -63,9 +63,22 @@ Positive: We have a complete GDD and a clear gameplay loop planned out. We discu
 
 Negative: The programmers ran into some road blocks this week trying to impletment mulitple system into one working build, so our build is more simplistic than desired. This caused us to get less important playtesting feedback
 
-Uppcoming: Make the UI art for the game
+Uppcoming: Design levels for the game
 
 ### Week 6
+
+Soren Strnisa PPJ 4
+Tasks:
+
+Designed multiple levels to test for implementation
+Sketched out ideas for the look of the ui and menus
+4 Hours of work
+
+Positive: Me and Diego made multiple levels that test and play with the main momentum mechanic and force the player to plan their movements ahead.
+
+Negative: Everything ran smoothly this week.
+
+Uppcoming: Make the UI art for the game
 
 ### Week 7
 
