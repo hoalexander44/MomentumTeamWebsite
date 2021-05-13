@@ -62,7 +62,7 @@ Positives: Able to make the animation look in the same artstyle as the main char
 
 Negitives: Drawing tablet broke and forced to use mouse to draw     
 
-Upcoming: Start creating assets for the levels
+Upcoming: hopefully finish the remaing tiles 
 ### Week 7
 
 ### Week 8
