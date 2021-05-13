@@ -80,6 +80,21 @@ Upcoming: Finalize the UI integration
 
 ### Week 6
 
+Thuan Phung PPJ 5
+
+Tasks:
+
+Item On-Click - 5
+Ability UI Slots - 5
+
+Total hours: 10
+
+Postive: I was able to learn the code of the Hex and Playerbase script because I needed to know it to change the value of health and momentum
+
+Negaitve: I was stuck most of my time learning the Hex and Playerbase scripts. I then went on to code the Ability UI slots, but there is this one error that is messing me up and I still haven't figure out why. 
+
+Upcoming: Implementation of the first ability and finish up the ability UI slots
+
 ### Week 7
 
 ### Week 8
