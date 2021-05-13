@@ -120,6 +120,25 @@ Refactoring codebase for organization and brevity. Implementing EnemyAI and hex/
 
 ### Week 6
 
+This week, my time was spent with changing our process for generating visuals on the map.
+
+* Refactoring HexGrid Map Visual HexPrefab Placement
+* Utilizing Unity's Scriptable Objects for HexSettings
+* Setting up a LevelCreator for the designers
+
+Overall, I spent about 7 hours in development.
+
+Positive:
+Unity's Scriptable Object system was very easy to work with and the process of adding the objects onto our current Hexes is going smoothly.
+
+Negative:
+I did have to spend some time learning how to use the Scriptable Object system and had to spend additional time refactoring our older code.
+
+Upcoming:
+Fleshing out other hex variants and finishing ingame background music and a main menu theme.
+
+
+
 ### Week 7
 
 ### Week 8
