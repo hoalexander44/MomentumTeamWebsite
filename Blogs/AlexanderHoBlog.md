@@ -101,7 +101,22 @@ Negative: A lot of work to juggle this week, difficult to organize and distribut
 Upcoming: finish integration and finish foundation. 
 
 ### Week 6
+Alexander Ho PPJ 5
 
+Tasks:
+New Main character art: 7 
+Integrate art and animations: 5
+Integrate New Hexes: 30 minutes
+Integrate enemy player interaction: 5
+
+
+Total Hours: 17 hours 30 minutes
+
+Positive: The game has a good look and feel. People  updated me on if they couldn't get their work done early so we can pivot accordingly for the alpha build. 
+
+Negative: The complexity has been confusing for players and we need to tighten up the system and add some sort of instruction or tutorial to guide the player. The mechanic isn't as intuitive.
+
+Upcoming: Add instructions and tutorial for the game. Fix the bugs. Add abilities. Add monster art, tile art, more character animations, and background. 
 ### Week 7
 
 ### Week 8
