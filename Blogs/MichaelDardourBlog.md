@@ -74,6 +74,25 @@ Negatives: Was very swamped on work.
 Tags: Design, Programming, Week 5
 
 ### Week 6
+Michael Dardour, PPJ 5
+
+Made methods to determine which way is forward, left, and right of the players current direction on a hex (.5hr)
+
+Created appropriate movement cones & momentum logic for momentums 1 and 2. (2hr)
+
+Attached logic for changing of direction dependant on certain tiles (2.5hr)
+
+Implemented Sliding mechanic for after the players turn ends (1hr)
+
+Remade the HexClicker script to be more readable and add various useful functions for the future. (1hr)
+
+Total Hours: 7
+
+Positives: Redid some old code to make things easier for the future
+
+Negatives: None really, things were pretty smooth id say
+
+Tags, Programming, Week 6
 
 ### Week 7
 
