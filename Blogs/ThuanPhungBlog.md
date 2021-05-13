@@ -84,8 +84,8 @@ Thuan Phung PPJ 5
 
 Tasks:
 
-Item On-Click - 5
-Ability UI Slots - 5
+1. Item On-Click - 5
+2. Ability UI Slots - 5
 
 Total hours: 10
 
