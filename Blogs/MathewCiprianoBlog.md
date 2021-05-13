@@ -153,6 +153,38 @@ Upcoming:
 
 
 ### Week 6
+Mathew Cipriano, Personal Project Journal #5
+Tasks Completed:
+Animated additional monsters: 12.5 Hours.
+Re-animated existing enemies: 2 Hours.
+Created a new map: 2 Hours.
+Total Hours: 15.5 Hours
+Positives:
+● Additional and new animations for enemies.
+● Created an additional map for the game.
+● New effects created for the game.
+● A new sprite was designed for the main character.
+● Improvements towards coding & mechanics.
+Negatives:
+● Minor glitches for animations & had to re-animate some enemies.
+● Unable to finish animating all enemies.
+● Some glitches on the coding side of things, minor bugs.
+● Slow process of designing games overall.
+Upcoming:
+● Finish animating enemies.
+● Continue to design art assets or possible scenes.
+● Improve coding and mechanics for the game in order to finish by a set deadline.
+● Make sure all designs and effects are implemented.
+● Need music for the game.
+● Continue overall development for Momentum.
+
+![image](https://user-images.githubusercontent.com/39490762/118175582-4bd13900-b3fe-11eb-8034-9f708f1ecfa6.png)
+![image](https://user-images.githubusercontent.com/39490762/118175589-4ecc2980-b3fe-11eb-87cd-aa9ab5d1a4b4.png)
+![image](https://user-images.githubusercontent.com/39490762/118175602-51c71a00-b3fe-11eb-881f-07201d5a47c2.png)
+![image](https://user-images.githubusercontent.com/39490762/118175610-54c20a80-b3fe-11eb-8b5a-6fa2a7f6c0e1.png)
+![image](https://user-images.githubusercontent.com/39490762/118175620-57bcfb00-b3fe-11eb-92ad-4fab1a67db6d.png)
+![image](https://user-images.githubusercontent.com/39490762/118175625-5b508200-b3fe-11eb-98f1-d1e149383552.png)
+![image](https://user-images.githubusercontent.com/39490762/118175631-5d1a4580-b3fe-11eb-8aab-d7205e4b5e15.png)
 
 ### Week 7
 
