@@ -120,6 +120,8 @@ Refactoring codebase for organization and brevity. Implementing EnemyAI and hex/
 
 ### Week 6
 
+Kendal Mitchell, PPJ 5
+
 This week, my time was spent with changing our process for generating visuals on the map.
 
 * Refactoring HexGrid Map Visual HexPrefab Placement
