@@ -109,6 +109,28 @@ Upcoming: Main mechanics should be finished added soon.
 
 ### Week 6
 
+Diego Varona, PPJ 5
+
+Tasks Done:
+* Created Tutorial Level w/ Soren
+* Created visuals for Tutorial Level explainations
+* SCRUM PPJ
+* PPJ
+
+Number of Hours Worked:
+About 2-3 Hours
+
+Work Samples:
+N/A
+
+Positive: The game finally feels to be getting traction and the vision of the game seems to be coming together.
+
+
+Negative: Getting the final game mechanics in may be cutting it close to the end goal.
+
+
+Upcoming: Final mechanics and new level concepts to be implemented.
+
 ### Week 7
 
 ### Week 8

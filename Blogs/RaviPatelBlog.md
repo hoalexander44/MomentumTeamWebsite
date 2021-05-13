@@ -54,7 +54,15 @@ Negitives: Not able to make a variations for the tiles
 
 Upcoming: Start creating assets for the levels
 ### Week 6
+Task Comleted: Made a Damage effect for when the enemy is hit by player    
 
+Number of hours: 3
+
+Positives: Able to make the animation look in the same artstyle as the main character   
+
+Negitives: Drawing tablet broke and forced to use mouse to draw     
+
+Upcoming: hopefully finish the remaing tiles 
 ### Week 7
 
 ### Week 8
