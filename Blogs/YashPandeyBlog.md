@@ -103,6 +103,28 @@ Upcoming:
 
 ### Week 6
 
+Yash Pandey, PPJ 6
+Tasks - Hours Taken:
+- Create Algorithm for Hex Grid Graph Generation
+o 7 Hour
+- Implement Dijkstra's Algorithm to return list of tiles to traverse to get from point A to point B
+o 3 Hours
+
+Total Hours: 10 Hours
+
+Positive: Robust and thoughtful implementation of Graph, Dijkstra's, and integration
+
+Negative: Graph Implementation Edge cases took time because of tedious edge case errors
+
+Upcoming: 
+- Refactor and Clean up Code
+- Finish Enemy AI implementation
+
+![image](https://user-images.githubusercontent.com/50269613/118175899-b2eeed80-b3fe-11eb-8c13-b774f8e5654b.png)
+
+![image](https://user-images.githubusercontent.com/50269613/118175923-bda98280-b3fe-11eb-8953-78d7b1a3dd9b.png)
+
+
 ### Week 7
 
 ### Week 8
