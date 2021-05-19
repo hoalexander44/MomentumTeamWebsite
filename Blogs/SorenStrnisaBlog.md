@@ -63,7 +63,7 @@ Positive: We have a complete GDD and a clear gameplay loop planned out. We discu
 
 Negative: The programmers ran into some road blocks this week trying to impletment mulitple system into one working build, so our build is more simplistic than desired. This caused us to get less important playtesting feedback
 
-Uppcoming: Design levels for the game
+Upcoming: Design levels for the game
 
 ### Week 6
 
@@ -78,9 +78,18 @@ Positive: Me and Diego made multiple levels that test and play with the main mom
 
 Negative: Everything ran smoothly this week.
 
-Uppcoming: Make the UI art for the game
+Upcoming: Make the UI art for the game
 
 ### Week 7
+
+Created tutorial screens with Diego
+
+Updated GDD
+3 Hours of work
+
+Positive: Me and Diego have been able to critically think about how to explain the game's mechanics.
+Negative: It took a while to distance ourselves from the role of game design to approach our problems from the perspective of a viewer.
+Upcoming: Make the UI art for the game
 
 ### Week 8
 
