@@ -67,7 +67,7 @@ Upcoming: Design levels for the game
 
 ### Week 6
 
-Soren Strnisa PPJ 4
+Soren Strnisa PPJ 5
 Tasks:
 
 Designed multiple levels to test for implementation
@@ -82,8 +82,11 @@ Upcoming: Make the UI art for the game
 
 ### Week 7
 
-Created tutorial screens with Diego
+Soren Strnisa PPJ 6
 
+Tasks:
+Created tutorial screens with Diego
+Updated Sell presentation and created new diagrams
 Updated GDD
 3 Hours of work
 
