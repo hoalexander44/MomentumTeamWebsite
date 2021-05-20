@@ -97,7 +97,7 @@ Upcoming: Implementation of the first ability and finish up the ability UI slots
 
 ### Week 7
 
-Thuan Phung PPJ 5
+Thuan Phung PPJ 6
 
 Tasks:
 
