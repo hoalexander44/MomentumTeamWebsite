@@ -139,9 +139,27 @@ I did have to spend some time learning how to use the Scriptable Object system a
 Upcoming:
 Fleshing out other hex variants and finishing ingame background music and a main menu theme.
 
-
-
 ### Week 7
+
+Kendal Mitchell, PPJ 6
+
+This week, my time was split between creating new types of status effect hexes and creating music for the game. 
+
+* Setup a function to edit and create and assign a Hex's settings on our map.
+* Created several types of hexes for the player to interact with.
+* Produced several theme loops for our Main Menu and Battle Themes.
+
+Overall, I spent five hours programming and three hours making music.
+
+Positive:
+I ended up finishing music in time for our first trailer and the new Hex variants added more depth to our gameplay loop. It's been fascinating seeing all the different components of our game come together. We're finally getting our art assets integrated in too.
+
+Negative:
+I didn't have time to make positioning hex variants on the map accessible in a non-programmatic way. Getting to finish this would help our designers to finish levels more quickly.
+
+Upcoming:
+In addition to creating more music and SFX, I need to work on creating a frontend editor for assigning different Hexes at certain positions.
+
 
 ### Week 8
 
