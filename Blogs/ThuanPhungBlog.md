@@ -97,6 +97,23 @@ Upcoming: Implementation of the first ability and finish up the ability UI slots
 
 ### Week 7
 
+Thuan Phung PPJ 5
+
+Tasks:
+
+1. Zoom - 5 hours 
+2. Player Tracking - 2 hours
+
+Total hours: 7 hours
+
+Postive: Created the much needed camera zoom and player tracking for camera. 
+
+Negaitve: Did not really progress much in the UI buttons on my end since I was a bit on the busier side to prepare for graduation and finals. 
+
+Upcoming: Implementation of other UI and quality of life stuffs.
+
+![ezgif-4-423c09428004](https://user-images.githubusercontent.com/60513032/119022774-f9989680-b96e-11eb-8109-6d4e6aa63657.gif)
+
 ### Week 8
 
 ### Week 9
