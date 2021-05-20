@@ -119,6 +119,27 @@ Negative: The complexity has been confusing for players and we need to tighten u
 Upcoming: Add instructions and tutorial for the game. Fix the bugs. Add abilities. Add monster art, tile art, more character animations, and background. 
 ### Week 7
 
+Alexander Ho PPJ 5
+
+Tasks:
+Added new lighting render pipeline/added lighting effects: 4
+Created new background/obstacle art assets: 4
+Integrated the UI art assets: 2
+Added monster sprite and animations: 2
+
+
+Total Hours: 12 hours
+
+Positive: I'm very excited for these lighting effects. They should add a signifigant visual impact to the game. There are lot of creative ways to use it as well. 
+
+Negative: A lot of members weren't able to get their tasks down this week. I should ask members for updates more often rather than waiting until the end of the week to ask for a progress report. Also there are a lot of bugs with the game. 
+
+Upcoming: Tune up the lighting/visuals as well as do a ton of bug fixing. 
+
+![image](https://user-images.githubusercontent.com/39490762/118949606-68520180-b927-11eb-9e9f-72c510e86973.png)
+![image](https://user-images.githubusercontent.com/39490762/118949649-73a52d00-b927-11eb-9361-c199d112d666.png)
+
+
 ### Week 8
 
 ### Week 9
