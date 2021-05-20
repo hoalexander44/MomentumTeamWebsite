@@ -127,6 +127,34 @@ Upcoming:
 
 ### Week 7
 
+##Yash Pandey, PPJ 7
+Tasks - Hours Taken:
+- Implement Dijkstra's GraphSearch 
+o 2.5 Hours  
+
+- Debug graph creation (memory references) (Unity doesn’t like me debugging self-referential structures </3) 
+o 6 Hours  
+
+- Clean up and reformat functions for robustness, clarity, and better functionality 
+o 2 hours  
+
+
+Total Hours: 10.5 Hours
+
+Positive: Correct major issues with graph creation (offsets, co-ord patterns)
+
+Negative: Graph Implementation Edge cases took time because of tedious edge case errors
+
+Upcoming: 
+- Finish Enemy AI implementation
+- Figure out why `graph[q,r,s].Neighbours.add(graphh[q, r+1, s-1])` doesn't work
+
+
+![image](https://user-images.githubusercontent.com/50269613/119035513-a548e300-b97d-11eb-959e-f95f48118e06.png)
+![image](https://user-images.githubusercontent.com/50269613/119035612-c01b5780-b97d-11eb-8121-588910cef5e0.png)
+
+
+
 ### Week 8
 
 ### Week 9
