@@ -133,6 +133,29 @@ Upcoming: Final mechanics and new level concepts to be implemented.
 
 ### Week 7
 
+Diego Varona, PPJ 5
+
+Tasks Done:
+* Formulated the instruction descriptions with Soren
+* Created instruction visuals
+* Created trailer video
+* SCRUM PPJ
+* PPJ
+
+Number of Hours Worked:
+About 7 Hours
+
+Work Samples:
+N/A
+
+Positive: The visuals are really getting to their final form.
+
+
+Negative: Starting to get to the end of the term
+
+
+Upcoming: More art to be implemented and features to implemented
+
 ### Week 8
 
 ### Week 9
