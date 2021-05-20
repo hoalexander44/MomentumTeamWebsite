@@ -18,5 +18,7 @@ Momentum is a puzzle-strategy game where movement is the player’s greatest wea
 
 [Week 7 small Demo](./DEMO/Week7Part3/index.html)
 
+[Week 8 Demo](./DEMO/Week8/index.html)
+
 ## Keep up with our developers as we develop Momentum
 [Personal Production Journals](./Blogs/Blogs.html)
