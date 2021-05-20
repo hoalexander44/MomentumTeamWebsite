@@ -64,7 +64,15 @@ Negitives: Drawing tablet broke and forced to use mouse to draw
 
 Upcoming: hopefully finish the remaing tiles 
 ### Week 7
+Task Comleted: Made UI visuals for the game    
 
+Number of hours: 3
+
+Positives: The game almost has full UI visuals now than prototype place holders  
+
+Negitives: Couldn't finish item art 
+
+Upcoming: Finish the item art to have a complete look to the UI 
 ### Week 8
 
 ### Week 9
