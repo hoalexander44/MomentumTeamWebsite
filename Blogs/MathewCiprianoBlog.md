@@ -187,6 +187,38 @@ Upcoming:
 ![image](https://user-images.githubusercontent.com/39490762/118175631-5d1a4580-b3fe-11eb-8aab-d7205e4b5e15.png)
 
 ### Week 7
+Mathew Cipriano, Personal Project Journal #6
+Tasks Completed:
+Animated last four characters: 8 Hours.
+Created art assets that include objects and titles: 6 Hours.
+Reanimated creatures to include hit animation: 1 Hour.
+Total Hours: 15 Hours.
+Positives:
+● New Animations for creatures.
+● Finished Animations for creatures.
+● Applied new designs to the art.
+● Created a trailer for the gameplay.
+● Further developed the mechanics of the game.
+● Fixed any bugs or issues for the game.
+Negatives:
+● Ran into a minor glitch that caused me to lose some designs and as a result had to
+redesign some of the assets.
+● Large portions of the project were needed for completion this week and we generally
+were quite busy.
+Upcoming:
+● Continue designing additional assets for the game.
+● Continue to fix any bugs or issues with the game.
+● Keep working to create music for levels and menus.
+● Possibly create cutscenes for the game.
+● Create any additional assets/designs for the game.
+● Continue overall work on the game.
+
+
+![image](https://user-images.githubusercontent.com/39490762/119036916-556b1b80-b97f-11eb-8366-a7476d355ae9.png)
+![image](https://user-images.githubusercontent.com/39490762/119036925-58660c00-b97f-11eb-93d7-2af2afa316fa.png)
+![image](https://user-images.githubusercontent.com/39490762/119036930-5b60fc80-b97f-11eb-9a69-c4dca5032f7b.png)
+![image](https://user-images.githubusercontent.com/39490762/119036942-5dc35680-b97f-11eb-9146-5fcec405caa7.png)
+
 
 ### Week 8
 
