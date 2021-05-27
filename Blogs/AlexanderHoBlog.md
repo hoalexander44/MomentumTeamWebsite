@@ -119,7 +119,7 @@ Negative: The complexity has been confusing for players and we need to tighten u
 Upcoming: Add instructions and tutorial for the game. Fix the bugs. Add abilities. Add monster art, tile art, more character animations, and background. 
 ### Week 7
 
-Alexander Ho PPJ 5
+Alexander Ho PPJ 6
 
 Tasks:
 Added new lighting render pipeline/added lighting effects: 4
@@ -141,6 +141,23 @@ Upcoming: Tune up the lighting/visuals as well as do a ton of bug fixing.
 
 
 ### Week 8
+
+Alexander Ho PPJ 7
+
+Highlight predicted tiles: 8 hours
+Tutorial Slides: 2 hours
+
+Total hours: 10 hours
+
+Positive: players according to the playtest, are finally able to have a better understanding of the mechanics of the game. Everyone was able to get their tasks in. 
+
+Negative: there are a lot of bugs that we need to fix. The reception to our game during playtesting is subpar.
+
+Upcoming: Intense bug fixing and polishing. Get the abilitites tutorials in. 
+
+![image](https://user-images.githubusercontent.com/39490762/119880953-c4ee8700-befa-11eb-81f1-e12220709024.png)
+![image](https://user-images.githubusercontent.com/39490762/119880985-cae46800-befa-11eb-88fa-6d0e1402bf6b.png)
+
 
 ### Week 9
 
