@@ -74,6 +74,15 @@ Negitives: Couldn't finish item art
 
 Upcoming: Finish the item art to have a complete look to the UI 
 ### Week 8
+Task Comleted: Found fonts for the game, also playtewsting 
+
+Number of hours: 2
+
+Positives: The game was at a good place in terms of art assets so I focused on finding fonts for the game, I found some that were free to use by anyone online 
+
+Negitives: Couldn't make a custom font exclusivly for our game 
+
+Upcoming: Add any art assets that we could squeeze in for the end 
 
 ### Week 9
 
