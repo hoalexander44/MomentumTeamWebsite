@@ -115,6 +115,21 @@ Upcoming: Implementation of other UI and quality of life stuffs.
 ![ezgif-4-423c09428004](https://user-images.githubusercontent.com/60513032/119022774-f9989680-b96e-11eb-8109-6d4e6aa63657.gif)
 
 ### Week 8
+Thuan Phung PPJ 7
+
+Tasks:
+
+1. Show damage number pass 9 - 8 hours 
+2. Show indication for monster half hp - 5 hours
+3. Worked on fixing animation bug for damage number 5 hours 
+
+Total hours: 18 hours
+
+Postive: The game turning out great and everyone is putting in work as needed
+
+Negaitve: There were some bugs and I was not able to figure out an animation bug during the time I worked on it. Also, a thunder storm took out my power and I was out of comissioned for a couple of hours
+
+Upcoming: Maybe some bugs fixes and finish up the game 
 
 ### Week 9
 
