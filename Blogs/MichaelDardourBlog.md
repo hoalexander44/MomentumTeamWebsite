@@ -96,7 +96,41 @@ Tags, Programming, Week 6
 
 ### Week 7
 
+Michael Dardour, PPJ 6
+
+Updated method in which player damages enemy (3h)
+
+Created appropriate framework to house future abilities (1hr)
+
+Various small updates to other code while implementing new methods/changes (0.5h)
+
+Began but did not finish a method for Bounce (2hr)
+
+Total Hours: 6.5
+
+Positives: Made a lot of headway in getting Abilities to be easily created for the future
+
+Negatives: Found some bugs that I havent gotten the chance to squish since I've been working
+
 ### Week 8
+
+Michael Dardour, PPJ 7
+
+Created proper Bounce Ability (As well as framework for abilities with targeting hex) (4hr)
+
+Created Boost Ability (As well as framework for ability that fires outside of your turn) (.5h)
+
+Created Whirlwind Blade Ability (Simplest ability targets and attacks all enemies around player) (.5h)
+
+Gained a better understanding for how best to target tiles and implemented methods to do so (1hr)
+
+Total Hours: 6
+
+Positives: Abilities are now extremely easy to make and change now that the framework is in place
+
+Negatives: Bounce Ability still needs tweaking
+
+Tags: Programming
 
 ### Week 9
 
