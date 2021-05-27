@@ -158,6 +158,28 @@ Upcoming: More art to be implemented and features to implemented
 
 ### Week 8
 
+Diego Varona, PPJ 6
+
+Tasks Done:
+* Re-made the tutorial slides
+* Captured GIFs
+* Reformated Sell Presentation
+* PPJ
+
+Number of Hours Worked:
+About 5 Hours
+
+Work Samples:
+N/A
+
+Positive: The game's mechanics are almost done being implemented
+
+
+Negative: Buttons and UI need polish
+
+
+Upcoming: LAST WEEK, POLISHHHH
+
 ### Week 9
 
 ### Week 10
