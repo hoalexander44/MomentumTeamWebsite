@@ -244,6 +244,56 @@ Upcoming:
 
 ### Week 8
 
+Mathew Cipriano, Personal Project Journal #7
+
+Tasks Completed:
+
+Reanimated/made edits to the enemies, also did some minor reorganization: 2 Hours.
+
+Created Forest scene assets for the background: 4 Hours.
+
+Developed a visual version of the ‘Dr. Grey’ Character: 2 Hours.
+
+Total Hours: 8 Hours.
+
+Positives:
+
+● New character designs.
+
+● New background assets were created.
+
+● Fixing bugs and glitches in the game.
+
+● Game is nearing completion..
+
+Negatives:
+
+● Additional glitches for the game need to be fixed.
+
+● Some of our group’s assets were lost and had to be redone.
+
+● Some of the asset’s files had to be reorganized and fixed due to issues in programming
+them.
+
+Upcoming:
+
+● Finish any last minute designs to incorporate into the game.
+
+● Finish all the coding by next week.
+
+● Have the final deliverable game pitch by next week.
+
+● Complete the game.
+
+![image](https://user-images.githubusercontent.com/39490762/119881419-46deb000-befb-11eb-9565-7eefdd5962b3.png)
+![image](https://user-images.githubusercontent.com/39490762/119881431-49d9a080-befb-11eb-9b24-1e91ed956f36.png)
+![image](https://user-images.githubusercontent.com/39490762/119881446-4d6d2780-befb-11eb-80d5-9519e7398c06.png)
+![image](https://user-images.githubusercontent.com/39490762/119881467-51994500-befb-11eb-9fb6-7c02cae7e976.png)
+![image](https://user-images.githubusercontent.com/39490762/119881483-565df900-befb-11eb-87db-873280277d6c.png)
+![image](https://user-images.githubusercontent.com/39490762/119881501-58c05300-befb-11eb-8fa1-62b1cb6d011f.png)
+
+
+
 ### Week 9
 
 ### Week 10
