@@ -163,6 +163,23 @@ In addition to creating more music and SFX, I need to work on creating a fronten
 
 ### Week 8
 
+Kendal Mitchell, PPJ 7
+
+This week, in addition to continuing work on music/SFX, I created a frontend level editor and pair programmed on our EnemyAI.
+
+* Setup a frontend level editor for place varying hex types and boundary hexes.
+* Pair Programmed on Enemy AI with Yash
+* Started making background tracks with heightened tempos 
+
+Overall, I spent about 7 hours in development.
+
+Positive:
+I was able to get a level editor setup for our designers, make more music, and help debug enemy AI.
+Negative:
+Ran into an issue where many of our materials begun linking to materials that were pink. It ended up being an issue resulting from us not starting our project with a "Universal Project Template". I got this fixed, but it did take up some time.
+Upcoming:
+I'll be working on finalizing music/SFX and completing work on our enemy AI ability and logic variations.
+
 ### Week 9
 
 ### Week 10
