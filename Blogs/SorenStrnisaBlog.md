@@ -47,7 +47,7 @@ Positive: Production members now have a full understanding of the game mechanics
 
 Negative: We wanted to make the game more strategic while also having momentum play more of a role in the gameplay. We struggled to find a balance between complexity and fun,    but ultimately we think we found a solution.
 
-Upcoming: Update the GDD to expand on how the enemies, progression, and game loop will work, and finalize the UI in the game's art style
+Upcoming: Update the GDD to expand on how the enemies, progression, and game loop will work.
 
 
 ### Week 5
@@ -78,7 +78,7 @@ Positive: Me and Diego made multiple levels that test and play with the main mom
 
 Negative: Everything ran smoothly this week.
 
-Upcoming: Make the UI art for the game
+Upcoming: Design tutorial levels and the directions page.
 
 ### Week 7
 
@@ -95,6 +95,18 @@ Negative: It took a while to distance ourselves from the role of game design to 
 Upcoming: Make the UI art for the game
 
 ### Week 8
+
+Soren Strnisa PPJ 6
+
+Tasks:
+Updated the sell presentation text and visuals with Diego to improve based on last week's critique.
+Updated survey and collected survey data.
+Updated GDD
+4 Hours of work
+
+Positive: Me and Diego believe we updated the presentation to better reflect the speed, strategy, and fun of the game.
+Negative: Player's from the survey seemed to struggle more in this build to understand how the game works.
+Upcoming: Add the tutorial levels and directions page to the game.
 
 ### Week 9
 
