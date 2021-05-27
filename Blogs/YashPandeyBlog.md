@@ -156,6 +156,26 @@ Upcoming:
 
 
 ### Week 8
+##Yash Pandey, PPJ 8
+Tasks - Hours Taken:
+- Finish Pathfinding
+o 3 Hours  
+
+- Integration
+o 5 Hours  
+Total Hours: 8 Hours
+
+Positive: Updated pathfinding to path around obstacles (set distance to occupied nodes as infinity)
+
+Negative: Integration of pathfinding was 
+
+Upcoming: 
+- Finish Enemy AI integration
+- Create different attack sequence behaviour for enemy behaviour variety 
+
+
+![image](https://user-images.githubusercontent.com/50269613/119882521-81951800-befc-11eb-8708-c77ad96a461d.png)
+![image](https://user-images.githubusercontent.com/50269613/119882554-8c4fad00-befc-11eb-9ba4-4e78bd0f314e.png)
 
 ### Week 9
 
