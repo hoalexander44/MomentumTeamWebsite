@@ -184,6 +184,25 @@ I'll be working on finalizing music/SFX and completing work on our enemy AI abil
 
 ### Week 9
 
+Kendal Mitchell, PPJ 8
+
+This week, I setup a Tooltip System and added Dynamic Audio.
+
+* Setup a system to have tooltips pop up over UI elements when highlight.
+* In-game audio will now correspond to the player's built up momentum, increasing and decreasing in pitch.
+* Continuing working on tracks for our other levels.
+
+Overall, I spent about 5 hours in development.
+
+Positive:
+The tooltip system was fully implemented and the dynamic audio work went smoothly.
+
+Negative:
+There was still some trouble getting the EnemyAI fully integrated.
+
+Upcoming:
+I'll be working on creating more music for an updated trailer and tutorial levels for our game.
+
 ### Week 10
 
 [back](Blogs.html)
