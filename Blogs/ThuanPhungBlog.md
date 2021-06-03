@@ -133,6 +133,39 @@ Upcoming: Maybe some bugs fixes and finish up the game
 
 ### Week 9
 
+Thuan Phung PPJ 8
+
+Tasks: 
+
+1. Researching on how to implement a better looking promotional website for the team
+
+total hours: 5 hours
+
+Postive: The website was able to be created
+
+Negative: Lack of communications between the team caused most of my research into the website was not used since a website was already created before I can implement my idea
+of the promotional website.
+
+Upcoming: Polishing up the game and documentation 
+
 ### Week 10
+
+Postmortem
+
+Positive: 
+1. A lot of us know beforehand on what tasks to do and choose specialization for the game to be completed
+2. A good leader, Alex Ho, make it or break it in a group like this. Alex step up a lot in this project such as delegating tasks and keeping people in check with their work. It 
+   had everything a lot easier and able to deliver deliverables on time.
+3. Overall mood of everyone on the project. The postive moral and eagerness to bring the game to life promotes a good environment for everyone to work in. No one was negative
+   and the happy mood of the group. 
+
+Negative: 
+1. The communication was a bit lacking in the beginning, but that is to be expected. Although, communication started to fall off as the time goes on.
+2. For developers, the version control was pretty bad and it should be sorted out in the very beginning to speed up production.
+3. Level designs should be key in mid production of the game, but since we are new as a group, level design was pushed to near the end and it can create an overrall better game
+   if address sooner.
+   
+  Overrall the team did well, really well, but somethings should be address in the beginning such as communication and potential version control fixes. Although, most of these 
+  complications can be fixed with just better communicaton. Like talking on your current progress and what expect to be done by what time. 
 
 [back](Blogs.html)
