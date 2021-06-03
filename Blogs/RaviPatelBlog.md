@@ -85,7 +85,15 @@ Negitives: Couldn't make a custom font exclusivly for our game
 Upcoming: Add any art assets that we could squeeze in for the end 
 
 ### Week 9
+Task Comleted: added more ui and new lab tiles to the game  
 
+Number of hours: 2
+
+Positives: Added in some new ui buttons such as a play and pause button and also a custom cursor  
+
+Negitives: nothing got eerything i wanted done 
+
+Upcoming: add in anything before the final 
 ### Week 10
 
 [back](Blogs.html)
