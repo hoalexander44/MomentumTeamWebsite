@@ -96,7 +96,7 @@ Upcoming: Make the UI art for the game
 
 ### Week 8
 
-Soren Strnisa PPJ 6
+Soren Strnisa PPJ 7
 
 Tasks:
 Updated the sell presentation text and visuals with Diego to improve based on last week's critique.
@@ -108,8 +108,21 @@ Positive: Me and Diego believe we updated the presentation to better reflect the
 Negative: Player's from the survey seemed to struggle more in this build to understand how the game works.
 Upcoming: Add the tutorial levels and directions page to the game.
 
-### Week 9
+### Week 9 & 10
 
-### Week 10
+Soren Strnisa PPJ 8
+
+Tasks:
+Updated the sell presentation text and visuals with Diego to improve based on last presentation's critique.
+Evalued all previous survey data.
+Updated GDD
+4 Hours of work
+
+Positive: Me and Diego feel like the presentation flows much better and more closely to a story-like structure, making it more engaging to view.
+Negative: While reviewing the survey's we found that
+
+### Postmortem
+
+Through my time working on Momentum, I spent many hours designing game mechanics to balance out the strategy and fun of the game, along with helping out greatly with documentation, and any other miscallaneous tasks Alex and the rest of my group needed help with. At  the early stages of the game's development, our team was torn on what direction our game mechanics should go in. We had the idea to make the game about fast gameplay requiring only quick swipes and a trial and error way of learning. We however decided that it would be better if we tried to add more strategy and complexity to maintain a player's interest for longer and make our game stand out a little more. I focused on working mainly with Michael and Diego to figure out how every facet of the game play would work along with finding a really satisfying gameplay loop. After our team had a solid understanding of what our game was to become and the documentaion to reference, I mainly worked on putting together the weekly submissions, to allow the programmers and artists to fully devote themselves into their work. I'm not great at digital art and I'm not a programmer so all else I could offer was to give advice when necessary. I have a great interest and experience in 3D modeling, texturing, and creating visual effects in unity, so my only regret is that I wasn't able to apply these skills since our project used 2d assets and animations.
 
 [back](Blogs.html)
