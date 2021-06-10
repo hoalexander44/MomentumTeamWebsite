@@ -204,6 +204,14 @@ Upcoming:
 I'll be working on creating more music for an updated trailer and tutorial levels for our game.
 
 ### Week 10
+Postmortem:
+
+Throughout development, I found that our communication went very well. Everyone on the team was very responsive and vocal in regards to their tasks and what they needed from each other. Additionally, we were able to build out features quickly, with short turnover times. We were all also able to get playtest data from our peers and incorporate player feedback into our game.
+
+Areas that we could be stronger in were in organizing our design decisions, verbalizing ideas to each other efficiently, and delegating art tasks more quickly.
+
+
+Personally,
 
 This week, I worked on setting up the beginning of what will be our in game tutorial levels.
 
