@@ -146,12 +146,20 @@ Negatives: Multi-attacks are a little bit strange, may need to work on them.
 
 ### Week 10
 
-Mainly Bug fixes this week (2hr)
+Michael Dardour Individual Post-Mortem
 
-Discussed particular changes that could be made to make it easier for new players to understand (1hr)
+"Momentum is a turn based game with movement as its core mechanic." Thats what I envisioned when I saw the pitch of this game, a time traveling swordsman gaining speed to completely slice through all that stand in his way. I really loved to envision that and wanted to design a system that could really capture that feeling for people, which is why I joined the team. The road was very bumpy, but still rewarding nontheless I'd say. If I was to describe my role in the team I would say I was the Player Logic Programmer, as well as game designer. For this post mortem Im going to describe things in a "Good -> Bad -> Good" order
 
-Positives: Game is fixed since last build which had a game breaking bug that would crash the player once they reached 3 momentum
+Good - More than one programmer with independant capabilities
+I have dealt with many game projects where I was the "main programmer". Sometimes I was the only programmer, othertimes the other programmers would always ask me for help since they didnt understand unity. But Momentum was the first game project I've worked on where I was able to depend on other programmers to handle larger tasks while I could concentrate on my own. We all had clear goals to work on, and were able to plug in everything once finished. It was very effective and very alleviating.
 
-Negatives: Should have worked on reworking certain abilities but didnt get the chance due to family issues.
+Bad - Only one animator
+
+Good - Scalability
+
+Bad - Starting game ideas
+I feel like this is mainly my fault, but I found out a little bit into development that my idea of what the game should be was different than what the creator thought it should be. I brought up my ideas and we had discussions as a group about it. My ideas were rougher and more experiemental that the group leads were, where as his would have made it simpler to implement and more easily polishable. In the end we put it up to a vote and my idea won by one vote. At the time I felt like it would make the game have more depth and potential, however I feel like it may have instead caused us more work for a less polished game. Examples include the Hex grid taking a large portion of our time to implement and fully understand. The momentum system is also something that was discussed as being too complex for players. I should have realized how complex the system that I was making when I was having trouble describing it to my own teammates.
+
+Good - 
 
 [back](Blogs.html)
