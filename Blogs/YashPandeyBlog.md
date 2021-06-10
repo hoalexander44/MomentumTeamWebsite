@@ -46,7 +46,7 @@ Upcoming: Unit Movement, Unit Path Choosing (how to get from point A to point B)
 ![image](https://user-images.githubusercontent.com/39490762/115772490-2d3acd80-a37d-11eb-9a70-d568f68a69f5.png)
 
 ### Week 4
-Yash Pandey, PPJ 4
+Yash Pandey, PPJ 3
 Tasks - Hours Taken:
 - Highlight Hex function (along with refactoring and improving several structures)
 o 5 Hours
@@ -74,7 +74,7 @@ Screenshots:
 ![image](https://user-images.githubusercontent.com/50269613/116589718-edc73080-a8ea-11eb-83a9-fd8bdde51ef9.png)
 
 ### Week 5
-Yash Pandey, PPJ 5
+Yash Pandey, PPJ 4
 Tasks - Hours Taken:
 - Helped with Conical Highlight Function
 o 1 Hour
@@ -103,7 +103,7 @@ Upcoming:
 
 ### Week 6
 
-Yash Pandey, PPJ 6
+Yash Pandey, PPJ 5
 Tasks - Hours Taken:
 - Create Algorithm for Hex Grid Graph Generation
 o 7 Hour
@@ -127,7 +127,7 @@ Upcoming:
 
 ### Week 7
 
-##Yash Pandey, PPJ 7
+##Yash Pandey, PPJ 6
 Tasks - Hours Taken:
 - Implement Dijkstra's GraphSearch 
 o 2.5 Hours  
@@ -156,7 +156,7 @@ Upcoming:
 
 
 ### Week 8
-##Yash Pandey, PPJ 8
+##Yash Pandey, PPJ 7
 Tasks - Hours Taken:
 - Finish Pathfinding
 o 3 Hours  
@@ -178,6 +178,30 @@ Upcoming:
 ![image](https://user-images.githubusercontent.com/50269613/119882554-8c4fad00-befc-11eb-9ba4-4e78bd0f314e.png)
 
 ### Week 9
+##Yash Pandey, PPJ 8
+Tasks - Hours Taken:
+- Create Team Website 2.0
+
+o 10 Hours  
+
+- Debugging and Troubleshooting with Bugs and Integration issues
+
+o 2 Hours  
+
+Total Hours: 12 Hours
+
+Positive: The game website is no longer just a bunch of links slapped onto one webpage. It has become a little more diverse, a little more artisic and a whole lot better.
+
+
+Negative: The AI still wasn't integrated into the game making testing it impossible. Further, development of the upgraded website is a lot more tedious than expected which led to a pretty long time needed to develop and debug it (since it all happens behind the scenes) 
+
+Upcoming: 
+- Finish adding more assets on our website and flesh it out with pictures of devs, images of concept art, etc.
+- Enemy AI integration
+
+![image](https://user-images.githubusercontent.com/50269613/120673315-0df58c80-c461-11eb-9018-b28e8e9757c4.png)
+
+![image](https://user-images.githubusercontent.com/50269613/120672551-69734a80-c460-11eb-8052-51240abbddc0.png)
 
 ### Week 10
 
