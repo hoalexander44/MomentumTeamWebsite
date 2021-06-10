@@ -134,6 +134,24 @@ Tags: Programming
 
 ### Week 9
 
+Made it so that the player now attacks enemies they slide into rather than crash (3hr)
+
+Made it so that the player crashes if they have no available move options (ie stuck in corner) (1hr)
+
+Prevented a bug that allowed the player to damage an enemy they are not targeting (.5hr)
+
+Positives: Fixed bugs and made the game smoother for slides
+
+Negatives: Multi-attacks are a little bit strange, may need to work on them.
+
 ### Week 10
+
+Mainly Bug fixes this week (2hr)
+
+Discussed particular changes that could be made to make it easier for new players to understand (1hr)
+
+Positives: Game is fixed since last build which had a game breaking bug that would crash the player once they reached 3 momentum
+
+Negatives: Should have worked on reworking certain abilities but didnt get the chance due to family issues.
 
 [back](Blogs.html)
