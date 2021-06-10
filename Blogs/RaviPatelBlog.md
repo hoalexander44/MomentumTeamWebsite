@@ -94,9 +94,9 @@ Positives: Added in some new ui buttons such as a play and pause button and also
 Negitives: nothing got eerything i wanted done 
 
 Upcoming: add in anything before the final 
-### Final Week 
-  
-  So overall this project was really fun to work on and it gave me experience working on a game project in a big group. I think that the team was great. Everyone got along with each other and treated one another with respect. I think that what we wanted by the end of the term was achieved at a point where we could be satisfied. 
+### Postmortem  
+
+So overall this project was really fun to work on and it gave me experience working on a game project in a big group. I think that the team was great. Everyone got along with each other and treated one another with respect. I think that what we wanted by the end of the term was achieved at a point where we could be satisfied. 
 
 So what went right. When first starting the project we were able to give everyone a task that played to their skills and no one was doing something that they did not enjoy working on. Also having meetings weekly to check in on progress outside of class was very crucial. I will say that I could not make some of the meetings due to out of school issues. However we always made notes of the meeting. So that if anyone was to miss the meeting they could look at the notes from that meeting, and know where everyone was with production. Also the implementation of the trello board was very great. We were able to delegate tasks to everyone and able to mark off jobs that were completed. Also just overall producing a game with visuals and music is also amazing. 
 	
