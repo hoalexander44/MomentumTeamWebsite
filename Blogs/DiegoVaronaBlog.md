@@ -83,14 +83,120 @@ Upcoming: Start level designing when dev kits go online
 
 ### Week 5
 
+Diego Varona, PPJ 4
+
+Tasks Done:
+* Revised Playtest Survey
+* GDD Fill In
+* SCRUM PPJ
+* PPJ
+* Early Concept of Tutorial Levels
+
+Number of Hours Worked:
+About 2-3 Hours
+
+Work Samples:
+N/A
+
+
+Positive: Things are still moving along.
+
+
+Negative: Could have a bit of scope issues but I think the kinks are being worked out. 
+
+
+Upcoming: Main mechanics should be finished added soon.
+
 ### Week 6
+
+Diego Varona, PPJ 5
+
+Tasks Done:
+* Created Tutorial Level w/ Soren
+* Created visuals for Tutorial Level explainations
+* SCRUM PPJ
+* PPJ
+
+Number of Hours Worked:
+About 2-3 Hours
+
+Work Samples:
+N/A
+
+Positive: The game finally feels to be getting traction and the vision of the game seems to be coming together.
+
+
+Negative: Getting the final game mechanics in may be cutting it close to the end goal.
+
+
+Upcoming: Final mechanics and new level concepts to be implemented.
 
 ### Week 7
 
+Diego Varona, PPJ 5
+
+Tasks Done:
+* Formulated the instruction descriptions with Soren
+* Created instruction visuals
+* Created trailer video
+* SCRUM PPJ
+* PPJ
+
+Number of Hours Worked:
+About 7 Hours
+
+Work Samples:
+N/A
+
+Positive: The visuals are really getting to their final form.
+
+
+Negative: Starting to get to the end of the term
+
+
+Upcoming: More art to be implemented and features to implemented
+
 ### Week 8
 
-### Week 9
+Diego Varona, PPJ 6
 
-### Week 10
+Tasks Done:
+* Re-made the tutorial slides
+* Captured GIFs
+* Reformated Sell Presentation
+* PPJ
+
+Number of Hours Worked:
+About 5 Hours
+
+Work Samples:
+N/A
+
+Positive: The game's mechanics are almost done being implemented
+
+
+Negative: Buttons and UI need polish
+
+
+Upcoming: LAST WEEK, POLISHHHH
+
+
+### Finals Week
+
+Personal Postmortem
+
+Things that went right:
+- Smooth Pipeline
+- Game grew significantly over the weeks
+- Good team synergy
+
+Things that went wrong:
+- Scope issues
+- Game Mechanic bugs
+- Some miscommunication early on
+
+Lessons Learned:
+Having weekly meetings are a must. Having a trello board to look back on in case people forget tasks is a must.
+In terms of other projects I think have clearer communcation and sticking to game mechaincs and trying it out for the long term can help the direction of the game not to zigzag around.
 
 [back](Blogs.html)
