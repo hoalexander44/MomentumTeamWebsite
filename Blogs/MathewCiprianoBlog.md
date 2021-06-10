@@ -297,5 +297,85 @@ Upcoming:
 ### Week 9
 
 ### Week 10
+Mathew Cipriano, Personal Project Journal #8
+
+
+Tasks Completed:
+
+
+Designed assets for powerups, created title screen for game: 5 Hours.
+
+
+Total Hours: 5
+
+
+Positives:
+
+
+● New powerup designs.
+
+
+● Title screen implemented.
+
+
+● Finished designs and coding.
+
+
+● Adjusted U.I elements.
+
+
+Negatives:
+
+
+● Reestablishing mechanics and coding for the game.
+
+
+● Minor issues with playstyle and showcasing how to play the game to new players.
+
+
+● Minor bug and glitch issues.
+
+
+Upcoming:
+
+
+● Make sure everything to present the final version of the game is 100% completed.
+
+
+● Present final version of the game and showcase the elevator pitch for said game.
+Personal Post Mortem:
+Three positive aspects of our team and myself regarding the project.
+
+
+● All portions of the project that were given to me in terms of art and design were
+completed in a reasonable amount of time during each week for their respective due
+dates.
+
+
+● Our team worked diligently on their respective assigned sections of the game, with all of
+them keeping well made progress on the game from start to finish.
+
+
+● The mechanics were able to be fleshed out and fully implemented into the overall
+gameplay.
+
+
+Three negative aspects of the team and the project.
+● The process of deciding how to implement the mechanics took up much of the
+development time for the game.
+
+
+● There were times where my version of the projects crashed and I had to redesign them,
+and they were fine afterwards.
+
+
+● The process of getting everything together for the game took up a lot of time throughout
+the last few weeks and into finals week.
+
+![image](https://user-images.githubusercontent.com/39490762/121577387-76abae80-c9f7-11eb-903a-4a83231f2770.png)
+![image](https://user-images.githubusercontent.com/39490762/121577398-790e0880-c9f7-11eb-95ca-1604ffacead6.png)
+![image](https://user-images.githubusercontent.com/39490762/121577406-7b706280-c9f7-11eb-9b5b-b5d83bc36f14.png)
+![image](https://user-images.githubusercontent.com/39490762/121577417-7dd2bc80-c9f7-11eb-9410-01a604ff4bf3.png)
+
 
 [back](Blogs.html)
