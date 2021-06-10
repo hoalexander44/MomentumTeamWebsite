@@ -180,8 +180,13 @@ Negative: Buttons and UI need polish
 
 Upcoming: LAST WEEK, POLISHHHH
 
-### Week 9
 
-### Week 10
+### Finals Week
 
+Personal Postmortem
+
+Things that went right:
+- Smooth Pipeline
+- Game grew significantly over the weeks
+- 
 [back](Blogs.html)
