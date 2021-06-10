@@ -188,5 +188,15 @@ Personal Postmortem
 Things that went right:
 - Smooth Pipeline
 - Game grew significantly over the weeks
-- 
+- Good team synergy
+
+Things that went wrong:
+- Scope issues
+- Game Mechanic bugs
+- Some miscommunication early on
+
+Lessons Learned:
+Having weekly meetings are a must. Having a trello board to look back on in case people forget tasks is a must.
+In terms of other projects I think have clearer communcation and sticking to game mechaincs and trying it out for the long term can help the direction of the game not to zigzag around.
+
 [back](Blogs.html)
