@@ -167,7 +167,7 @@ Total Hours: 8 Hours
 
 Positive: Updated pathfinding to path around obstacles (set distance to occupied nodes as infinity)
 
-Negative: Integration of pathfinding was 
+Negative: Integration of pathfinding was a lot more tedious than expected. Must look to pair program this into the game.
 
 Upcoming: 
 - Finish Enemy AI integration
@@ -181,11 +181,9 @@ Upcoming:
 ##Yash Pandey, PPJ 8
 Tasks - Hours Taken:
 - Create Team Website 2.0
-
 o 10 Hours  
 
 - Debugging and Troubleshooting with Bugs and Integration issues
-
 o 2 Hours  
 
 Total Hours: 12 Hours
@@ -204,5 +202,29 @@ Upcoming:
 ![image](https://user-images.githubusercontent.com/50269613/120672551-69734a80-c460-11eb-8052-51240abbddc0.png)
 
 ### Week 10
+
+## -- Post Mortem --
+
+The project itself started out with everyone in high spirits (as pojects often do). And even towards the end, I felt that despite every other class being in the belief that "The work for my class is more important than the others and so, priortitze this over anything else", I never felt that the team was "lacking" or "falling behind" with things. There were bumps along the road, there were setbacks, discussions, going back and forth, but at the end of meetings, everyone had an idea of what needed to be done and that inspired confidence within the team itself.
+Initially, all the programmers were doing a little bit of everything everywhere but as we got to the later half of the quarter, everyone had some larger chunk of the game they were tackling piece by piece. I had the Enemy AI. The enemy AI presented in the golden build was NOT the AI I developed but a simplified basic enemy AI. Issues with integration persisted for the last month of the development process for me and not having the breathing room (due to a personal emergency and classes) to sit down and iron these issues out really pushed me towards developing imposter syndrome.
+This week, I had spent some time working with other developers to integrate the AI but my finals schedule didn't allow me to sit down and see it through. We ran into issues when it came to pathing for multiple enemies but it worked perfectly for one enemy on the screen. The lack of integration was a fault on my part and given the chance to, I am confident in my ability to integrate this into the game. 
+The website I spent some time adding to was scrapped for Alex had a better vision for what it should look like and I prefer the website he created over mine too.
+There was a crisis week in the middle of the quarter which caused us to realize and re-evaluate our developing process and the issues since has decreased significantly.
+
+Positives:
+  - Everyone stayed on top of their designated work
+  - The communication and feedback amongst peers really helped pull this project together
+  - Everyone had a clear idea of the vision of the game and the direction to take it in
+
+Things to Work on:
+  - Finish the AI implementation (overdue)
+  - Create a dialogue sequence (and all its sub-requirements) to introduce the story to the player
+  - Break down story into arcs and update game documentation to represent the same
+
+Overall, I have been excited by this process of developing this project through and through (often was the best part of the week) but I find myself needing to improve on my time management and allocation techniques. I think the game really came together despite the discussions in the middle of the week about the direction we want to take this game and the delay that came along with the enemy AI but I'm sure with more time, we can really make turn this project into a successful product
+
+
+
+
 
 [back](Blogs.html)
