@@ -154,12 +154,19 @@ Good - More than one programmer with independant capabilities
 I have dealt with many game projects where I was the "main programmer". Sometimes I was the only programmer, othertimes the other programmers would always ask me for help since they didnt understand unity. But Momentum was the first game project I've worked on where I was able to depend on other programmers to handle larger tasks while I could concentrate on my own. We all had clear goals to work on, and were able to plug in everything once finished. It was very effective and very alleviating.
 
 Bad - Only one animator
+Since we only had one person animating, it was a bit of a struggle for him to get all the enemy types moving and integrated. Our project lead sometimes had to do art portions along with programming to help him out.
 
 Good - Scalability
+From the start we made the game with scalability in mind. It is simple to add and adjust just about everything. This applies to Levels, Player Abilities, Enemy types, and more.
 
 Bad - Starting game ideas
 I feel like this is mainly my fault, but I found out a little bit into development that my idea of what the game should be was different than what the creator thought it should be. I brought up my ideas and we had discussions as a group about it. My ideas were rougher and more experiemental that the group leads were, where as his would have made it simpler to implement and more easily polishable. In the end we put it up to a vote and my idea won by one vote. At the time I felt like it would make the game have more depth and potential, however I feel like it may have instead caused us more work for a less polished game. Examples include the Hex grid taking a large portion of our time to implement and fully understand. The momentum system is also something that was discussed as being too complex for players. I should have realized how complex the system that I was making when I was having trouble describing it to my own teammates.
 
-Good - 
+Good - Weekly meetings
+We had weekly meetings that allowed us to reflect on what our current situation was, who would do what, and how to handle everything. The weekly meetings proved to be incredibly effective in refocusing ourselves.
 
+Bad - Low Moral during the end
+Im not exactly sure why, but for some reason a few members of the team felt like the professor didnt like how our game turned out and that it was getting scrapped for the other teams idea. While I cant say whether this is true because I am not the professor, but I felt like the claims were unfounded since the professor showed no favoritism to either game. Though I feel like the idea impacted some members of the team poorly.
+
+Generally if I were to say whether Momentum was a success or not I would say that it has, and still has potential. We spent more time then we should have implementing certain features, however those features having now been implemented just needs some more time to make a more interesting game out of them. Things we were missing was levels and AI, which was in the works for very long, but just about never seemed to see the light of day unfortunatley. I feel like Momentum is a similar story of Icarus, we started out very far then people and things started to burn out unfortunatley.
 [back](Blogs.html)
