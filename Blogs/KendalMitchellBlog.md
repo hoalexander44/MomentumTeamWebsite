@@ -205,4 +205,19 @@ I'll be working on creating more music for an updated trailer and tutorial level
 
 ### Week 10
 
+This week, I worked on setting up the beginning of what will be our in game tutorial levels.
+
+* Created a new type of hex for exiting an area
+* Begun work on an objective system to track in game progress markers
+* Integrated more art assets into our title screen and UI
+
+Positive:
+The integration of the new hex went smoothly. It worked well with our current layering system.
+
+Negative: 
+The objective system was too big in scale for our game within our timeline, so it wasn't able to be included.
+
+Upcoming:
+There's plenty of work to be done for including new features and more audio!
+
 [back](Blogs.html)
