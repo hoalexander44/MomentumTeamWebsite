@@ -343,10 +343,13 @@ Upcoming:
 
 
 ● Present final version of the game and showcase the elevator pitch for said game.
+
 Personal Post Mortem:
+
+Overall, upon viewing our project, I felt that we worked exceptionally well with one another and were able to fully develop the game in a generally smooth and positive manner. I felt that when working with the team, everyone was productive and ready to do the work continuously throughout the semester, and were able to solve any problems or issues that came up during tests and developing the general gameplay of the game. During the early development of the game, we worked extensively on how we would create the ideas of Momentum, and how we would implement them into the overall gameplay. I felt that when we were continuously working through the game, we never really hit any large roadblocks or anything that would completely hinder our overall goal of completing Momentum. For myself, I worked on much of the art assets and designs of the game, which included enemies, objects, some tile work, and a portion of the art for powerups, the main supporting character, and the title screen. The work was ambitious, but I felt that I was able to complete a fair amount of work that I believe was well suited for the game and played a large role in the overall conception of its design. Combine this with Alex’s and Ravi’s art, as well as our coders and designers, I believe we were able to create an overall unique experience and exploration into game design and art.   Therefore, I feel that we had done a good job of keeping track of our work and implementing everything we could in the game during the semester to get our general idea and feel for the game across. 
+	
+ 
 Three positive aspects of our team and myself regarding the project.
-
-
 ● All portions of the project that were given to me in terms of art and design were
 completed in a reasonable amount of time during each week for their respective due
 dates.
@@ -371,6 +374,9 @@ and they were fine afterwards.
 
 ● The process of getting everything together for the game took up a lot of time throughout
 the last few weeks and into finals week.
+
+I really enjoyed working with my teammates to complete this game, and was glad to have been a part of this project overall. Personally, I believe I need to spend more time working on digital art in order to improve my style, and further define the kind of art I want to create overall. Despite this, I think the game came out quite well and I look forward to working on similar projects in the future. 
+
 
 ![image](https://user-images.githubusercontent.com/39490762/121577387-76abae80-c9f7-11eb-903a-4a83231f2770.png)
 ![image](https://user-images.githubusercontent.com/39490762/121577398-790e0880-c9f7-11eb-95ca-1604ffacead6.png)
