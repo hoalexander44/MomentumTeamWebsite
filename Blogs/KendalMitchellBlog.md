@@ -205,10 +205,9 @@ I'll be working on creating more music for an updated trailer and tutorial level
 
 ### Week 10
 Postmortem:
+Overall, I had a blast working on this project. It was one of my first experiences working with a team this size on a game. I also never felt as if I couldn't get help from my teammates if I needed it. Not only was everyone willing to contribute, but they were always looking for the next thing to help out with. Throughout development, I found that our communication went very well. Everyone on the team was very responsive and vocal in regards to their tasks and what they needed from each other. Additionally, we were able to build out features quickly, with short turnover times. We were all also able to get playtest data from our peers and incorporate player feedback into our game.
 
-Throughout development, I found that our communication went very well. Everyone on the team was very responsive and vocal in regards to their tasks and what they needed from each other. Additionally, we were able to build out features quickly, with short turnover times. We were all also able to get playtest data from our peers and incorporate player feedback into our game.
-
-Areas that we could be stronger in were in organizing our design decisions, verbalizing ideas to each other efficiently, and delegating art tasks more quickly.
+Areas that we could be stronger in, were organizing our design decisions, verbalizing ideas to each other efficiently, and delegating art tasks more quickly. This presented a problem for our team towards the earlier half of our development time. As we only had one artist, Mathew was limited in his time to create art and animations. Had we come to design decisions earlier, we likely could have managed the time we spent on art more efficiently. 
 
 
 Personally,
