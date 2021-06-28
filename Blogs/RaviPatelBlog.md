@@ -105,6 +105,15 @@ So what went wrong then? Well for starters on my end I was unable to produce art
 However I still think the work that was done on this team is still amazing. There are lessons I want to take away from this project. One idea is to make a concept that is fun and enjoyable for people to play. So taking a small aspect of a game and trying to see how far we can take that idea and form it into a game. Also just overall production checkups and make sure everyone is on the same page and try to get assets implemented on time to see how people think of the look. 
 
 
+### Week 2 
+
+Task completed: Came back from the break and started production again with a new team
+
+Number of hours worked: 5 
+
+What did we do: Overall for this first week we all met with each other and started to talk abut the overall production of the next 10 weeks. We wanted to see what the new team members would want to do on the project and started diving up the task around. I am working on art again and have new ideas to add in the game for the coming weeks. 
+
+Upcoming: starting to work on new assets for the game. 
 
 
 [back](Blogs.html)
