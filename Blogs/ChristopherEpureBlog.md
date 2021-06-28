@@ -3,7 +3,9 @@
 
 ### Week 2 - Week 3
 Christopher Epure, PPJ 1
+
 Tasks:
+
 1.Collaborate on Pipeline document: 1.5 hours
 
 2.Asset draft and evaluating team for production purposes: 1.5-2 hours
