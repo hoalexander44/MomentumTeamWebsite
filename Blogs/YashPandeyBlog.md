@@ -247,5 +247,6 @@ Upcoming:
 - Create a dialogue system! (in scope for this quarter)
 - Create dialogues for the characters.
 
+![image](https://user-images.githubusercontent.com/50269613/123787653-15198a00-d8a9-11eb-8930-812666b435bd.png)
 
 [back](Blogs.html)
