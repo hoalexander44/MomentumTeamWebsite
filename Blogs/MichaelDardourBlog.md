@@ -169,4 +169,20 @@ Bad - Low Moral during the end
 Im not exactly sure why, but for some reason a few members of the team felt like the professor didnt like how our game turned out and that it was getting scrapped for the other teams idea. While I cant say whether this is true because I am not the professor, but I felt like the claims were unfounded since the professor showed no favoritism to either game. Though I feel like the idea impacted some members of the team poorly.
 
 Generally if I were to say whether Momentum was a success or not I would say that it has, and still has potential. We spent more time then we should have implementing certain features, however those features having now been implemented just needs some more time to make a more interesting game out of them. Things we were missing was levels and AI, which was in the works for very long, but just about never seemed to see the light of day unfortunatley. I feel like Momentum is a similar story of Icarus, we started out very far then people and things started to burn out unfortunatley.
+
+
+
+
+
+### Week 1
+
+Had a long discussion with the rest of the team on where we should head design wise. (3hr)
+
+Attempted to implement a possible large scale gameplay change to our existing built (3hr)
+
+Total Hours: 6
+
+Positives - got a good start with checking in with the new members and onboarding, some have really great ideas for the game.
+
+Negatives - The code seems different and more complex then what I remember making, likely due to many people working on it at once last quarter. 
 [back](Blogs.html)
