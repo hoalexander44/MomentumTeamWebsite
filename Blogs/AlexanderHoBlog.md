@@ -226,6 +226,8 @@ Negative: We couldn't get to working on the actual game today, but its something
 
 Future Plan: Start assigning tickets to every member and work on character animations. 
 
+![image](https://user-images.githubusercontent.com/39490762/123734076-a6b5d700-d86a-11eb-992b-9971be412517.png)
+
 
 ### Week 3 - Week 4
 Name, PPJ 2
