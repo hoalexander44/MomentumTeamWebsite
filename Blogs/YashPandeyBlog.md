@@ -127,7 +127,7 @@ Upcoming:
 
 ### Week 7
 
-##Yash Pandey, PPJ 6
+Yash Pandey, PPJ 6
 Tasks - Hours Taken:
 - Implement Dijkstra's GraphSearch 
 o 2.5 Hours  
@@ -156,7 +156,7 @@ Upcoming:
 
 
 ### Week 8
-##Yash Pandey, PPJ 7
+Yash Pandey, PPJ 7
 Tasks - Hours Taken:
 - Finish Pathfinding
 o 3 Hours  
@@ -178,7 +178,7 @@ Upcoming:
 ![image](https://user-images.githubusercontent.com/50269613/119882554-8c4fad00-befc-11eb-9ba4-4e78bd0f314e.png)
 
 ### Week 9
-##Yash Pandey, PPJ 8
+Yash Pandey, PPJ 8
 Tasks - Hours Taken:
 - Create Team Website 2.0
 o 10 Hours  
@@ -223,8 +223,29 @@ Things to Work on:
 
 Overall, I have been excited by this process of developing this project through and through (often was the best part of the week) but I find myself needing to improve on my time management and allocation techniques. I think the game really came together despite the discussions in the middle of the week about the direction we want to take this game and the delay that came along with the enemy AI but I'm sure with more time, we can really make turn this project into a successful product
 
+#### Summer 2021 begins here!
+
+### Week 1 - 2
+Yash Pandey, PPJ1 
+
+Tasks - Hours Taken:
+
+- New Team Orientation/Integration
+o 3 Hours  
 
 
+- Story Development
+o 3 Hours  
+Total Hours: 6 Hours
+
+Positive: Was able to get a story team together and hammer down some important details. Further, the new additions to our team have not raised any concerns which gave way for a smooth-ish integration into our team but I'm sure eventually, the questions will pour in
+
+Negative: There are going to be a lot of questions about "Ooh what about this...?", "Where can I find ____?", and "How do I do this?". Made me realize the need for documentation of the process for helping with onboarding in a team to get everyone up to par. Hopefully in a more professional setting, there could be a team dedicated to this.
+
+Upcoming: 
+- Fix improved AI implementation
+- Create a dialogue system! (in scope for this quarter)
+- Create dialogues for the characters.
 
 
 [back](Blogs.html)
