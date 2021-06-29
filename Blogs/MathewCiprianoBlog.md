@@ -458,46 +458,35 @@ Mathew Cipriano, Personal Project Journal #1
 
 Tasks Completed:
 
-
 Redesigned Dr. Grey Character: 3 Hours
 
-
 Designs potential boss concept art: 1.5 Hours
-
 
 Total Hours: 4.5 Hours
 
 
 Positives:
 
-
 ● New Group members joined the team.
-
 
 ● New teammates were assigned tasks to expand the gameplay and scope of the game.
 
-
 ● New design for Dr. Grey character.
-
 
 ● Concept art developed for a possible boss.
 
 
 Negatives:
 
-
 ● It was time consuming for our larger group to establish roles and new work.
 
-
 ● Glitches in the game became apparent as the game started to come together.
-Upcoming:
 
+Upcoming:
 
 ● Create more art assets.
 
-
 ● Continue to improve the game through art, coding, design, and story.
-
 
 ● Experiment with potential items to add to the game, narrow down what’s possible for the
 rest of the semester.
