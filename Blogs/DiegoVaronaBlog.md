@@ -199,4 +199,62 @@ Lessons Learned:
 Having weekly meetings are a must. Having a trello board to look back on in case people forget tasks is a must.
 In terms of other projects I think have clearer communcation and sticking to game mechaincs and trying it out for the long term can help the direction of the game not to zigzag around.
 
+## TERM TWO PPJ
+
+
+## Welcome to Diego's Personal Production Journal
+
+
+### Week 2 - Week 3
+Diego Varona, PPJ 1
+
+
+Full Team Meeting: 3 hours
+Pipeline docment: 1 hour
+
+
+Total: 4 hours
+
+
+Positive: Onboarding was smoother than expected and everyone has been delegated a role that they would like to do. Seeing more programmers on the team really makes me happy because it means we can get more complex game mechanics out
+
+
+Negative: Nothing really big happened this week due to onboarding everyone and making sure that was running and good to go. 
+
+
+Future Plan: Start going through the GDD and cleaning everything up a little more. 
+
+
+### Week 3 - Week 4
+Name, PPJ 2
+
+
+### Week 4 - Week 5
+Name, PPJ 3
+
+
+### Week 5 - Week 6
+Name, PPJ 4
+
+
+### Week 6 - Week 7
+Name, PPJ 5
+
+
+### Week 7 - Week 8
+Name, PPJ 6
+
+
+### Week 8 - Week 9
+Name, PPJ 7
+
+
+### Week 9 - Week 10
+Name, PPJ 8
+
+
+### Week 10 - Finals Week
+Name, PPJ 9
+
+
 [back](Blogs.html)
