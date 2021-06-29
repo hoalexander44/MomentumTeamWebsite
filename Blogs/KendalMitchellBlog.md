@@ -227,4 +227,53 @@ The objective system was too big in scale for our game within our timeline, so i
 Upcoming:
 There's plenty of work to be done for including new features and more audio!
 
+### Week 2 - Week 3
+Kendal Mitchell, PPJ 1
+
+This week was a return from a short break, alongside a bigger and better team.
+
+* Heavy preplanning for asset creation, programming tasks, and game narrative.
+* We met as a full team for about three hours and then within the art team for two the following day.
+
+I spent about 5 hours of work with the team.
+
+Positive:
+Everyone on the team seems more than willing to contribute and was upfront about their availability over this term. I'm also looking forward to additional backup on tasks that I was alone on before, such as music creation. 
+Negative:
+Although we covered a lot of content, we continued an ongoing habit of overly lengthy meetings. It'll be important for us not to eat up everyone's time especially in the upcoming weeks.
+Upcoming:
+We'll be delegating tasks within our team and creating a level editor for our game.
+
+
+### Week 3 - Week 4
+Kendal Mitchell, PPJ 2
+
+
+### Week 4 - Week 5
+Kendal Mitchell, PPJ 3
+
+
+### Week 5 - Week 6
+Kendal Mitchell, PPJ 4
+
+
+### Week 6 - Week 7
+Kendal Mitchell, PPJ 5
+
+
+### Week 7 - Week 8
+Kendal Mitchell, PPJ 6
+
+
+### Week 8 - Week 9
+Kendal Mitchell, PPJ 7
+
+
+### Week 9 - Week 10
+Kendal Mitchell, PPJ 8
+
+
+### Week 10 - Finals Week
+Kendal Mitchell, PPJ 9
+
 [back](Blogs.html)
