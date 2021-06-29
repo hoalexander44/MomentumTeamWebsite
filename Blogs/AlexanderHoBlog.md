@@ -199,7 +199,64 @@ This project definitely had its ups and downs and I learned a lot from it. Howev
 
 
 
+### TERM TWO
 
+
+## Welcome to Name's Personal Production Journal
+
+
+### Week 2 - Week 3
+Alexander Ho, PPJ 1
+
+
+Full Team Meeting: 3 hours
+Art and Story Meeting: 3 hours
+Pipeline docment: 1 hour
+Asset list: 1 hour
+
+
+Total: 8 hours
+
+
+Positive: Everyone seems excited about the project and seems motivated to do their tasks. Onboarding was smooth and everyone was able to get setup with the tools they need to work.
+
+
+Negative: We couldn't get to working on the actual game today, but its something that I think is ok for the sake of a smooth onboard transition. 
+
+
+Future Plan: Start assigning tickets to every member and work on character animations. 
+
+
+### Week 3 - Week 4
+Name, PPJ 2
+
+
+### Week 4 - Week 5
+Name, PPJ 3
+
+
+### Week 5 - Week 6
+Name, PPJ 4
+
+
+### Week 6 - Week 7
+Name, PPJ 5
+
+
+### Week 7 - Week 8
+Name, PPJ 6
+
+
+### Week 8 - Week 9
+Name, PPJ 7
+
+
+### Week 9 - Week 10
+Name, PPJ 8
+
+
+### Week 10 - Finals Week
+Name, PPJ 9
 
 
 
