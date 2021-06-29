@@ -449,4 +449,66 @@ digital art in order to improve my style, and further define the kind of art I w
 Despite this, I think the game came out quite well and I look forward to working on similar
 projects in the future.
 
+# NEW TERM
+
+### Week1 - Week 2 PPJ 1
+
+Mathew Cipriano, Personal Project Journal #1
+
+
+Tasks Completed:
+
+
+Redesigned Dr. Grey Character: 3 Hours
+
+
+Designs potential boss concept art: 1.5 Hours
+
+
+Total Hours: 4.5 Hours
+
+
+Positives:
+
+
+● New Group members joined the team.
+
+
+● New teammates were assigned tasks to expand the gameplay and scope of the game.
+
+
+● New design for Dr. Grey character.
+
+
+● Concept art developed for a possible boss.
+
+
+Negatives:
+
+
+● It was time consuming for our larger group to establish roles and new work.
+
+
+● Glitches in the game became apparent as the game started to come together.
+Upcoming:
+
+
+● Create more art assets.
+
+
+● Continue to improve the game through art, coding, design, and story.
+
+
+● Experiment with potential items to add to the game, narrow down what’s possible for the
+rest of the semester.
+
+![image](https://user-images.githubusercontent.com/39490762/123800586-72b4d300-d8b7-11eb-9a85-2964b1a1c748.png)
+![image](https://user-images.githubusercontent.com/39490762/123800592-75172d00-d8b7-11eb-9b86-9ee844e52d77.png)
+![image](https://user-images.githubusercontent.com/39490762/123800604-76e0f080-d8b7-11eb-933d-e064269b7281.png)
+![image](https://user-images.githubusercontent.com/39490762/123800613-79434a80-d8b7-11eb-97d3-2a8558350cce.png)
+![image](https://user-images.githubusercontent.com/39490762/123800630-7c3e3b00-d8b7-11eb-8af4-612a07d8bb54.png)
+![image](https://user-images.githubusercontent.com/39490762/123800636-7ea09500-d8b7-11eb-9760-e29324571959.png)
+
+
+
 [back](Blogs.html)
