@@ -116,4 +116,16 @@ What did we do: Overall for this first week we all met with each other and start
 Upcoming: starting to work on new assets for the game. 
 
 
+### Week 3 
+
+Task completed: Ice world assets completed 
+
+Number of hours worked on: 4
+
+What did we do: So for this week I worked on making new assets for our ice level so i made all the background pieces and a new border for the level 
+
+Upcoming: Make any changes to the ice world if needed and start working on the next list of assets needed 
+
+
+
 [back](Blogs.html)
