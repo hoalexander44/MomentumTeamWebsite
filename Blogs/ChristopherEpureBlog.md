@@ -21,8 +21,25 @@ Negatives: Was reletively confused when trying to catch of the current state of 
 Upcoming: Coming up I will likely go through the comments in the GDD to do edits/revisions (slight wait based on how a text goes for the game). Will also look into editing current assets for cohesion.
 
 ### Week 3 - Week 4
-Name, PPJ 2
-NULL
+Chrisopther Epure, PPJ 2
+
+Tasks:
+
+1.Comments and revisions to GDD: 2-3 hours
+
+2.Style guides and studies for what to take from designs: 1-2 Hours
+
+3.Playtest form: 1 hour
+
+4. Testing new version and gauging edits of current enemy types: 1 hour
+
+Total hours: 5-7 hours
+
+Positives: Relatively straight foreward progress being made from all members of the team. The ideas for modifying the game have been turning out to be effective, so it's going to be easier going forward to consider concepts for enemies and obstructing the player
+
+Negatives: Some wild concerns as far as consolidation and how east it will be to do revisions on the monsters, but other than that not many concerns.
+
+Upcoming: Going forward I will probably work more to the art end to see what are modifcations to be made for environment consistency, and working on monster redraws. Will likely work as well on GDD modifications for future enemy plans based on the current functionality of the game.
 
 ### Week 4 - Week 5
 Name, PPJ 3
