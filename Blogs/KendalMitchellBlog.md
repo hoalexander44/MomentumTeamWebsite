@@ -248,6 +248,21 @@ We'll be delegating tasks within our team and creating a level editor for our ga
 ### Week 3 - Week 4
 Kendal Mitchell, PPJ 2
 
+![image](https://user-images.githubusercontent.com/40584756/124524932-2132a980-ddcb-11eb-9452-d70a390ffa0b.png)
+![image](https://user-images.githubusercontent.com/40584756/124524936-27c12100-ddcb-11eb-95f3-d70745194a62.png)
+
+This week I focused on getting a level editor started to work on with Cyn. I made progress but also found some hurdles in the process.
+
+* Setup an in-editor level generator
+* Setup editor windows and a simple GUI for our designers
+* Cleaned up old and redundant code
+
+Positive:
+I was able to integrate a lot of the pre-existing logic I wrote for generating levels into a custom level editor for our team to use later on. This is great since it'll allow us to avoid the grunt work of preplanning tile locations with coordinates and testing success through running our game. 
+Negative:
+Both Cyn and I ended up being pressed for time this week and didn't get to spent as much time working together as we'd like. Additionally, I ran into some issues with our HexManager's layer reconfiguration that'll need to be rectified. 
+Upcoming:
+We ran into some issues with our reconfigure layers function clashing with the new Editor windows. I'll be taking a look at this and working on music. 
 
 ### Week 4 - Week 5
 Kendal Mitchell, PPJ 3
