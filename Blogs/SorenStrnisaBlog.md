@@ -125,4 +125,22 @@ Negative: While reviewing the survey's we found that
 
 Through my time working on Momentum, I spent many hours designing game mechanics to balance out the strategy and fun of the game, along with helping out greatly with documentation, and any other miscallaneous tasks Alex and the rest of my group needed help with. At  the early stages of the game's development, our team was torn on what direction our game mechanics should go in. We had the idea to make the game about fast gameplay requiring only quick swipes and a trial and error way of learning. We however decided that it would be better if we tried to add more strategy and complexity to maintain a player's interest for longer and make our game stand out a little more. I focused on working mainly with Michael and Diego to figure out how every facet of the game play would work along with finding a really satisfying gameplay loop. After our team had a solid understanding of what our game was to become and the documentaion to reference, I mainly worked on putting together the weekly submissions, to allow the programmers and artists to fully devote themselves into their work. I'm not great at digital art and I'm not a programmer so all else I could offer was to give advice when necessary. I have a great interest and experience in 3D modeling, texturing, and creating visual effects in unity, so my only regret is that I wasn't able to apply these skills since our project used 2d assets and animations.
 
+### Week 1 - 2
+
+Yash Pandey PPJ1
+
+Tasks:
+Team Integration
+Revising Game Mechanics
+Editing the Playtest Survey
+Updating GDD
+
+Total Hours: 6 Hours
+
+Positive: The GDD had been commented with changes that need to be made, allowing us to discuss the changes to the game mechanics in an easier way with the rest of the team.
+
+Negative: Not as much work due to the hicups of team integration. 
+
+Upcoming: Completely revised game system and reworking enemies to match the new gameplay loop.
+
 [back](Blogs.html)
