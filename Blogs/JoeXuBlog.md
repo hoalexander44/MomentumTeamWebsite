@@ -23,11 +23,11 @@ Tasks:
 Total Hours: 3 hours
 
 #### Sample of work:
+![dialogue](https://user-images.githubusercontent.com/77818366/124527121-c0a76a80-ddd2-11eb-97bb-0b7e3e3b7f8c.gif)
 
-
-Positives: We discussed a lot on the first meeting and I'm pretty exciting to join team Momentum. We clarified on our roles in the team. I think we had a great start.
-Negatives: It was hard to catch up on a new game in this short amount of time. I think there is still a lot more to learn to understand how the game is working in the current phase.
-Upcoming: Alex is gonna assign tasks for us next week and it will give me a better understanding of my role/job in the team.
+Positives: We all got assigned tasks from leaders. I think we are pretty well organized on our second week.
+Negatives: Still have some confusion on how the game works. Need some time to get used to it.
+Upcoming: Not sure yet. Probably work on something new on the UIs.
 
 ### Week 4 - Week 5
 Joe Xu, PPJ 3
