@@ -17,7 +17,17 @@ Upcoming: Alex is gonna assign tasks for us next week and it will give me a bett
 
 ### Week 3 - Week 4
 Joe Xu, PPJ 2
+Tasks:
 
+1. Integrating a dialogue/cutscene system for interactions between characters. : 3 hours
+Total Hours: 3 hours
+
+#### Sample of work:
+
+
+Positives: We discussed a lot on the first meeting and I'm pretty exciting to join team Momentum. We clarified on our roles in the team. I think we had a great start.
+Negatives: It was hard to catch up on a new game in this short amount of time. I think there is still a lot more to learn to understand how the game is working in the current phase.
+Upcoming: Alex is gonna assign tasks for us next week and it will give me a better understanding of my role/job in the team.
 
 ### Week 4 - Week 5
 Joe Xu, PPJ 3
