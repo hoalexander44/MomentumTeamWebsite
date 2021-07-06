@@ -230,7 +230,21 @@ Future Plan: Start assigning tickets to every member and work on character anima
 
 
 ### Week 3 - Week 4
-Name, PPJ 2
+Alexander Ho, PPJ 2
+
+
+Helped Yash with AI integration: 3 hours
+Coordinated Dev merges: 2 hours
+Came up with tasks for team mates: 1 hour
+Meetings: 1 hour
+
+Total: 7 hours
+
+Positive: people are able to merge changes into Dev relatively seamlessly and they are getting good progress done on the game. The games knew mechanic has a nice flow. 
+
+Negative: There are a lot of issues with the advanced AI and a lot of them stem from integration. A lot of onboarded members have also expressed frustration with legacy code.
+
+Future plan: try to get the new AI in and test the new game mechanic. Also get some more character animations in and juice.  
 
 
 ### Week 4 - Week 5
