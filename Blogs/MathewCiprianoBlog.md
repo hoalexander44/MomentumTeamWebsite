@@ -498,6 +498,40 @@ rest of the semester.
 ![image](https://user-images.githubusercontent.com/39490762/123800630-7c3e3b00-d8b7-11eb-8af4-612a07d8bb54.png)
 ![image](https://user-images.githubusercontent.com/39490762/123800636-7ea09500-d8b7-11eb-9760-e29324571959.png)
 
+# Week2 - Week 3 PPJ 2
+
+Mathew Cipriano, Personal Project Journal #2
+
+Tasks Completed:
+
+● Experimented with transfering new color shading to designs and details: 3 Hours.
+
+● Experimented with shading and design: 2 Hours.
+
+Total Hours: 5 Hours
+
+
+Positives:
+
+● Was able to fully bring new pallets and designs towards unity to update monster designs.
+
+● Portion of coding and bug issues were fixed. 
+
+● New assets & Music are being developed. 
+
+Negatives:
+
+● Photoshop crashed and edits were lost. 
+
+● Glitches in the game still persist, ironing out bugs will take time with new assets. 
+
+Upcoming:
+
+● Work on more art assets.
+
+● Create updated graphics for monsters, have updated work posted to Discord. 
+
+● Continue to update overall production of the game, being music, art, code, and design. 
 
 
 [back](Blogs.html)
