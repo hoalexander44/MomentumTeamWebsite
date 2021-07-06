@@ -1,4 +1,4 @@
-### Week 2 - Week 3
+### Week 1 - Week 2
 David, PPJ 1
 
 Tasks: 
@@ -13,9 +13,19 @@ Negatives: Need to get more information on what we need for ui.
 
 Upcoming: talk about what we need for the ui.
 
-### Week 3 - Week 4
+### Week 2 - Week 3
 David, PPJ 2
+1. Team Meeting : 1 hour
 
+2. Volume Button : 1 hour
+
+3. Total hours : 2 hours
+
+Positive: I found out that there was an easy way to change the volume that will work on all audio sources without touching a single one.
+ 
+Negatives: The ui of the pause menu isn't currently implemented yet
+
+Upcoming: look for bugs in my code and review other people's code
 
 ### Week 4 - Week 5
 David, PPJ 3
