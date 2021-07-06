@@ -22,6 +22,22 @@ Upcoming: We plan to continue working on AI for the enemies and also finding bet
 ### Week 2 - Week 3
 Patrick Cole, PPJ 2
 
+Tasks:
+
+1. Fix Enemy Attack after death: 2 hours
+
+2. Fix enemy movement bug: 5 hours (Blocked)
+
+2. Team meetings (Overall/AI): 4 Hours
+
+Total hours: 11
+
+Positive: Fixing the enemy attacking after death was a relatively easy fix, also it gave me a better understanding of the flow of the turn based systems in place.
+
+Negative: After seeing the code, I nearly had a heart attack. Some aspects of things are programmed decently but when it came to how movement is handled it quickly became an issue. We will be dealing with this for a while most likely.
+
+Upcoming: We plan to continue working on AI for the enemies and also finding better ways to populate enemies and generate levels. Lot of bugs to fix.
+
 
 ### Week 3 - Week 4
 Patrick Cole, PPJ 3
