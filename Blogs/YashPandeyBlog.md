@@ -249,4 +249,32 @@ Upcoming:
 
 ![image](https://user-images.githubusercontent.com/50269613/123787653-15198a00-d8a9-11eb-8930-812666b435bd.png)
 
+### Week 2 - 3
+Yash Pandey, PPJ2 
+
+Tasks - Hours Taken:
+
+- AI Implementation Fix and Update
+o 5 Hours  
+
+
+- Story Development
+o 1 Hours  
+Total Hours: 6 Hours
+
+Positive: Was able to finally recreate the issues with the implementation of the AI and fix a major chunk
+
+Negative: Didn't get to work on the story as much as I wanted to but but issues with some of the logic in the AI interacting with the game caused a lot of issuses
+
+Upcoming: 
+- Finish improved AI implementation
+- Create dialogues for the characters.
+
+![image](https://user-images.githubusercontent.com/50269613/124568283-befd9700-de12-11eb-99d4-d00c938b5fb6.png)
+![image](https://user-images.githubusercontent.com/50269613/124568668-27e50f00-de13-11eb-8ef4-b4ad38afb687.png)
+![image](https://user-images.githubusercontent.com/50269613/124568698-32070d80-de13-11eb-8d40-0694c579330a.png)
+
+
+
+
 [back](Blogs.html)
