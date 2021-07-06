@@ -226,8 +226,21 @@ Future Plan: Start going through the GDD and cleaning everything up a little mor
 
 
 ### Week 3 - Week 4
-Name, PPJ 2
+Diego Varona, PPJ 2
 
+GDD Meeting: 1 hour
+Created SCRUM: 15 Minutes
+Team Meeting: 15 Minutes
+
+Total: 1.5 hours
+
+
+Positive: The GDD Meeting was relatively straightforward and was a great way to pull in the scope of the game. It was also a great time to see what game mechanics need tweakings or could use changes in the future.
+
+Negative: Unfortunately the time we had the GDD meeting, the main team meeting got pushed up and overlapped with the our meeting so we got a little sidetracked and I had to leave early due to a prior obligation. 
+
+
+Future Plan: With the level builder being almost done I think we can start designing levels for the first time.
 
 ### Week 4 - Week 5
 Name, PPJ 3
