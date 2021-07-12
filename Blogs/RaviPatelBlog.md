@@ -128,4 +128,15 @@ Upcoming: Make any changes to the ice world if needed and start working on the n
 
 
 
+### Week 4 
+
+Task Completed: Fire world assets done 
+
+Number of hours worked: 4 
+
+What did I do: This week I was given the task to stret on the fire world assets 
+
+Upcoming: Reciving notes on the current assets and edit where touch ups are needed 
+
+
 [back](Blogs.html)
