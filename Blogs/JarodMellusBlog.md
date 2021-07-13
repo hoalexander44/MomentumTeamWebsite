@@ -19,3 +19,13 @@ Tasks: 3 hours setting up sound effect system with placeholder assets.
 Positives: I learned plenty about the project this week going through the various scripts that make it run. I now have a better grasp on how movement, momentum, and attacking works because I had to place placeholder sound effects in for each of these.
 
 Negatives: Still nothing too bad this week. We probably could have gotten more done but people are busy with the start of classes so it's understandable.
+
+### Week 3 - Week 4
+Jarod Mellus - PPJ #2
+
+Tasks: 3 hours expanding sound effect functionallity for more sounds like clicking and hovering over hexes, player, enemies, etc. 
+
+Positives: I believe I've set a good structure for our sound system going forward and am excited to focus on creating some of the sounds for this game and moving away from placeholders.
+
+Negatives: I really wish I had more time to work, but Monday is one of my only days off in the week and my power was out for most of the day so I wasn't able to
+get as much completed as I intended.
