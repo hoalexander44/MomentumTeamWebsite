@@ -286,7 +286,7 @@ o 8 Hours
 
 - Story Development
 o 2 Hours  
-Total Hours: 8 Hours
+Total Hours: 10 Hours
 
 Positive: Resolved the issue of enemy not detecting other enemies on the board. Progressed to resolving integration issues. Recognized next steps in finishing integration. Got soe initial dialogue down and shared with team for comments and critique. Enemies differentiate between obstacles and players to enable "decision making" in route.
 
