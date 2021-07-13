@@ -275,6 +275,30 @@ Upcoming:
 ![image](https://user-images.githubusercontent.com/50269613/124569759-3aac1380-de14-11eb-904f-14d69f12f566.png)
 
 
+### Week 2 - 4
+Yash Pandey, PPJ3 
+
+Tasks - Hours Taken:
+
+- AI Implementation Fix and Update (Djikstra's Visualization with Hex Grid)
+o 8 Hours  
+
+
+- Story Development
+o 2 Hours  
+Total Hours: 10 Hours
+
+Positive: Resolved the issue of enemy not detecting other enemies on the board. Progressed to resolving integration issues. Recognized next steps in finishing integration. Got soe initial dialogue down and shared with team for comments and critique. Enemies differentiate between obstacles and players to enable "decision making" in route.
+
+Negative: It's a seemingly never-ending trail of bugs with the AI. The construction of it is robust but some of the compromises we made in the past reflects today as the issues I face today. With so many things in scope, I had hoped I would get another dedicated hand in integrating the AI but there hasn't been any expressed interest in the same.
+
+Upcoming: 
+- Finish improved AI implementation
+- Create Enemy AI Behaviour Pattern (do they detect other projectiles? Does it take the most optimal path all the time or does it simply try and take the shortest route)
+- Flesh out story dialogues
+
+![image](https://user-images.githubusercontent.com/50269613/125450107-90fb524f-6944-409f-884e-a8e41de6a882.png)
+![image](https://user-images.githubusercontent.com/50269613/125450393-32cbbea4-4c1d-4d20-8515-d5ffc93f4714.png)
 
 
 [back](Blogs.html)
