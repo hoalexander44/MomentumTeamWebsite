@@ -185,4 +185,27 @@ Total Hours: 6
 Positives - got a good start with checking in with the new members and onboarding, some have really great ideas for the game.
 
 Negatives - The code seems different and more complex then what I remember making, likely due to many people working on it at once last quarter. 
+
+### Week 2
+
+Finished implementation of new gameplay change. Personally I feel that this is a major improvement to the old game. (3hr)
+
+Met with some members of the team to help them figure out what is where and how to do things (1hr)
+
+Total Hours: 4
+
+Positives - very fresh feel to the game and I feel it can make it stand out
+
+Negatives - Had to make some large changes to the sliding mechanics since it wasnt designed for this purpose
+
+### Week 3
+
+Spent a pretty long time remaking the sliding mechanic with Atticus. But overall it works pretty nicely and is a good improvement. (5hr)
+
+Total Hours: 5
+
+Positives - Got to teach Atticus more in depth methods in the character momentum controller.
+
+Negatives - Had to stay up late since our time schedules aren't really similar.
+
 [back](Blogs.html)
