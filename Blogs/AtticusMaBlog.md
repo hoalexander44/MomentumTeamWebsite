@@ -23,7 +23,7 @@ Upcoming: I look forward to my first task on programming.
 
 ### PPJ02
 
-Atticus Ma, PPJ012
+Atticus Ma, PPJ02
 
 Tasks: 
 
@@ -37,4 +37,22 @@ Positive: The meeting with Michael was very informative since we are working tog
 Negative: Family matters unfortunately appeared out of no where and I had to miss our group meeting. I am a little behind as of now and need to catch up with the rest of the group. 
 
 Upcoming: This week I look forward to working on the current ticket I have on Trello and work on fixing the sliding mechanic. Hopefully there aren't anymore random events that prevent me from attending the meetings. 
+
+### PPJ03
+
+Atticus Ma, PPJ03
+
+Tasks: 
+
+1. Refactoring code for sliding mechanic: 4 hours
+2. Debugging slide mechanic: 2 hours
+
+Total hours: 6 hours
+
+Positive: Unlike last week, I was able to accomplish my ticket on time and learned a lot from the experience. Most of the programming was partner programming with Michael and 
+we were able to compare each others' ideas and figure out the best solution for refactoring the slide mechanic. It is basically polished and needs a little more bug testing before we merge it into the actual game. I was also happy that I could attend all the meetings that my group held. 
+
+Negative: Only negatives were that our programming usually had to be near night time which was a bit of annoying due to family matters and overall scheduling. 
+
+Upcoming: This week I look forward to working on refactoring the abilities hopefully since we changed our gameplay loop. Due to the new gameplay loop, some of the abilities seem a little too over powered and might need a bit of adjustment. 
 
