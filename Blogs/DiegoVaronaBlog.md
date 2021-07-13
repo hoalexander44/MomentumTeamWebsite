@@ -245,6 +245,17 @@ Future Plan: With the level builder being almost done I think we can start desig
 ### Week 4 - Week 5
 Name, PPJ 3
 
+GDD Meeting: 1 hour
+Over-seeing Playtests: 3 Hours
+
+Total: 4 hours
+
+
+Positive: Once again the GDD meeting went smoothly, outlining what needs to be done within the term as well as getting everything in order gameplay wise so we know what to do moving forward. The playtests also went smoothly since I got most of the same people to playtest again, it seems they like the new mechanic!
+
+Negative: It still feels like I am not doing much to help the team, but I understand that as designers we do not get much to show off in terms of work.
+
+Future Plan: Start mocking up actual levels.
 
 ### Week 5 - Week 6
 Name, PPJ 4
