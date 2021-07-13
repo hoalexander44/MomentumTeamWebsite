@@ -534,4 +534,48 @@ Upcoming:
 ● Continue to update overall production of the game, being music, art, code, and design. 
 
 
+# Week3 - Week 4 PPJ 3
+
+Mathew Cipriano, Personal Project Journal #3
+
+Tasks Completed:
+
+● Retextured/edited primary monster designs: 7 Hours.
+
+● Retextured/edited forest objects: 3 Hours.
+
+Total Hours: 10 Hours
+
+Positives:
+
+ Completed main enemy color designs and forest objects.
+
+● Fixed coding issues that were noticed from previous week. 
+
+● Gameplay is continuing to develop and the mechanics are getting fleshed out. 
+
+Negatives:
+
+● Continued testing for the game is still necessary to iron out more bugs/glitches.
+
+● Glitches are still prevalent in the game and need to be addressed. 
+
+Upcoming:
+
+● Continue retexturing monsters & reanimate some designs. 
+
+● Flesh out gameplay to have the momentum ability be smooth to the player.
+
+● Continue creating story and possible boss concept for the game. 
+
+![Numblett](https://user-images.githubusercontent.com/57156537/125393631-52d0e500-e376-11eb-9226-8426bc480d86.png)
+![Fly Beast](https://user-images.githubusercontent.com/57156537/125393648-58c6c600-e376-11eb-8a83-32d242f83d9b.png)
+![Bird Head](https://user-images.githubusercontent.com/57156537/125393669-5e241080-e376-11eb-9738-f4c3b5558182.png)
+![Zap Bot - Copy](https://user-images.githubusercontent.com/57156537/125393682-667c4b80-e376-11eb-897a-d3eaedb047da.png)
+![Rock 3](https://user-images.githubusercontent.com/57156537/125393707-6f6d1d00-e376-11eb-99d2-6ddf40d06da1.png)
+![Rock Object 1](https://user-images.githubusercontent.com/57156537/125393714-7136e080-e376-11eb-9e36-40fdc634aeb6.png)
+![Tree 2](https://user-images.githubusercontent.com/57156537/125393722-7431d100-e376-11eb-988b-0c374939f430.png)
+![Tree](https://user-images.githubusercontent.com/57156537/125393729-772cc180-e376-11eb-871b-d1b8af006d02.png)
+
+
 [back](Blogs.html)
