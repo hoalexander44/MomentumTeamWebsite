@@ -257,6 +257,8 @@ This week I focused on getting a level editor started to work on with Cyn. I mad
 * Setup editor windows and a simple GUI for our designers
 * Cleaned up old and redundant code
 
+I spent about 6-7 hours of development work this week.
+
 Positive:
 I was able to integrate a lot of the pre-existing logic I wrote for generating levels into a custom level editor for our team to use later on. This is great since it'll allow us to avoid the grunt work of preplanning tile locations with coordinates and testing success through running our game. 
 Negative:
@@ -268,6 +270,9 @@ We ran into some issues with our reconfigure layers function clashing with the n
 Kendal Mitchell, PPJ 3
 
 ![image](https://user-images.githubusercontent.com/40584756/125369704-d1b02880-e34a-11eb-8237-b74d076c07d7.png)
+
+
+I spent about 6 hours of development work this week.
 
 Positive:
 This week I got to add more changes to our Level Builder Tool (now accessible through window/LevelBuilder). Users may now include level hex prefabs, boundary hex prefabs, and hex map column/radius sizing. Additionally, there's also a new prefab replacement tool (accessible under the Tools menu).
