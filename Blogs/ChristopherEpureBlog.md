@@ -42,8 +42,22 @@ Negatives: Some wild concerns as far as consolidation and how east it will be to
 Upcoming: Going forward I will probably work more to the art end to see what are modifcations to be made for environment consistency, and working on monster redraws. Will likely work as well on GDD modifications for future enemy plans based on the current functionality of the game.
 
 ### Week 4 - Week 5
-Name, PPJ 3
-NULL
+Christopher Epure, PPJ 3
+Tasks:
+
+1. Comments and revisions to GDD: 1-2 hours
+
+2. Art direction and style guides: 2-3 hours
+
+3. Mock up bases: .5 hours
+
+4.Playtest data compile and evaluation: 1 hour
+
+Positives: Points and disscusions around art edits went smoothly. Some monsters will need assesment based on whether or not the designs should remain if reanimating is in the cards, but other than that revisions have been straight forward in terms of color explanations.
+
+Negatives: Playtest data was last minute for pretty much everyone. I had issues finding persons willing to test game initally, and most other people had only got responses within the last 12 hours because we would rather focus on system stuff. Generally speaking when evaluating playtest data, a lot of the questions in post are not the most effective in evaulating the current state of the game, and even on question provides and answer that (due to the forms being compiled innately) comprimises the data set when put together.
+
+Upcoming: Working on UI mock ups, continued editing and re evaluation of art assets and GDD edits.
 
 ### Week 5 - Week 6
 Name, PPJ 4
