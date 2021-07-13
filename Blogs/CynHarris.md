@@ -33,4 +33,21 @@ Total: 4 hours
 * Negatives: Both Kendall and I were very unavailable this week and were not able to make as much progress as we'd like.
 * Upcoming: Some issues with layers still needs to be resolved with this editor, as well as anything else that needs doing in regards to the functionality or story of the game.
 
+--------
+
+PPJ Week 4
+
+![Screenshot (271)](https://user-images.githubusercontent.com/54598140/125453868-0d5cf5e2-b6d2-4dbb-af6f-1a8aa5bf37e0.png)
+
+
+Tasks:
+1. Worked on Player/enemy spawning in the Level Editor: 2 hours
+2. Troubleshooting crashes and bugs on my side: 2 hours
+
+Total: 4 hours
+
+
+* Positives: Now that I am back at my apartment, I will be able to do much more for the project, I hope.
+* Negatives: Due to the problems I encountered, I was able to make frustratingly little progress this week, and probably do not seem like a terribly valuable teammate at this moment.
+* Upcoming: I will be finishing working on the level editor, investigating and fixing some bugs others ran into, and helping out with whatever else needs to be done.
 
