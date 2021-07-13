@@ -29,6 +29,17 @@ Upcoming: look for bugs in my code and review other people's code
 
 ### Week 4 - Week 5
 David, PPJ 3
+1. Volume Slider improvements: .5 hour
+
+2. Settings menu prefab: 1 hour
+
+3. Settings back and enter buttons: 1 hour
+
+Positive: settings can pretty much be placed somewhere and it will work
+
+Negatives: not implemented in the actuall game yet
+
+Upcoming: Adding changable textspeed to the settings
 
 
 ### Week 5 - Week 6
