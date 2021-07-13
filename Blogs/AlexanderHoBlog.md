@@ -248,8 +248,21 @@ Future plan: try to get the new AI in and test the new game mechanic. Also get s
 
 
 ### Week 4 - Week 5
-Name, PPJ 3
+Alexander Ho, PPJ 3
 
+Integrate ice level assets and setup the ice level: 3 hours
+Art style meeting and help Matt with style: 2 hours
+Help edit the GDD and revise final vision for the game: 2 hour
+Came up with tasks for team mates: 1 hour
+Team meeting: 1h hour
+
+Total: 9 hours
+
+Positive: The playtests have improved and the game is in a much more stable state. We are getting close to the point where we can start adding additional content. Also, creating a new level in terms of aesthetic is easier than anticipated. 
+
+Negative: We are so close to a stable base game but little bugs keep arising and there are still tasks people need to integrate. Also level editing tool might take awhile. 
+
+Future Plan: Start adding additonal content along with UI. Maybe setup a dedicated juice team to make the game feel ebtter, because its currently working.
 
 ### Week 5 - Week 6
 Name, PPJ 4
