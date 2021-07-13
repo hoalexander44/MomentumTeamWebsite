@@ -31,7 +31,14 @@ Upcoming: Not sure yet. Probably work on something new on the UIs.
 
 ### Week 4 - Week 5
 Joe Xu, PPJ 3
+Tasks:
 
+1. Player Indicator and Enemy Indacator. : 2 hours
+2. fix character profile for dialogue.: 0.5 hour
+
+Positives: Everything goes pretty well. The tasks are a little challenging.
+Negatives: Nothing bad this week, but it seems hard to gather all the people to the meeting.
+Upcoming: Not sure yet.
 
 ### Week 5 - Week 6
 Joe Xu, PPJ 4
