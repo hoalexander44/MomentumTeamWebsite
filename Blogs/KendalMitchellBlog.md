@@ -267,6 +267,17 @@ We ran into some issues with our reconfigure layers function clashing with the n
 ### Week 4 - Week 5
 Kendal Mitchell, PPJ 3
 
+![image](https://user-images.githubusercontent.com/40584756/125369704-d1b02880-e34a-11eb-8237-b74d076c07d7.png)
+
+Positive:
+This week I got to add more changes to our Level Builder Tool (now accessible through window/LevelBuilder). Users may now include level hex prefabs, boundary hex prefabs, and hex map column/radius sizing. Additionally, there's also a new prefab replacement tool (accessible under the Tools menu).
+
+Negative:
+We're still running into issues with running a level created by the LevelBuilder. The issue doesn't seem to be the reconfigure layers as was theoried last week.    
+
+Upcoming:
+I'm looking to utilize the new prefab replacement tool to help with Hex assignment later on. The LevelBuilder bugs are to be handled and I'll also start working on music again.
+
 
 ### Week 5 - Week 6
 Kendal Mitchell, PPJ 4
