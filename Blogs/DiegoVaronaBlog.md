@@ -243,7 +243,7 @@ Negative: Unfortunately the time we had the GDD meeting, the main team meeting g
 Future Plan: With the level builder being almost done I think we can start designing levels for the first time.
 
 ### Week 4 - Week 5
-Name, PPJ 3
+Diego, PPJ 3
 
 GDD Meeting: 1 hour
 Over-seeing Playtests: 3 Hours
@@ -258,8 +258,18 @@ Negative: It still feels like I am not doing much to help the team, but I unders
 Future Plan: Start mocking up actual levels.
 
 ### Week 5 - Week 6
-Name, PPJ 4
+Diego, PPJ 4
 
+GDD Formatting: 1 Hour
+
+Total: 1 hours
+
+
+Positive: The GDD really feels a lot more organized now with the Table of Contents and the Changelog being added.
+
+Negative: It still feels like I am not doing much to help the team, but I understand that as designers we do not get much to show off in terms of work.
+
+Future Plan: When Kendall is done with the Level Builder I am really itching to gt to designing some levels.
 
 ### Week 6 - Week 7
 Name, PPJ 5
