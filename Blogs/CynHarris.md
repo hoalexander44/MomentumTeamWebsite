@@ -51,3 +51,19 @@ Total: 4 hours
 * Negatives: Due to the problems I encountered, I was able to make frustratingly little progress this week, and probably do not seem like a terribly valuable teammate at this moment.
 * Upcoming: I will be finishing working on the level editor, investigating and fixing some bugs others ran into, and helping out with whatever else needs to be done.
 
+
+
+PPJ Week 5
+![Screenshot (275)](https://user-images.githubusercontent.com/54598140/126329460-49b6017d-7d80-455f-934e-034368664c7f.png)
+
+Tasks:
+1. Made public function in each tile to change the tile script type: 1 hour
+2. Altered Enemy script to be able to change the tile the enemy was just on: 1 hour
+3. Script cleanup: 1 hour
+
+Total: 3 hours
+
+* Positives: I was able to knock out two tasks without much issue in a way that will make future changes faster and easier.
+* Negatives: I do not always feel like the work given to me is being properly communicated, and so I am having to figure out what is needed for me to do as I go with this project.
+* Upcoming: I will be trying to reconfigure the layers enemies are placed on, and continue work on the LevelEditor.
+
