@@ -42,7 +42,13 @@ Upcoming: Not sure yet.
 
 ### Week 5 - Week 6
 Joe Xu, PPJ 4
+Tasks:
 
+1. Implement text speed slider. : 1 hour
+Total hour of work: 1 hour
+
+Positives: We got our tasks assigned without a meeting this week. I think Alex did check with everyone privately on the progress which is great. And I have no problem with my task assigned.
+Negatives: Due to some reasons we were not able to meet this week. It seems like everyone is quite busy during midterm weeks.
 
 ### Week 6 - Week 7
 Joe Xu, PPJ 5
