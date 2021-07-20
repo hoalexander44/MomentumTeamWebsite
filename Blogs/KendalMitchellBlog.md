@@ -287,6 +287,18 @@ I'm looking to utilize the new prefab replacement tool to help with Hex assignme
 ### Week 5 - Week 6
 Kendal Mitchell, PPJ 4
 
+Fixed a bug with the level editor that would cause misassignment of hex game objects to the hex grid. I also continued working on improvements to our level builder and refactored editor instantiation before adding individual hex, player, and enemy assignments.
+
+I spent about 6 hours of development work this week. 
+
+Positive:
+I was finally able to figure out several bugs with the level editor that had been evading me for the past few weeks. 
+
+Negative:
+I wasn't able to get all of my level editor changes in time, but should be able to get my changes in within the next sprint.  
+
+Upcoming:
+Once the level editor is on a readied state, I'll be able to move back into music production and story work.
 
 ### Week 6 - Week 7
 Kendal Mitchell, PPJ 5
