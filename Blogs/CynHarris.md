@@ -54,7 +54,8 @@ Total: 4 hours
 
 
 PPJ Week 5
-![Screenshot (275)](https://user-images.githubusercontent.com/54598140/126329460-49b6017d-7d80-455f-934e-034368664c7f.png)
+![Screenshot (275)](https://user-images.githubusercontent.com/54598140/126330644-88d51b3a-7093-4778-a7fd-08a264000620.png)
+
 
 Tasks:
 1. Made public function in each tile to change the tile script type: 1 hour
