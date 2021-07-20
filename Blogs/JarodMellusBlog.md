@@ -29,3 +29,13 @@ Positives: I believe I've set a good structure for our sound system going forwar
 
 Negatives: I really wish I had more time to work, but Monday is one of my only days off in the week and my power was out for most of the day so I wasn't able to
 get as much completed as I intended.
+
+
+### Week 4 - Week 5
+Jarod Mellus - PPJ #2
+
+Tasks: 3 hours recording foley, 2 hours attempting layering of sounds
+
+Positives: I feel I got some pretty good recordings for hits, sword slashes, grunts, etc. 
+
+Negatives: I wasn't as transparent as I could have been about my work week and should be more communicative in the future.
