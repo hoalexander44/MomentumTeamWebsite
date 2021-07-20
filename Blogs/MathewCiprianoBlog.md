@@ -577,5 +577,49 @@ Upcoming:
 ![Tree 2](https://user-images.githubusercontent.com/57156537/125393722-7431d100-e376-11eb-988b-0c374939f430.png)
 ![Tree](https://user-images.githubusercontent.com/57156537/125393729-772cc180-e376-11eb-871b-d1b8af006d02.png)
 
+# Week4 - Week 5 PPJ 4
+
+Mathew Cipriano, Personal Project Journal #4
+
+Tasks Completed:
+
+● Recolored Enemy & Background Sprites: 6 Hours.
+
+● Helped work out minor UI for the main game screen: 1 Hour. 
+
+Total Hours: 7 Hours.
+
+Positives:
+
+● Recolored monsters for the game.
+
+● Continued progress on fixing bugs and ironing out overall gameplay.
+
+● Further developed UI elements for enhanced balance towards the screen view. 
+
+Negatives:
+
+● Getting the code together for the game continues to be time consuming. 
+
+● Minor glitches occurred which need to be fixed. 
+
+Upcoming:
+
+● Further establishing design elements for the game. 
+
+● Begin reanimating assets (and reanimate assets that broke due to minor errors) to update look for the game. 
+
+● Continue to look for bugs and fix any continued problems overall. 
+
+![Tree](https://user-images.githubusercontent.com/57156537/126266424-c6e94ec9-87ae-4151-8b04-f28d7ea49ad1.png)
+![Rock 1](https://user-images.githubusercontent.com/57156537/126266435-f314410b-10bf-495b-aa1d-bf312f91c786.png)
+![Bush](https://user-images.githubusercontent.com/57156537/126266446-ec4caa3c-06f4-43c6-88a9-91b7ec3d5256.png)
+![Log](https://user-images.githubusercontent.com/57156537/126266464-c7e4bf9b-0669-429b-8833-15b3981229ce.png)
+![BoneFisher](https://user-images.githubusercontent.com/57156537/126266479-75f879c0-5d76-4382-95d0-1f27ea275607.png)
+![Snow Man Nuckelavee](https://user-images.githubusercontent.com/57156537/126266507-3dd5e7b5-7b14-4440-b0d7-1dd6ad55d528.png)
+![Violet Carnavore](https://user-images.githubusercontent.com/57156537/126266518-b58acb73-4081-4cf0-9897-7a341903f5a1.png)
+
+
+
 
 [back](Blogs.html)
