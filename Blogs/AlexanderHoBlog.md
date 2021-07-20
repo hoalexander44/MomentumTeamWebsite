@@ -265,7 +265,24 @@ Negative: We are so close to a stable base game but little bugs keep arising and
 Future Plan: Start adding additonal content along with UI. Maybe setup a dedicated juice team to make the game feel ebtter, because its currently working.
 
 ### Week 5 - Week 6
-Name, PPJ 4
+Alexander Ho, PPJ 4
+
+Write down hwo to create a new level and make level creation easier: 2 hours
+Art style and UI meeting: 2 hours
+Coordinate merges and manage programmers: 1 hour
+Clean up and create new tasks for upcoming weeks: 3 hours
+
+Total: 8 houts
+
+Positive: The tasks are a lot cleaner now and we have a much clearer direction where we want to go. Also a lot of functionalities have been merged.
+
+Negaitve: With so many new features being added, there are definitly some instabilities and bugs that have arised.
+
+Future plan: Fix the new bugs, get more levels up, and vastl imrpove the movement UI. 
+
+![image](https://user-images.githubusercontent.com/39490762/126270888-29efc832-6bcc-43a8-9697-bdb302e29bdf.png)
+![image](https://user-images.githubusercontent.com/39490762/126270900-c74af541-d150-4557-90c2-c7ea0de18fbd.png)
+
 
 
 ### Week 6 - Week 7
