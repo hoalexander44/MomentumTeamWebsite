@@ -44,7 +44,17 @@ Upcoming: Adding changable textspeed to the settings
 
 ### Week 5 - Week 6
 David, PPJ 4
+1. settings implementation: 1 hour
 
+2. Total: 1 hour
+
+Positives: volume can be changed in game
+
+Negatives: I was going to add text speed modification to the settings, however I didn't quite understand how the slider was implemented and how to put it in the settings without changing how it worked.
+
+Upcoming: Make a simple tutorial that's in game
+
+Positives 
 
 ### Week 6 - Week 7
 David, PPJ 5
