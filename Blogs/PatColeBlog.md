@@ -45,6 +45,17 @@ Patrick Cole, PPJ 3
 
 ### Week 4 - Week 5
 Patrick Cole, PPJ 4
+Tasks:
+
+1. Create a Particle System Prefab: 6 hours
+
+Total hours: 6
+
+Positive: The prefab is going to help us a lot in making some cool looking effects.
+
+Negative: Rotations in unity suck. Doing normal rotations adds angles. I had to find out about local rotation with the help of Jack.
+
+Upcoming: We plan to continue adding to the Particle System Script to make new effects.
 
 
 ### Week 5 - Week 6
