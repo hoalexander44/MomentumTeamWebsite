@@ -139,4 +139,15 @@ What did I do: This week I was given the task to stret on the fire world assets
 Upcoming: Reciving notes on the current assets and edit where touch ups are needed 
 
 
+### Week 5
+
+Task Completed: Art fixes  
+
+Number of hours worked: 3 
+
+What did I do: This week I was given the task to makes edits to the art work for the worlds. I used chir's notes that he had for me and made those edits where they were needed. 
+
+Upcoming: Reciving notes on the current assets and edit where touch ups are needed 
+
+
 [back](Blogs.html)
