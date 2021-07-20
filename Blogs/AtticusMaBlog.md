@@ -56,3 +56,20 @@ Negative: Only negatives were that our programming usually had to be near night 
 
 Upcoming: This week I look forward to working on refactoring the abilities hopefully since we changed our gameplay loop. Due to the new gameplay loop, some of the abilities seem a little too over powered and might need a bit of adjustment. 
 
+### PPJ04
+
+Atticus Ma, PPJ04
+
+Tasks: 
+
+1. Made attacking into an ability: 4 hours
+2. Helping show all the tiles the player will move on, not only sliding tiles: 1 hour
+
+Total hours: 5 hours
+
+Positive: It was nice that Michael and I were able to complete our tasks together before the new build was released. We did not have to worry about doing anything last minute and merging our branches with the development branch did not present any conflicts. More specifically about  our tasks, switching the attacking mechanic from movement to an ability was easier than we thought it would be since we already had all the functionality for attacking ready to be used and separate from our other code. As for showing all the tiles the player would move on (not only showing the sliding tiles), this task was just a little tricky since the main problem was how to highlight all the hexes the player would move on for every decision they would make. In all, this week went well for me and I am glad I got my tickets done on time. 
+
+Negative: The only downside for this week was that I could only meet on the weekends to work on the tickets since I was busy with work on the weekdays. Some meetings were also cancelled which was unfortunate. 
+
+Upcoming: This week I look forward to working on reworking some of the abilities we have currently and maybe adding new ones to the game. The ability boost might need some reworking so that might be something I will be working in the future. 
+
