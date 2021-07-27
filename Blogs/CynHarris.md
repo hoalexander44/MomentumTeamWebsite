@@ -1,3 +1,5 @@
+![Screenshot (278)](https://user-images.githubusercontent.com/54598140/127093029-ade204b2-c434-4656-94bf-6249134e1b68.png)
+![Screenshot (278)](https://user-images.githubusercontent.com/54598140/127093049-6d576929-d33a-4985-b76f-c4bb6a8a91f5.png)
 Cyn Harris Blog
 
 PPJ Week 2
@@ -78,6 +80,8 @@ Tasks:
 
 
 Total: 5.5 hours
+
+![Screenshot (278)](https://user-images.githubusercontent.com/54598140/127093075-65163c2f-f820-405c-bb9b-ff6c327bb30c.png)
 
 * Positives: The hex type system is coming along nicely, and I think this will definitely add some depth to the gameplay.
 * Negatives: The project in general has some issues with organization and standardization. For instance, the different tiles even given the same dimensions and pixels per units have slight shape and size deviations, so the swap process currently is quite noticeable. Hopefully this can be fixed soon.
