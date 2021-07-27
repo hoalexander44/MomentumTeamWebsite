@@ -64,8 +64,19 @@ Name, PPJ 4
 NULL
 
 ### Week 6 - Week 7
-Name, PPJ 5
-NULL
+Christopher Epure, PPJ 5
+Tasks:
+1. Revised playtest document: .5 hours
+
+2. Integrate fonts and rework tutorial to be up to date: 2 hours
+
+Total: 2.5 hours
+
+Positive: Was easy to get the base for the week done, found there was a easy path to explain functions, and based on playtesting there aren't many revisions needed.
+
+Negatives: Was unable to to get mcuh work for the project this week as result of other work and needing to conduct interviews.
+
+Upcoming: Redrafts of Main Menu UI and level select UI, solving issue with material for backgrounds. Would want to review further the assets now that we have different level themes set up along with the level builder tool.
 
 ### Week 7 - Week 8
 Name, PPJ 6
