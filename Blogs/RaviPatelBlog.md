@@ -150,4 +150,15 @@ What did I do: This week I was given the task to makes edits to the art work for
 Upcoming: Reciving notes on the current assets and edit where touch ups are needed 
 
 
+### Week 6 
+
+Task Completed: New Tile Art 
+
+Number of hours worked: 3
+
+What did I do: This week we decided to get the new tiles in for the worlds and update old ones with the new art style 
+
+Upcoming: Concepting some splash art for win and loose screens 
+
+
 [back](Blogs.html)
