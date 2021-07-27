@@ -73,3 +73,20 @@ Negative: The only downside for this week was that I could only meet on the week
 
 Upcoming: This week I look forward to working on reworking some of the abilities we have currently and maybe adding new ones to the game. The ability boost might need some reworking so that might be something I will be working in the future. 
 
+### PPJ05
+
+Atticus Ma, PPJ05
+
+Tasks: 
+
+1. Fixed bug where crashing was not working properly: 3 hours
+2. Fixed bug where player could not move at end of turn: 2 hours
+
+Total hours: 5 hours
+
+Positive: This week went smoother than expected. We were able to fix the crash bug and end of turn bug presented in last week's live playtesting. The bugs were fixed with relative ease and merge conflicts were not occurent. 
+
+Negative: Finding the bugs were pretty hard when compared to actually fixing them. It took us almost 2 hours just to find why the crash bug was present and it was resolved with only a couple lines of code. We definitely need to optimize our code better in order to avoid problems like this in the future. 
+
+Upcoming: This week will probably be implemting abilities or fixing abilities. More specifically, I will probably be helping fix the bounce ability to show the tiles the player will move on and making the ability itself easier to use. 
+
