@@ -303,6 +303,18 @@ Once the level editor is on a readied state, I'll be able to move back into musi
 ### Week 6 - Week 7
 Kendal Mitchell, PPJ 5
 
+I spent about 7 hours of development work this week.
+
+Positive:
+This week I got to add more changes to our Level Builder Tool and fixed some lingering bugs. Users may now include player spawn positioning and update tiles and character spawns. I've finally traced down the source of a NullReferenceException error and will be fixing it this week.
+
+We also found an alternative for updating tile variants that works well for our designers. 
+
+Negative:
+I didn't have time to finish refactoring the NullReferenceException singleton instance errors, but will be able to get them in this week.     
+
+Upcoming:
+Once I finish up with the level builder, our designers can finally start mass producing their designed levels. It'll give us more content to get in the hands of our players and help us get better feedback. 
 
 ### Week 7 - Week 8
 Kendal Mitchell, PPJ 6
