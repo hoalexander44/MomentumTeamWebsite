@@ -619,6 +619,41 @@ Upcoming:
 ![Snow Man Nuckelavee](https://user-images.githubusercontent.com/57156537/126266507-3dd5e7b5-7b14-4440-b0d7-1dd6ad55d528.png)
 ![Violet Carnavore](https://user-images.githubusercontent.com/57156537/126266518-b58acb73-4081-4cf0-9897-7a341903f5a1.png)
 
+Week5 - Week 6 PPJ 5
+Mathew Cipriano, Personal Project Journal #5 
+
+Tasks Completed:
+● Recolored monster sprites for game: 10 Hours. 
+Total Hours: 10
+
+Positives:
+● Updated recolored monsters. 
+
+● New build of the game was completed.
+
+● Further advances in coding game and game format. 
+
+Negatives:
+● Additional bugs and glitches were found/still need to be dealt with. 
+
+● Minor animation bugs with some monster assets that need to be reanimated.
+
+● Additional information is needed to further find proper playstyle for the game. 
+
+Upcoming:
+● Implementation of new enemies with updated graphics. 
+
+● Reanimate several monsters for updated animations. 
+
+● Continue to iron out bugs and fix coding issues for more polished game experiences. 
+
+![Hot Head](https://user-images.githubusercontent.com/57156537/127104600-b50053c4-0e02-4cdb-95f6-b1794723e2b8.png)
+![Lava Worm](https://user-images.githubusercontent.com/57156537/127104615-5f992f1b-980d-4bfa-b5e1-c02defecb2aa.png)
+![SwordSan](https://user-images.githubusercontent.com/57156537/127104635-28c8d9be-3635-46ea-8a62-c4a050332a8b.png)
+![Tetna-eyes](https://user-images.githubusercontent.com/57156537/127104660-bbe1918d-f4a8-49de-910d-ce14fd5fe72d.png)
+![Violet Carnavore](https://user-images.githubusercontent.com/57156537/127104682-ebe9b2cc-4b79-4843-8189-0e21455f14e2.png)
+![Cyborg Yeti - Copy](https://user-images.githubusercontent.com/57156537/127104696-6e0dfdcf-910e-4b44-804d-8c45bf89a6f9.png)
+
 
 
 
