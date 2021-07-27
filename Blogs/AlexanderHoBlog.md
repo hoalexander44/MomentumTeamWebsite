@@ -286,7 +286,21 @@ Future plan: Fix the new bugs, get more levels up, and vastl imrpove the movemen
 
 
 ### Week 6 - Week 7
-Name, PPJ 5
+Alexander Ho, PPJ 5
+
+Edit some art assets: 1 hours
+New Tile Effects: 5 hours
+Tile Effect integration: 3 hours
+Create new levels: 3 hours
+Meetings: 2 hours
+
+Total: 14 hours
+
+Positive: There were a lot of features we put in , and its starting to feel more like a complete game. We have five levels, with working tile effects and enemy manipulation of those tiles. And almost every major feature we wanted in the game is in the game. We just need to improve on some of them, get the level editor, integrate AI, and bug fix so much. Everyone on the team was super super communicative and responsive which made my life so much better.  
+
+Negative: Oh goodness we have so many bugs, some of them seem to be game breaking too, (but more so in the editor?). There are so many little interwoven code references that it creates way too many opportunity for bugs. I would have loved to have approached this in a more clinical, and cleaner software engineering perspective (which we still did to a degree), but just with the sheer amount of features we have to add, the little time we have, and the amount of people to coordinate, these workarounds and code smells are bound to happen. Definitly am going to try to mitigate that as much as possible. A great remedy for this is to have mini meetings with the relevant coders so that I, as the team lead, can get a clearer high level picture of whats going on, and move the project forward accordingly.
+
+Future Plan: Bug fix, bug fix, bug fix, and we might even post pone any new features and focus solely on bug fixing. Especially because this is actually starting to get in the way of development. And hopefully along the way our code we be more cleaned up. Also implement all the new art assets. 
 
 
 ### Week 7 - Week 8
