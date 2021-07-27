@@ -68,3 +68,20 @@ Total: 3 hours
 * Negatives: I do not always feel like the work given to me is being properly communicated, and so I am having to figure out what is needed for me to do as I go with this project.
 * Upcoming: I will be trying to reconfigure the layers enemies are placed on, and continue work on the LevelEditor.
 
+PPJ Week 6
+![tileswapGameplay](https://user-images.githubusercontent.com/54598140/127092257-f45b9cc6-811e-43cb-8073-e36b4679f57c.png)
+
+Tasks:
+1. Created script to swap the sprites out in the hex prefab- 3 hours
+2. Added tile changing abilities to Numblett and Zapper: 1.5 hours
+3. Fixing/refactoring code from last week based on in class suggestions: 1 hour
+
+
+Total: 5.5 hours
+
+* Positives: The hex type system is coming along nicely, and I think this will definitely add some depth to the gameplay.
+* Negatives: The project in general has some issues with organization and standardization. For instance, the different tiles even given the same dimensions and pixels per units have slight shape and size deviations, so the swap process currently is quite noticeable. Hopefully this can be fixed soon.
+* Upcoming: I will probably be helping with the ability of throwing a projectile, as well as potentially helping more with the LevelEditor.
+
+
+
