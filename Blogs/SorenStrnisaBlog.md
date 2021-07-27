@@ -127,7 +127,7 @@ Through my time working on Momentum, I spent many hours designing game mechanics
 
 ### Week 1 - 2
 
-Yash Pandey PPJ1
+Soren Strnisa PPJ1
 
 Tasks:
 Team Integration
@@ -142,5 +142,39 @@ Positive: The GDD had been commented with changes that need to be made, allowing
 Negative: Not as much work due to the hicups of team integration. 
 
 Upcoming: Completely revised game system and reworking enemies to match the new gameplay loop.
+
+### Week 3 - 4
+
+Soren Strnisa PPJ1
+
+Tasks:
+Gameplay and scope discussion
+Updating GDD
+
+Total Hours: 2.5 Hours
+
+Positive: I got a lot more insight on what the team ants to complete within the term along with what each member does in the art and programming groups.
+
+Negative: No visuals for the work finished, was primarily discussion based. 
+
+Upcoming: Whatever Alex needs the design team to do next week.
+
+### Week 5 - 6
+
+Soren Strnisa PPJ1
+
+Tasks:
+Learning how to use Kendal's level creation tool
+Creating Level Concepts
+Updating GDD
+
+Total Hours: 2.5 Hours
+
+Positive: I can now start working on levels and playtest them to find fun and engaging enemy combinations.
+
+Negative: I had to wait for Kendal to finish the tool to start most of my work.
+
+Upcoming: Test and implement levels into the game.
+
 
 [back](Blogs.html)
