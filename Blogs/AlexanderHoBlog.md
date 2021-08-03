@@ -306,6 +306,26 @@ Future Plan: Bug fix, bug fix, bug fix, and we might even post pone any new feat
 ### Week 7 - Week 8
 Name, PPJ 6
 
+New Enemy AI: 10 hours
+move over to only using hexType as the way to indicate different hex tiles: 1 hour
+fix null instance bug that crashes the game: 2 hours
+edit the levels: 1 hour
+Meetings: 1 hour
+Make enemies leave a trail of changed tiles: 3 hours
+new background generation: 2 hours
+
+Total: 20 hours
+
+Positive: Pretty much 99% of our mechanics are in the game. The game breaking bugs are gone. The huge missing piece to our game, the enemy AI, is finally in the game. All the goals we wanted to get for the beta build is in. 
+
+Negative: The level editor still isn't complete and our levels are too simple. But this upcoming week the level editor will be an absolute priority because we need an easy way to create more levels, as we have all our new content in. 
+
+Future plan: Bug fix, add restrictions to abilities, and complete a usable level editor
+
+![AIProof](https://user-images.githubusercontent.com/39490762/127959299-9b7e8eb7-6b63-4632-8213-3a2d07f53746.gif)
+![image](https://user-images.githubusercontent.com/39490762/127959316-8b99aef8-b58a-44e4-b0be-1a0f8b9a539e.png)
+
+
 
 ### Week 8 - Week 9
 Name, PPJ 7
