@@ -70,6 +70,15 @@ upcoming: implement text speed in settings
 
 ### Week 7 - Week 8
 Name, PPJ 6
+David, PPJ 6
+1. pause bug fix: 1 hour
+2. Total: 1 hour
+
+positives: it is not possible to use the settings without affecting the actual game
+
+negatives: Not implemented since there was a bug at the time of the build
+
+upcoming: Fixing any other bugs that come up with the settings menu
 
 
 ### Week 8 - Week 9
