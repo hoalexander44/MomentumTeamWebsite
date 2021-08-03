@@ -60,7 +60,12 @@ Upcoming: Not sure yet.
 
 ### Week 7 - Week 8
 Joe Xu, PPJ 6
+Tasks:
+1. Replace Enemy UI health to hearts. : 3 hours
+Total 3 hours
 
+Positives: I think I learned a lot on how to do the heart UI system.
+Negatives: I could not figure out how to put up a sprite on Wolrd space. The sprite is not showing up on screen. We used to use screenspace overlay for all canvas but this is not working for Heart UIs. 
 
 ### Week 8 - Week 9
 Joe Xu, PPJ 7
