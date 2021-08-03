@@ -79,8 +79,21 @@ Negatives: Was unable to to get mcuh work for the project this week as result of
 Upcoming: Redrafts of Main Menu UI and level select UI, solving issue with material for backgrounds. Would want to review further the assets now that we have different level themes set up along with the level builder tool.
 
 ### Week 7 - Week 8
-Name, PPJ 6
-NULL
+Christopher Epure, PPJ 6
+Tasks:
+1. Drafted level layouts: 1-2 hours
+
+2. Drafted menu icons, main menu, level select: 2-3 hours
+
+3. Small GDD edits: .5 hours
+
+Total: 3.5-5.5 hours
+
+Positives: Drafts went reletively quickly, and froma drafting standpoint I know what I want to do with them effects wise. Was also able to familiarize the structure of the level builder rather quickly.
+
+Negatives: Another week of minor delays, got a stomach virus over the weekend and didn't get much time as a result to figure out the issue with the URP materials in relation to Unity UI.
+
+Upcoming: Since the coming weeking are nearing production wrap up, I will probably be looking at finishing the menu and UI related items for implimentation so that we don't run into any issues in the tailend putting in corse image files.
 
 ### Week 8 - Week 9
 Name, PPJ 7
