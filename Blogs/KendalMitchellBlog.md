@@ -319,6 +319,16 @@ Once I finish up with the level builder, our designers can finally start mass pr
 ### Week 7 - Week 8
 Kendal Mitchell, PPJ 6
 
+I spent around 8 hours of development work this week. 
+
+Positive:
+This week was spent debugging and pair programming with Cyn and Yash on our Level Builder. Although, it's not entirely fixed, we got valuable information out of attempting solutions, discovering that our Singleton was dealing with serialization issues between Edit and Runtime. 
+
+Negative:
+The continued NullReferenceException and singleton issues are starting to impede our generation of levels. We'll need to get this fixed so a more accessible tool is ready for our designers.
+
+Upcoming:
+I'll definitely need to finish up with the level builder this week and start music production, as well as any other tasks I'm assigned. 
 
 ### Week 8 - Week 9
 Kendal Mitchell, PPJ 7
