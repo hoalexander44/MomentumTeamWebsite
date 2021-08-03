@@ -90,3 +90,18 @@ Negative: Finding the bugs were pretty hard when compared to actually fixing the
 
 Upcoming: This week will probably be implemting abilities or fixing abilities. More specifically, I will probably be helping fix the bounce ability to show the tiles the player will move on and making the ability itself easier to use. 
 
+### PPJ06
+
+Atticus Ma, PPJ06
+
+Tasks: 
+
+1. Working on refactoring highlighting script: 3 hours
+
+Total hours: 3 hours
+
+Positive: Little bit of a light week for me this time around. I am starting to understand the code for highlighting hexes a little better and starting to develop a solid plan for fixing the highlighting. Implementing a check for the hex if an enemy is on it and currently figuring out a way to also highlight the hexes the player will slide on. 
+
+Negative: Tasks were not delegated until Friday which was a no one's fault but I couldn't really start working since my weekend was booked unfortunately. The script for highlighting hexes is also a little outdated compared to all the other scripts that were being updated such as abilities and movement. This is a little bit of a roadblock for me but I should be able to complete this by this week. 
+
+Upcoming: Working on fixing the highlighting script since it is a top priority. 

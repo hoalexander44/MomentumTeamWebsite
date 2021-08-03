@@ -275,7 +275,7 @@ Upcoming:
 ![image](https://user-images.githubusercontent.com/50269613/124569759-3aac1380-de14-11eb-904f-14d69f12f566.png)
 
 
-### Week 2 - 4
+### Week 3 - 4
 Yash Pandey, PPJ3 
 
 Tasks - Hours Taken:
@@ -299,6 +299,27 @@ Upcoming:
 
 ![image](https://user-images.githubusercontent.com/50269613/125450107-90fb524f-6944-409f-884e-a8e41de6a882.png)
 ![image](https://user-images.githubusercontent.com/50269613/125450393-32cbbea4-4c1d-4d20-8515-d5ffc93f4714.png)
+
+### Week 5 - 6
+Yash Pandey, PPJ3 
+
+Tasks - Hours Taken:
+
+- AI Implementation Bug Tracking
+o 2 Hours  
+
+
+- Story Development
+o 2 Hours  
+Total Hours: 4 Hours
+
+Positive: Fixed a couple null-reference bugs. Got some dialogues down and ready to implement into game.
+
+Negative: Have had pulling issues from DEV making getting a stable build in my client difficult. Need to perhaps ensure all developers have working locals for developing. 
+
+Upcoming: 
+- Finish improved AI implementation
+- Flesh out story dialogues
 
 
 [back](Blogs.html)

@@ -54,11 +54,19 @@ Negatives: I was going to add text speed modification to the settings, however I
 
 Upcoming: Make a simple tutorial that's in game
 
-Positives 
 
 ### Week 6 - Week 7
 David, PPJ 5
+1. level select sends to game level: 40 min
+2. level select goes back to main menu: 20 min
+3. experimental level restritions : 30 min
+4. Total: 1.5 hours
 
+positives: you can now access all the levels in one spot
+
+negatives: not implemented yet and its a bit confusing to set levels.
+
+upcoming: implement text speed in settings
 
 ### Week 7 - Week 8
 Name, PPJ 6

@@ -161,4 +161,15 @@ What did I do: This week we decided to get the new tiles in for the worlds and u
 Upcoming: Concepting some splash art for win and loose screens 
 
 
+### Week 7 
+
+Task Completed: Adding animations to the tiles 
+
+Number of hours: 3 
+
+What did I do: I added animations to the tiles and fixed some of the visuals for the boost and snow tile
+
+upcoming: Ui buttons 
+
+
 [back](Blogs.html)

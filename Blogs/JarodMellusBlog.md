@@ -23,7 +23,7 @@ Negatives: Still nothing too bad this week. We probably could have gotten more d
 ### Week 3 - Week 4
 Jarod Mellus - PPJ #2
 
-Tasks: 3 hours expanding sound effect functionallity for more sounds like clicking and hovering over hexes, player, enemies, etc. 
+Tasks: 3 hours expanding sound effect functionality for more sounds like clicking and hovering over hexes, player, enemies, etc. 
 
 Positives: I believe I've set a good structure for our sound system going forward and am excited to focus on creating some of the sounds for this game and moving away from placeholders.
 
@@ -39,3 +39,11 @@ Tasks: 3 hours recording foley, 2 hours attempting layering of sounds
 Positives: I feel I got some pretty good recordings for hits, sword slashes, grunts, etc. 
 
 Negatives: I wasn't as transparent as I could have been about my work week and should be more communicative in the future.
+
+### Week - 4 - Week 6
+
+Tasks: 3 hours expanding functionality, 2 hours doing layering, 
+
+Positives: I think I'm about done adding audio functionality to the game project. Most core events have a cooresponding sfx, so I think I have a solid basis to just make sounds from here on out.
+
+Negatives: I had a lot of failures with layering and had to redo or completely restart some of the sounds. A lot of the grunts I performed sounded better out of context, and sorta terrible in context. I ended up prioritizing just getting more placeholders in to fill gaps. I plan to change workflows and switch over to logic pro to finish sounds. I find that to be way more user friendly then audacity, but there are some pains getting it between my computers.

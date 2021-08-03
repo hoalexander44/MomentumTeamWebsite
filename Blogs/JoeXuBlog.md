@@ -42,7 +42,6 @@ Upcoming: Not sure yet.
 
 ### Week 5 - Week 6
 Joe Xu, PPJ 4
-Tasks:
 
 1. Implement text speed slider. : 1 hour
 Total hour of work: 1 hour
@@ -52,7 +51,12 @@ Negatives: Due to some reasons we were not able to meet this week. It seems like
 
 ### Week 6 - Week 7
 Joe Xu, PPJ 5
+Tasks:
+1. Create a tutorial scene with dialogue. :5 hours
 
+Positives: It is kind of hard for me to figure out all the code but I still made it work.
+Negatives: It is really hard to read through and understand all the code written by lots of other people and make the function work.
+Upcoming: Not sure yet.
 
 ### Week 7 - Week 8
 Joe Xu, PPJ 6
