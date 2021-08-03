@@ -127,7 +127,7 @@ Through my time working on Momentum, I spent many hours designing game mechanics
 
 ### Week 1 - 2
 
-Soren Strnisa PPJ1
+Soren Strnisa PPJ1 & 2
 
 Tasks:
 Team Integration
@@ -145,7 +145,7 @@ Upcoming: Completely revised game system and reworking enemies to match the new 
 
 ### Week 3 - 4
 
-Soren Strnisa PPJ1
+Soren Strnisa PPJ3 & 4
 
 Tasks:
 Gameplay and scope discussion
@@ -161,7 +161,7 @@ Upcoming: Whatever Alex needs the design team to do next week.
 
 ### Week 5 - 6
 
-Soren Strnisa PPJ1
+Soren Strnisa PPJ5 & 6
 
 Tasks:
 Learning how to use Kendal's level creation tool
@@ -175,6 +175,22 @@ Positive: I can now start working on levels and playtest them to find fun and en
 Negative: I had to wait for Kendal to finish the tool to start most of my work.
 
 Upcoming: Test and implement levels into the game.
+
+### Week 7
+
+Soren Strnisa PPJ7
+
+Tasks:
+Created levels based on Kendal's updated level builder
+Updating GDD
+
+Total Hours: 3 Hours
+
+Positive: Through my playtest, I found that the levels feel uniquely different and provide a fun challenge.
+
+Negative: The hexagonal x,y,z coordinate was very confusing to work with.
+
+Upcoming: Test levels and update and create levels based on feedback.
 
 
 [back](Blogs.html)
