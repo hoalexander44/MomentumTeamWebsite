@@ -87,5 +87,20 @@ Total: 5.5 hours
 * Negatives: The project in general has some issues with organization and standardization. For instance, the different tiles even given the same dimensions and pixels per units have slight shape and size deviations, so the swap process currently is quite noticeable. Hopefully this can be fixed soon.
 * Upcoming: I will probably be helping with the ability of throwing a projectile, as well as potentially helping more with the LevelEditor.
 
+PPJ Week 7
+
+![Screenshot (283)](https://user-images.githubusercontent.com/54598140/128022504-8a044cfd-7d94-4ca1-8a2e-bf395479659b.png)![Screenshot (282)](https://user-images.githubusercontent.com/54598140/128022533-a644b768-620f-4c3d-a464-c8c710caf82c.png)
+
+Tasks: 
+1. Changing hex type in the inspector updates hex sprite befoe runtime- 1 hour
+2. Getting the level to generate before runtime at all- 4 hours
+Total- 5 hours
+
+* Positives: We might be finally close to cracking this LevelBuilder system.
+* Negatives: We have been working for so long on something that most games have without trying: being able to edit the game from the hierarchy before runtime.
+* Upcoming: HOPEFULLY we fix this problem with the LevelBuilder.
+
+
+
 
 
