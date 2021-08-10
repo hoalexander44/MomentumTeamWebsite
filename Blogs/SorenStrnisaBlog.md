@@ -181,7 +181,23 @@ Upcoming: Test and implement levels into the game.
 Soren Strnisa PPJ7
 
 Tasks:
-Created levels more themed levels
+Created levels based on Kendal's updated engine
+Playtested levels to improve upon their design
+
+Total Hours: 3 Hours
+
+Positive: Through my playtests I found that my levels felt fun and destinct from each other.
+
+Negative: It was difficult to understand the x,y,z hexagonal coordinate system.
+
+Upcoming: Test levels and update and create levels based on feedback.
+
+### Week 8
+
+Soren Strnisa PPJ8
+
+Tasks:
+Created more themed levels
 Updated previous levels based on the new enemy AI
 
 Total Hours: 3 Hours
@@ -191,6 +207,7 @@ Positive: The levels feel more dynamic with the newly added obstacles. It requir
 Negative: Nothing. Things went relatively smoothly this week.
 
 Upcoming: Test levels and update and create levels based on feedback.
+
 
 
 [back](Blogs.html)
