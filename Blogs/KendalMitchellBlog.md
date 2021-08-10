@@ -333,6 +333,16 @@ I'll definitely need to finish up with the level builder this week and start mus
 ### Week 8 - Week 9
 Kendal Mitchell, PPJ 7
 
+I spent about four hours of work on music and an hour on level builder programming this week.
+
+Positive:
+Our needs for the level builder have been more streamlined, giving me a better sense of what our designers need. Communication with them has also been open and effective in regards to letting me know what changes I need to make to help them build levels faster. I also got to do quite a bit of work on creating more music for the game.
+
+Negative:
+We ran into some build issues with merging, but were able to get them sorted out.
+
+Upcoming:
+This week, I'll be spending some more time fixing bugs with the level builder and producing more tracks for the game.
 
 ### Week 9 - Week 10
 Kendal Mitchell, PPJ 8
