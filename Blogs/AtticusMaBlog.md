@@ -105,3 +105,20 @@ Positive: Little bit of a light week for me this time around. I am starting to u
 Negative: Tasks were not delegated until Friday which was a no one's fault but I couldn't really start working since my weekend was booked unfortunately. The script for highlighting hexes is also a little outdated compared to all the other scripts that were being updated such as abilities and movement. This is a little bit of a roadblock for me but I should be able to complete this by this week. 
 
 Upcoming: Working on fixing the highlighting script since it is a top priority. 
+
+### PPJ06
+
+Atticus Ma, PPJ07
+
+Tasks: 
+
+1. Created momentum requirements for abilities: 4 hours
+2. Meeting for discussing slides in the sell pitch: 1 hour
+
+Total hours: 5 hours
+
+Positive: This week went well for the most part. I worked on making momentum requirements for the abilities, essentially making abilities only be able to activate after the player has reached a certain amount of momentum. I also implemented functionality for abiities to be only activated once per turn. Besides development in the actual game, I also worked on  my slide (viability) for the sell pitch. Alex and I discussed some things on what should be said for my slide and we decided that the viability of our game depends on expansion as well as completing our core game as soon as possible.  
+
+Negative: Only negative this week was that our group leader was  out for the weekend so there was not a meeting for us. Fortunately, everyone knew what they had to do and were able to complete their tasks. 
+
+Upcoming: Going to be working on finding and fixing any bugs that come up with the abilities. 
