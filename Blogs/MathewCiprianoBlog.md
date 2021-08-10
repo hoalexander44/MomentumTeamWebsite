@@ -688,7 +688,39 @@ Upcoming:
 ![Defeat 2](https://user-images.githubusercontent.com/57156537/127957938-87336e71-acf0-462a-83fe-523917e62c71.png)
 ![Defeat Animation](https://user-images.githubusercontent.com/57156537/127957942-4f2369ad-e1b4-4457-a58f-dbf8dd019cc5.png)
 
+Week7 - Week 8 PPJ 7
+Mathew Cipriano, Personal Project Journal #7 
 
+Tasks Completed:
+● Edited Victory screen: 1 Hour
+
+● Created portion of level select screen: 3 Hours
+
+Total Hours: 3
+
+Positives:
+● Updated screen for Victory.
+
+● Created portion of design for level select screen in colaboration with Chris. 
+
+● Updated new designs and code to game. 
+
+Negatives:
+● Had to restart design for level select screen due to several photoshop crashes.
+
+● Serious bugs in game due to minor mistakes in implentation.  
+
+● Several issues with ironing out gameplay and keeping focus on style of combat. 
+
+Upcoming:
+● Continue to create additional game artwork for game. 
+
+● Continue fixing code and avoid the game crashing from bugs. 
+
+● Begin to prepair for final presentation for the game.  
+
+![Victory](https://user-images.githubusercontent.com/57156537/128834208-503af387-8479-4df5-b275-22d49cbf6c1b.png)
+![Level_Select_screen](https://user-images.githubusercontent.com/57156537/128834289-9ebcb4b1-94d7-488d-b603-13fd1c6c8481.png)
 
 
 [back](Blogs.html)
