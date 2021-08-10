@@ -61,14 +61,29 @@ Upcoming: We plan to continue adding to the Particle System Script to make new e
 ### Week 5 - Week 6
 Patrick Cole, PPJ 5
 
+N/A due to unexepected circumstances.
+
 
 ### Week 6 - Week 7
 Patrick Cole, PPJ 6
 
+N/A due to unexepected circumstances.
 
 ### Week 7 - Week 8
 Patrick Cole, PPJ 7
 
+Task:
+
+1. Add Win/Lose Screen Images with correct anchoring
+2. Fixed other scene anchoring with Chris
+
+Total Hours: 3
+
+Positives: I understand how canvases work now, they are easy once you know to make them stretch to screen size :)
+
+Negatives: I'm still sick and so I was unable to get the original task I was assigned done.
+
+Upcoming: We are working on cleaning and polishing.
 
 ### Week 8 - Week 9
 Patrick Cole, PPJ 8
