@@ -27,7 +27,8 @@ Negatives: The ui of the pause menu isn't currently implemented yet
 
 Upcoming: look for bugs in my code and review other people's code
 
-### Week 4 - Week 5
+### Week 3 - Week 4
+
 David, PPJ 3
 1. Volume Slider improvements: .5 hour
 
@@ -41,8 +42,8 @@ Negatives: not implemented in the actuall game yet
 
 Upcoming: Adding changable textspeed to the settings
 
+### Week 4 - Week 5
 
-### Week 5 - Week 6
 David, PPJ 4
 1. settings implementation: 1 hour
 
@@ -54,8 +55,8 @@ Negatives: I was going to add text speed modification to the settings, however I
 
 Upcoming: Make a simple tutorial that's in game
 
+### Week 5 - Week 6
 
-### Week 6 - Week 7
 David, PPJ 5
 1. level select sends to game level: 40 min
 2. level select goes back to main menu: 20 min
@@ -68,7 +69,8 @@ negatives: not implemented yet and its a bit confusing to set levels.
 
 upcoming: implement text speed in settings
 
-### Week 7 - Week 8
+### Week 6 - Week 7
+
 Name, PPJ 6
 David, PPJ 6
 1. pause bug fix: 1 hour
@@ -80,6 +82,20 @@ negatives: Not implemented since there was a bug at the time of the build
 
 upcoming: Fixing any other bugs that come up with the settings menu
 
+### Week 7 - Week 8
+
+David PPJ 7
+
+1. proper Settings background scale: 20 minutes
+2. Importing Mathhew's art and animations : 10 minutes
+3. Fixing preexisting prefabs to work with animations : 3 hours
+4. Total: 3.5 hours
+
+positives: I now understand how the monster prefabs work
+
+negatives: There are still a few visual glitches I noticed after the fact with the settings menu that need to be fixed. Also it took along time to figure out how the prefabs work.
+
+Upcoming: fix the issues with the settings and finish turning all of the monsters into prefabs
 
 ### Week 8 - Week 9
 Name, PPJ 7
