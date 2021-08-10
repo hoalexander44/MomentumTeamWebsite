@@ -96,8 +96,19 @@ Negatives: Another week of minor delays, got a stomach virus over the weekend an
 Upcoming: Since the coming weeking are nearing production wrap up, I will probably be looking at finishing the menu and UI related items for implimentation so that we don't run into any issues in the tailend putting in corse image files.
 
 ### Week 8 - Week 9
-Name, PPJ 7
-NULL
+Christopher Epure, PPJ 7
+Tasks:
+1. created new main menu art: 1.5 hours
+2. Fixed UI anchors and UI issues: 3 hours
+3. Created mutable scrolling effect shaders and solved URP material issues: 2 hours
+4. Drafted Ice level layouts: 2 hours
+Total: 8.5 hours
+
+Positives: Now have a better understanding of Unity UI and how it opperates, inclduing solving an issues with using URP materials as an image while not breaking.
+
+Negatives: Nothing incredibly notable, most issues in my work have been mitigated this week. Playtesting was somewhat hard to get this week.
+
+Upcoming: Further refinements to all menus, fixing anchors and adding new UI elements across the board.
 
 ### Week 9 - Week 10
 Name, PPJ 8
