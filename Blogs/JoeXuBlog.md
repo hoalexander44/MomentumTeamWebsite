@@ -69,6 +69,14 @@ Negatives: I could not figure out how to put up a sprite on Wolrd space. The spr
 
 ### Week 8 - Week 9
 Joe Xu, PPJ 7
+Tasks:
+1. Work with Yash on the dialogues. 30 mins
+2. Create a scene to go through lines between characters before game start. 2 hours
+
+Total: 2.5 hours
+
+Positives: The dialogue system is finally gonna to be used in game.
+Negatives: We did not have a group meeting this week and I started my work pretty late this week.
 
 
 ### Week 9 - Week 10
