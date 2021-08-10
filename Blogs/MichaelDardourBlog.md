@@ -208,4 +208,48 @@ Positives - Got to teach Atticus more in depth methods in the character momentum
 
 Negatives - Had to stay up late since our time schedules aren't really similar.
 
+
+### Week 4
+
+Transfered existing attack function into an ability and made slide attacks the primary method of combat (3hr)
+
+Worked on creating a script to give us a list of all the tiles that will be moved through when a player moves to certain destinations: (2hr)
+
+Total Hours: 5
+
+
+### Week 5
+
+Debugging, Primarily found an issue where if the player began a slide next to a wall, they would not crash. (4hr)
+
+Total Hours: 4
+
+Positives: Sliding works as intended now
+
+Negatives: Highlighting still currently an issue
+
+
+### Week 6
+
+Worked on bounce mechanics plus highlight issues (3hr) (Unfinished)
+
+Total Hours: 3
+
+Positives: Close to fixing highlights
+
+Negatives: Couldnt get things done in time
+
+
+### Week 7
+
+Highlighting for both General Movement and Bounce are now fully implemented and working as intended (4 hr)
+
+Started working on highlight for Angle Attack
+
+Total Hours: 4
+
+Positives: Game feels MUCH better now that you know where your going
+
+Negatives: None really, things work very well
+
 [back](Blogs.html)
