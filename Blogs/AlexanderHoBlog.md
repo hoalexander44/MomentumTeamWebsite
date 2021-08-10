@@ -328,7 +328,20 @@ Future plan: Bug fix, add restrictions to abilities, and complete a usable level
 
 
 ### Week 8 - Week 9
-Name, PPJ 7
+Alexander Ho, PPJ 7
+
+merge fix: 1 hour
+defining tasks: 2 hours
+coordinating and helping every member with merges and tasks: 3 hours
+
+Total: 6 hours
+
+Positive: we were able to get highlighting for bounce in our game, but also a cleaner infrastructure for all predicted movements. Also we have ability restrictions.
+
+Negative: The level editor isn't complete. At this point I'll just finish it myself because the designers and game need this. 
+
+Future Plan: Finish the level editor and get the art in. 
+
 
 
 ### Week 9 - Week 10
