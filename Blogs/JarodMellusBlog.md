@@ -47,3 +47,11 @@ Tasks: 3 hours expanding functionality, 2 hours doing layering,
 Positives: I think I'm about done adding audio functionality to the game project. Most core events have a cooresponding sfx, so I think I have a solid basis to just make sounds from here on out.
 
 Negatives: I had a lot of failures with layering and had to redo or completely restart some of the sounds. A lot of the grunts I performed sounded better out of context, and sorta terrible in context. I ended up prioritizing just getting more placeholders in to fill gaps. I plan to change workflows and switch over to logic pro to finish sounds. I find that to be way more user friendly then audacity, but there are some pains getting it between my computers.
+
+### Week - 7 - Week 8
+
+Tasks: 2 hours editing sounds, 1 hour getting them into the game
+
+Positives: I think that the sounds in the game are mostly finished. The team is doing a very good job getting the game together, and I really think it is coming along
+
+Negatives: Nothing too bad this week, just time issues.
