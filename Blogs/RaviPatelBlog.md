@@ -172,4 +172,13 @@ What did I do: I added animations to the tiles and fixed some of the visuals for
 upcoming: Ui buttons 
 
 
+### Week 8 
+
+Task completed: Edits on ablility buttons 
+
+Number of hours: 1 
+
+What did I do: I went in and added small deatalis to the buttons showing if thye were ready to use or not ready to use 
+
+Upcoming: new art assets 
 [back](Blogs.html)
