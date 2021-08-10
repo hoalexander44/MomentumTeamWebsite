@@ -181,14 +181,14 @@ Upcoming: Test and implement levels into the game.
 Soren Strnisa PPJ7
 
 Tasks:
-Created levels based on Kendal's updated level builder
-Updating GDD
+Created levels more themed levels
+Updated previous levels based on the new enemy AI
 
 Total Hours: 3 Hours
 
-Positive: Through my playtest, I found that the levels feel uniquely different and provide a fun challenge.
+Positive: The levels feel more dynamic with the newly added obstacles. It requires the player to think about pathing restrictions from the map instead of just through the momentum mechanic.
 
-Negative: The hexagonal x,y,z coordinate was very confusing to work with.
+Negative: Nothing. Things went relatively smoothly this week.
 
 Upcoming: Test levels and update and create levels based on feedback.
 
