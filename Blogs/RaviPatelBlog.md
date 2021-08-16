@@ -181,4 +181,15 @@ Number of hours: 1
 What did I do: I went in and added small deatalis to the buttons showing if thye were ready to use or not ready to use 
 
 Upcoming: new art assets 
+
+
+### Week 9 
+
+Task completed: Update Slash effect 
+
+mber of hours worked: 2 
+
+What did I do: So for this week I was tasked with remaking the slassh effect for our game. The current one had alot of stuff happening during the animation. So I decided to get rid of all the extra flames and fancy highlights. So I made a simple slash thats a bright color so it can easily be seen with all the assets on screen. 
+
+Upcoming: try to add any extra art asstets we decide to squeeze in for the end of production. 
 [back](Blogs.html)
