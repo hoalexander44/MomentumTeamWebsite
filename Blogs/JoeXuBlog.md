@@ -81,7 +81,12 @@ Negatives: We did not have a group meeting this week and I started my work prett
 
 ### Week 9 - Week 10
 Joe Xu, PPJ 8
+Tasks:
+1. Level Creation: Forest Level 2 : 2 hours
+Total 2 hours
 
+Positives: It is kind of interesting to work on something new. It is good to see there are so many new levels coming out.
+Negatives: Nothing negatives, it took a lot of time for me to figure out how the hex cordinates works.
 
 ### Week 10 - Finals Week
 Joe Xu, PPJ 9
