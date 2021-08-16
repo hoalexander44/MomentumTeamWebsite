@@ -100,7 +100,7 @@ Total- 5 hours
 * Negatives: We have been working for so long on something that most games have without trying: being able to edit the game from the hierarchy before runtime.
 * Upcoming: HOPEFULLY we fix this problem with the LevelBuilder.
 
-PPJ Weel 9
+PPJ Week 9
 
 ![image](https://user-images.githubusercontent.com/54598140/129629074-fe2da0d7-9635-45ef-ad32-8f960d805fb7.png)
 ![image](https://user-images.githubusercontent.com/54598140/129629146-7af7062a-d5d9-4b0a-bdee-cf7d64418067.png)
