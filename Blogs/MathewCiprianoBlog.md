@@ -623,10 +623,12 @@ Week5 - Week 6 PPJ 5
 Mathew Cipriano, Personal Project Journal #5 
 
 Tasks Completed:
+
 ● Recolored monster sprites for game: 10 Hours. 
 Total Hours: 10
 
 Positives:
+
 ● Updated recolored monsters. 
 
 ● New build of the game was completed.
@@ -634,6 +636,7 @@ Positives:
 ● Further advances in coding game and game format. 
 
 Negatives:
+
 ● Additional bugs and glitches were found/still need to be dealt with. 
 
 ● Minor animation bugs with some monster assets that need to be reanimated.
@@ -641,6 +644,7 @@ Negatives:
 ● Additional information is needed to further find proper playstyle for the game. 
 
 Upcoming:
+
 ● Implementation of new enemies with updated graphics. 
 
 ● Reanimate several monsters for updated animations. 
@@ -658,6 +662,7 @@ Week6 - Week 7 PPJ 6
 Mathew Cipriano, Personal Project Journal #6 
 
 Tasks Completed:
+
 ● Reanimated Monsters and fixed graphical bugs: 3 Hours. 
 
 ● Designed a victory and defeat screen for the game: 5 Hours.
@@ -665,6 +670,7 @@ Tasks Completed:
 Total Hours: 8
 
 Positives:
+
 ● Animations are updated.
 
 ● New designs for win and lose screens for overall game. 
@@ -672,11 +678,13 @@ Positives:
 ● Designed music, updated gameplay, and added further code to the game. 
 
 Negatives:
+
 ● Additional bugs were found in the controller for the game.
 
 ● Game crashed at certain points and new code designs needed to be implented to prevent more crashing.  
 
 Upcoming:
+
 ● Create additional updated art and more designs for the overall game. 
 
 ● Further focus for ironing out code and fixing bugs to avoid game crashing. 
@@ -692,6 +700,7 @@ Week7 - Week 8 PPJ 7
 Mathew Cipriano, Personal Project Journal #7 
 
 Tasks Completed:
+
 ● Edited Victory screen: 1 Hour
 
 ● Created portion of level select screen: 3 Hours
@@ -699,6 +708,7 @@ Tasks Completed:
 Total Hours: 4
 
 Positives:
+
 ● Updated screen for Victory.
 
 ● Created portion of design for level select screen in colaboration with Chris. 
@@ -706,6 +716,7 @@ Positives:
 ● Updated new designs and code to game. 
 
 Negatives:
+
 ● Had to restart design for level select screen due to several photoshop crashes.
 
 ● Serious bugs in game due to minor mistakes in implentation.  
@@ -713,6 +724,7 @@ Negatives:
 ● Several issues with ironing out gameplay and keeping focus on style of combat. 
 
 Upcoming:
+
 ● Continue to create additional game artwork for game. 
 
 ● Continue fixing code and avoid the game crashing from bugs. 
@@ -727,11 +739,13 @@ Week8 - Week 9 PPJ 8
 Mathew Cipriano, Personal Project Journal #8 
 
 Tasks Completed:
+
 ● Created projectiles for the enemies: 5 Hours.
 
 Total Hours: 5
 
 Positives:
+
 ● Created projectiles for enemies to be implented into the game.
 
 ● New levels have been devloped and created for the player to explore and interact with.
@@ -741,11 +755,13 @@ Positives:
 ● Additional code has been implented towards the game and is nearing completion. 
 
 Negatives:
+
 ● Continued glitches and needed updates still need to be ironed out and fixed.
 
 ● Some minor issues with creating levels occured, though this has since been improved. 
 
 Upcoming:
+
 ● Finalize art and designs for game.  
 
 ● Add finishing touches to overall game and the design. 
