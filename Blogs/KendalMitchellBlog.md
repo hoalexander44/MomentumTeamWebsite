@@ -347,6 +347,16 @@ This week, I'll be spending some more time fixing bugs with the level builder an
 ### Week 9 - Week 10
 Kendal Mitchell, PPJ 8
 
+This week I spent my time finalizing music for the game. Collaborating with Jarod on creating music for the pause menu, main menu, lose screen, and win screen.  
+
+Positive:
+Jarod and I were able to get all of the tracks finished and reviewed by our team members. It was a great help having more help with audio for the game. 
+
+Negative:
+I didn't end up getting to get feedback for the rest of the level variant tracks, but should be able to throughout the upcoming week.
+
+Upcoming:
+I'll be producing the final set of tracks, giving audio another pass, and fixing any lingering bugs in the game. 
 
 ### Week 10 - Finals Week
 Kendal Mitchell, PPJ 9
