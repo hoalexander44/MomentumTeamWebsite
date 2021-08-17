@@ -208,6 +208,21 @@ Negative: Nothing. Things went relatively smoothly this week.
 
 Upcoming: Test levels and update and create levels based on feedback.
 
+### Week 9
+
+Soren Strnisa PPJ9
+
+Tasks:
+Created Ice Level 1
+
+Total Hours: 2 Hours
+
+Positive: This week had the team finally fill out levels for each world.
+
+Negative: Nothing this week.
+
+Upcoming: Get playtest feedback on the new levels.
+
 
 
 [back](Blogs.html)
