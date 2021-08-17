@@ -355,8 +355,9 @@ added dialogue to each level - 4 hours
 fixed all enemy prefabs - 3 hours
 finsihed inspector level generation - 3 hours
 tuned of enemy AI - 2 hours
+added electric tile ability: 2 hours
 
-Total: 35 hours
+Total: 37 hours
 
 Positive: We are close to having a completed game. All of the mechanics that we would want are in the game. 
 
@@ -365,6 +366,9 @@ Negative: There are some unappealing things that we need to fix, a lot of stuff 
 Future Plan: Clean up the UI a lot, playtest the game and tune up the AI. 
 
 
+![image](https://user-images.githubusercontent.com/39490762/129660578-fc4b15f9-923b-4c7e-9d67-eb67a25a4b12.png)
+![image](https://user-images.githubusercontent.com/39490762/129660642-da157287-c6da-4b28-bff6-877af51760c5.png)
+![image](https://user-images.githubusercontent.com/39490762/129660694-a8396c7a-5a3e-4eef-b930-3fef0cdb8f4c.png)
 
 
 ### Week 10 - Finals Week
