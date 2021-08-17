@@ -347,6 +347,9 @@ This week, I'll be spending some more time fixing bugs with the level builder an
 ### Week 9 - Week 10
 Kendal Mitchell, PPJ 8
 
+![MainMenu](https://user-images.githubusercontent.com/40584756/129686526-83c6939a-86b5-461d-a0a4-dc2b5ecfe3fb.PNG)
+
+
 This week I spent my time finalizing music for the game. Collaborating with Jarod on creating music for the pause menu, main menu, lose screen, and win screen.  
 
 Positive:
