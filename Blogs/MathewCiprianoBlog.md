@@ -623,10 +623,12 @@ Week5 - Week 6 PPJ 5
 Mathew Cipriano, Personal Project Journal #5 
 
 Tasks Completed:
+
 ● Recolored monster sprites for game: 10 Hours. 
 Total Hours: 10
 
 Positives:
+
 ● Updated recolored monsters. 
 
 ● New build of the game was completed.
@@ -634,6 +636,7 @@ Positives:
 ● Further advances in coding game and game format. 
 
 Negatives:
+
 ● Additional bugs and glitches were found/still need to be dealt with. 
 
 ● Minor animation bugs with some monster assets that need to be reanimated.
@@ -641,6 +644,7 @@ Negatives:
 ● Additional information is needed to further find proper playstyle for the game. 
 
 Upcoming:
+
 ● Implementation of new enemies with updated graphics. 
 
 ● Reanimate several monsters for updated animations. 
@@ -658,6 +662,7 @@ Week6 - Week 7 PPJ 6
 Mathew Cipriano, Personal Project Journal #6 
 
 Tasks Completed:
+
 ● Reanimated Monsters and fixed graphical bugs: 3 Hours. 
 
 ● Designed a victory and defeat screen for the game: 5 Hours.
@@ -665,6 +670,7 @@ Tasks Completed:
 Total Hours: 8
 
 Positives:
+
 ● Animations are updated.
 
 ● New designs for win and lose screens for overall game. 
@@ -672,11 +678,13 @@ Positives:
 ● Designed music, updated gameplay, and added further code to the game. 
 
 Negatives:
+
 ● Additional bugs were found in the controller for the game.
 
 ● Game crashed at certain points and new code designs needed to be implented to prevent more crashing.  
 
 Upcoming:
+
 ● Create additional updated art and more designs for the overall game. 
 
 ● Further focus for ironing out code and fixing bugs to avoid game crashing. 
@@ -692,13 +700,15 @@ Week7 - Week 8 PPJ 7
 Mathew Cipriano, Personal Project Journal #7 
 
 Tasks Completed:
+
 ● Edited Victory screen: 1 Hour
 
 ● Created portion of level select screen: 3 Hours
 
-Total Hours: 3
+Total Hours: 4
 
 Positives:
+
 ● Updated screen for Victory.
 
 ● Created portion of design for level select screen in colaboration with Chris. 
@@ -706,6 +716,7 @@ Positives:
 ● Updated new designs and code to game. 
 
 Negatives:
+
 ● Had to restart design for level select screen due to several photoshop crashes.
 
 ● Serious bugs in game due to minor mistakes in implentation.  
@@ -713,6 +724,7 @@ Negatives:
 ● Several issues with ironing out gameplay and keeping focus on style of combat. 
 
 Upcoming:
+
 ● Continue to create additional game artwork for game. 
 
 ● Continue fixing code and avoid the game crashing from bugs. 
@@ -721,6 +733,55 @@ Upcoming:
 
 ![Victory](https://user-images.githubusercontent.com/57156537/128834208-503af387-8479-4df5-b275-22d49cbf6c1b.png)
 ![Level_Select_screen](https://user-images.githubusercontent.com/57156537/128834289-9ebcb4b1-94d7-488d-b603-13fd1c6c8481.png)
+
+
+Week8 - Week 9 PPJ 8
+Mathew Cipriano, Personal Project Journal #8 
+
+Tasks Completed:
+
+● Created projectiles for the enemies: 5 Hours.
+
+Total Hours: 5
+
+Positives:
+
+● Created projectiles for enemies to be implented into the game.
+
+● New levels have been devloped and created for the player to explore and interact with.
+
+● New music has been created for more diverse playlist. 
+
+● Additional code has been implented towards the game and is nearing completion. 
+
+Negatives:
+
+● Continued glitches and needed updates still need to be ironed out and fixed.
+
+● Some minor issues with creating levels occured, though this has since been improved. 
+
+Upcoming:
+
+● Finalize art and designs for game.  
+
+● Add finishing touches to overall game and the design. 
+
+● Finish creating levels and any code that needs to be improved. 
+
+● Prepair for final version of the game (art, gameplay, design, code, music, technical work, U.I.). 
+
+![Sword Shot](https://user-images.githubusercontent.com/57156537/129673693-2dee1851-5051-4650-86e1-a41eace2542e.png)
+![Sticky Shot](https://user-images.githubusercontent.com/57156537/129673698-f66e94eb-ed61-4686-9ab9-17ad2e7efdbe.png)
+![Ice Shot 2](https://user-images.githubusercontent.com/57156537/129673711-f02cbb5f-4da8-48cb-815f-102663ba88ed.png)
+![Ice Shot 3](https://user-images.githubusercontent.com/57156537/129673722-2188a3c8-be33-4dd8-8a53-fea2a67ec86e.png)
+![Ice Shot 1](https://user-images.githubusercontent.com/57156537/129673729-c55d7620-4f34-4c03-b177-2518966ac6e7.png)
+![Fire Ball Shot 3](https://user-images.githubusercontent.com/57156537/129673740-0147c834-e4a4-4ae7-a75e-0203b00fd7f6.png)
+![Fire Ball Shot 2](https://user-images.githubusercontent.com/57156537/129673744-3332fdf4-d9f1-48a5-9d10-eaa81507879d.png)
+![Fire Ball Projectile](https://user-images.githubusercontent.com/57156537/129673749-25dc5fc9-d3f7-4e3d-b9dd-a7c4e96a5d8f.png)
+![Electric Shot 3](https://user-images.githubusercontent.com/57156537/129673759-fd9e799f-ff95-4a15-9f27-94d48ff03f84.png)
+![Electric Shot 2](https://user-images.githubusercontent.com/57156537/129673764-948a9ca8-6e6b-4355-8da4-d637d05d1001.png)
+![Electric Shot 1](https://user-images.githubusercontent.com/57156537/129673771-8294278b-140d-4018-89d6-cbc64aaed1bb.png)
+![Big Bullet Shot](https://user-images.githubusercontent.com/57156537/129673783-b7336e29-d470-4b04-97f6-326eb83839b4.png)
 
 
 [back](Blogs.html)
