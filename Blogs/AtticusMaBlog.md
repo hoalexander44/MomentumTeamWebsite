@@ -106,7 +106,7 @@ Negative: Tasks were not delegated until Friday which was a no one's fault but I
 
 Upcoming: Working on fixing the highlighting script since it is a top priority. 
 
-### PPJ06
+### PPJ07
 
 Atticus Ma, PPJ07
 
@@ -122,3 +122,19 @@ Positive: This week went well for the most part. I worked on making momentum req
 Negative: Only negative this week was that our group leader was  out for the weekend so there was not a meeting for us. Fortunately, everyone knew what they had to do and were able to complete their tasks. 
 
 Upcoming: Going to be working on finding and fixing any bugs that come up with the abilities. 
+
+### PPJ08
+
+Atticus Ma, PPJ08
+
+Tasks: 
+
+1. Fixed bugs with abilities - 4 hours
+
+Total hours: 4 hours
+
+Positive: This week was a little lighter than usual. Top priority was to get the abilites working properly since when I first added restrictions to the abilities, there was a bug  that if the player just clicked on an ability it would be counted as using it and put it on cooldown. After fixing that, abilities now work properly even if the player clicks on an ability and decides not to use it.   
+
+Negative: Fixing whirlwind blade ability was a little weird and took up some time. The only way to properly check if whirlwind blade was used is if any enemies actually got hit from the ability. The player could accidentally use the ability without even knowing it since we had no true indication if it was used. I got over this problem by looking through our code and finding out that there is a list that grabs all enemies around the player which was really nice. 
+
+Upcoming: These final weeks are probably going to be focused on polishing up the game. I will probably still be working on the ability side of things but I could also be hopping around helping the other programmers on the team. 
