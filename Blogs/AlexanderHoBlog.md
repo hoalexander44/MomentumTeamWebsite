@@ -205,7 +205,7 @@ This project definitely had its ups and downs and I learned a lot from it. Howev
 ## Welcome to Name's Personal Production Journal
 
 
-### Week 2 - Week 3
+### Week 1 - Week 2
 Alexander Ho, PPJ 1
 
 
@@ -229,7 +229,7 @@ Future Plan: Start assigning tickets to every member and work on character anima
 ![image](https://user-images.githubusercontent.com/39490762/123734076-a6b5d700-d86a-11eb-992b-9971be412517.png)
 
 
-### Week 3 - Week 4
+### Week 2 - Week 3
 Alexander Ho, PPJ 2
 
 
@@ -247,7 +247,7 @@ Negative: There are a lot of issues with the advanced AI and a lot of them stem 
 Future plan: try to get the new AI in and test the new game mechanic. Also get some more character animations in and juice.  
 
 
-### Week 4 - Week 5
+### Week 3 - Week 4
 Alexander Ho, PPJ 3
 
 Integrate ice level assets and setup the ice level: 3 hours
@@ -264,7 +264,7 @@ Negative: We are so close to a stable base game but little bugs keep arising and
 
 Future Plan: Start adding additonal content along with UI. Maybe setup a dedicated juice team to make the game feel ebtter, because its currently working.
 
-### Week 5 - Week 6
+### Week 4 - Week 5
 Alexander Ho, PPJ 4
 
 Write down hwo to create a new level and make level creation easier: 2 hours
@@ -285,7 +285,7 @@ Future plan: Fix the new bugs, get more levels up, and vastl imrpove the movemen
 
 
 
-### Week 6 - Week 7
+### Week 5 - Week 6
 Alexander Ho, PPJ 5
 
 Edit some art assets: 1 hours
@@ -303,7 +303,7 @@ Negative: Oh goodness we have so many bugs, some of them seem to be game breakin
 Future Plan: Bug fix, bug fix, bug fix, and we might even post pone any new features and focus solely on bug fixing. Especially because this is actually starting to get in the way of development. And hopefully along the way our code we be more cleaned up. Also implement all the new art assets. 
 
 
-### Week 7 - Week 8
+### Week 6 - Week 7
 Name, PPJ 6
 
 New Enemy AI: 10 hours
@@ -327,7 +327,7 @@ Future plan: Bug fix, add restrictions to abilities, and complete a usable level
 
 
 
-### Week 8 - Week 9
+### Week 7 - Week 8
 Alexander Ho, PPJ 7
 
 merge fix: 1 hour
@@ -344,8 +344,27 @@ Future Plan: Finish the level editor and get the art in.
 
 
 
-### Week 9 - Week 10
-Name, PPJ 8
+### Week 8 - Week 9
+Alexander Ho, PPJ 8
+Connected all the levels and scenes - 5 hours
+checked everyone's levels - 5 hours
+added projectile enemy ability - 8 hours
+added spit enemy ability - 3 hours
+added heal enemy ability - 2 hours
+added dialogue to each level - 4 hours 
+fixed all enemy prefabs - 3 hours
+finsihed inspector level generation - 3 hours
+tuned of enemy AI - 2 hours
+
+Total: 35 hours
+
+Positive: We are close to having a completed game. All of the mechanics that we would want are in the game. 
+
+Negative: There are some unappealing things that we need to fix, a lot of stuff with UI. Also, we had to cut out some mechanics because we did not have time to put it in for this week. This includes things like deflect. Had to simplify the enemies a lot. 
+
+Future Plan: Clean up the UI a lot, playtest the game and tune up the AI. 
+
+
 
 
 ### Week 10 - Finals Week
