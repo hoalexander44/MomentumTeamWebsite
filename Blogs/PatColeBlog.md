@@ -88,6 +88,18 @@ Upcoming: We are working on cleaning and polishing.
 ### Week 8 - Week 9
 Patrick Cole, PPJ 8
 
+Task:
+
+1. Create Lab Level 1 and Lab Level 2
+
+Total Hours: 3
+
+Positives: Creating levels was fun and once I got the hang of making the first one the second one was way easier.
+
+Negatives: There is a definite learning curve to making a level.
+
+Upcoming: We are working on cleaning and polishing and adding more levels
+
 
 ### Week 10 - Finals Week
 Patrick Cole, PPJ 9
