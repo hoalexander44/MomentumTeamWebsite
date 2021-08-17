@@ -99,8 +99,15 @@ Upcoming: fix the issues with the settings and finish turning all of the monster
 
 ### Week 8 - Week 9
 Name, PPJ 7
+1. finished creating prefabs for the monsters: 2 hours
+2. helped fix issues with the settings menu: 1 hour
+3. Total: 3 hours
 
+positives: settings now fully works 
 
+negatives don't know how adding the monsters work so I couldn't personally test them
+
+Upcoming: help with anything ui related
 ### Week 9 - Week 10
 Name, PPJ 8
 
