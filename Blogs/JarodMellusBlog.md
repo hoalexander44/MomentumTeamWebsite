@@ -55,3 +55,11 @@ Tasks: 2 hours editing sounds, 1 hour getting them into the game
 Positives: I think that the sounds in the game are mostly finished. The team is doing a very good job getting the game together, and I really think it is coming along
 
 Negatives: Nothing too bad this week, just time issues.
+
+### Week - 8 - Week 9
+
+Tasks: Create music tracks for win adn lose screens, 3 hours win, 4 hours lose
+
+Positives: Finished music tracks approved by team
+
+Negatives: Did not get to add them to the build in time for class. Still need to hear Kendal's and my tracks in context to approve them.
