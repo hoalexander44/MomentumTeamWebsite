@@ -111,8 +111,17 @@ Negatives: Nothing incredibly notable, most issues in my work have been mitigate
 Upcoming: Further refinements to all menus, fixing anchors and adding new UI elements across the board.
 
 ### Week 9 - Week 10
-Name, PPJ 8
-NULL
+Christopher Epure, PPJ 8
+Tasks:
+1.Started implimenting new menu UI: 1.5 hours
+2.Drafted new level layouts: 1.5 hours
+Total: 3 hours
+
+Positives: Now that issues are sort it should be quick to impliment new buttons and UI items
+
+Negatives: Was definitly a less than effective wwork week as a result of illness and initial issue with the pause menu set up.
+
+Upcoming: Since we are in the closing strech I'm going to be looking at mostly updating UI as mentioned, along with other minor game tweaks, and overhauling the GDD.
 
 ### Week 10 - Finals Week
 Name, PPJ 9
