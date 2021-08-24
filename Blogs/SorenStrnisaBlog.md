@@ -223,6 +223,19 @@ Negative: Nothing this week.
 
 Upcoming: Get playtest feedback on the new levels.
 
+### Week 10
 
+Soren Strnisa PPJ10
+
+Tasks:
+Reading playtest feedback and brainstorming improvements based on critique.
+
+Total Hours: 1 Hours
+
+Positive: We were able to deliver a build to playtesters that was indicative to the final game. The data provided is especially helpful.
+
+Negative: Not much for the design team to work on except planning and reviewing feedback.
+
+Upcoming: Update world levels based on the playtest feedback.
 
 [back](Blogs.html)
