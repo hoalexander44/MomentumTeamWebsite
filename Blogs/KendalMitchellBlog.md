@@ -364,4 +364,15 @@ I'll be producing the final set of tracks, giving audio another pass, and fixing
 ### Week 10 - Finals Week
 Kendal Mitchell, PPJ 9
 
+This week was primarily spent gathering playtest data, however I also got in a small change to our tooltip system to provide an additional row of text content. 
+
+Positive:
+We were able to gather a plethora of feedback on our game with some users finding bugs that had gone unnoticed by our team. 
+
+Negative:
+I wasn't able to get all the final level variant music tracks in the game in time.
+
+Upcoming:
+We'll be polishing our game for finals week and getting in the last of the new music. 
+
 [back](Blogs.html)
