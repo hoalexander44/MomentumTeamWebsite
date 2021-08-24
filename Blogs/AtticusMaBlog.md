@@ -138,3 +138,21 @@ Positive: This week was a little lighter than usual. Top priority was to get the
 Negative: Fixing whirlwind blade ability was a little weird and took up some time. The only way to properly check if whirlwind blade was used is if any enemies actually got hit from the ability. The player could accidentally use the ability without even knowing it since we had no true indication if it was used. I got over this problem by looking through our code and finding out that there is a list that grabs all enemies around the player which was really nice. 
 
 Upcoming: These final weeks are probably going to be focused on polishing up the game. I will probably still be working on the ability side of things but I could also be hopping around helping the other programmers on the team. 
+
+### PPJ09
+
+Atticus Ma, PPJ09
+
+Tasks: 
+
+1. Implemented abilities to have an amount of uses - 3 hours
+2. Sell pitch - 1 hour
+
+Total hours: 4 hours
+
+Positive: I worked on making abilities have a set amount of uses before being deactivated. I had to add a new attribute to the ability base class so that all abilities could have their own different amount of uses. Also fixed a bug with angled attack being able to be used infinitely. For the sell pitch, I revised it based on comments from the last sell pitch and prepared ahead of time a script for my slide. 
+
+Negative: There were no meetings this time around since it was mostly bug fixing. I think a meeting would have been nice though just to see where everyone is at. 
+
+Upcoming: Final week for working on the project is coming up so I plan to just help polish up anything that needs to be polished. Probably going to be focusing on anything that is wrong with the abilities and helping out where ever needs help.
+
