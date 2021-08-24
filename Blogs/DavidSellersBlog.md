@@ -98,7 +98,7 @@ negatives: There are still a few visual glitches I noticed after the fact with t
 Upcoming: fix the issues with the settings and finish turning all of the monsters into prefabs
 
 ### Week 8 - Week 9
-Name, PPJ 7
+David PPJ 7
 1. finished creating prefabs for the monsters: 2 hours
 2. helped fix issues with the settings menu: 1 hour
 3. Total: 3 hours
@@ -109,8 +109,15 @@ negatives don't know how adding the monsters work so I couldn't personally test 
 
 Upcoming: help with anything ui related
 ### Week 9 - Week 10
-Name, PPJ 8
+David PPJ 8
+1. Try and get play test: 30 minutes
+2. Total 30 minutes
 
+Positives: The game has turned out alot better
+
+Negatives: Don't have alot of contacts that can play the playtest
+
+Upcoming: finish the settings menu
 
 ### Week 10 - Finals Week
 Name, PPJ 9
