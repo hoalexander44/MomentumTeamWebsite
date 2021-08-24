@@ -90,3 +90,9 @@ Negatives: Nothing negatives, it took a lot of time for me to figure out how the
 
 ### Week 10 - Finals Week
 Joe Xu, PPJ 9
+Tasks:
+1. Sending out playtests : 0.5 hours
+Total 0.5 hours
+
+Positives: This is an easy week for me because my task it easy.
+Negatives: Nothing too much going on this week. Just a lot of play tests.
