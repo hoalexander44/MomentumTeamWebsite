@@ -100,6 +100,19 @@ Negatives: There is a definite learning curve to making a level.
 
 Upcoming: We are working on cleaning and polishing and adding more levels
 
+### Week 9 - Week 10
+Patrick Cole, PPJ 9
+
+Task:
+
+1. Run Playtests
+
+Total Hours: 3
+
+Positives: Ran a lot of play tests.
+Negatives: None
+
+Upcoming: Finishing up, polishing stuff.
 
 ### Week 10 - Finals Week
 Patrick Cole, PPJ 9
