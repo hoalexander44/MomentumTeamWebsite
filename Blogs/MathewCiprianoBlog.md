@@ -784,4 +784,72 @@ Upcoming:
 ![Big Bullet Shot](https://user-images.githubusercontent.com/57156537/129673783-b7336e29-d470-4b04-97f6-326eb83839b4.png)
 
 
+Week9 - Week 10 PPJ 9
+Mathew Cipriano, Personal Project Journal #9 
+
+Tasks Completed:
+
+Animated projectiles: 4 Hours.
+
+Total Hours: 4
+
+Positives:
+
+●  Animated projectiles created for enemies to shoot.
+
+●  Additional music was created and implemented into the game. 
+
+● Further new coding was created to fix glitches 
+
+● More playtesting and vocal opinions were done for ironing out the game. 
+
+
+Negatives:
+
+● New game implementations are taking time, as per requests by playtesters, of which caused minor glitches and issues. 
+
+● Playtesting for the game has resulted in new needs for gameplay, requiring more experimentation and planning for the final version of the game. 
+
+
+Upcoming:
+
+● Finish art for the game.
+
+● Finish playtesting for the game and make sure everything is ironed out. 
+
+● Finish creating levels and any code that needs to be improved. 
+
+● Have the final version of the game done (art, gameplay, design, code, music, technical work, U.I.). 
+
+
+During the time at which I was working on the game ‘Momentum’, I believe my performance for this game was overall adequate, as I was able to continue a decent pace of design work that would be equivalent to the process I was working from with the previous semester. During the ten week period that I worked on the game with my team, I continued the process of creating art for the game, and specifically worked on updating the graphics to the monsters and nature assets, along with designing the win and lose screens and the main menu screen to select levels. I also designed projectiles for the enemies to fire at the player, and created the final asset design for the Dr.Grey character. There were also several animations that I had to reanimate due to minor issues with how they were acted within the skeleton of the creatures, of which later came out well. Between designing and implementing further artwork in the game, Ravi, Chris, Alex, and myself all collaborated and worked on methods of design with the purpose of creating a unique art experience for said game. We each split tasks to work on since there were four main level themes, with myself designing and recreating art for the forest level. The process of designing some of the newer assets (as well as creating updated art for older designs), was time consuming, and I had to plan out the various stages of implementation to the designs and then finalize said designs, to which I believe I worked hard on in order to make sure all the graphics made sense and were appropriately designed for ‘Momentum’.
+
+ In terms of what went right and wrong, I have a bulleted list here:
+
+Things that went right:
+
+ ● Successfully updated various sections of art and design that include creatures, screens, and additional assets. 
+
+ ● All the designs were created on time and the implantation of said designs in game were done and with no problems. 
+
+ ● In terms of cooperating with the group, I kept in heavy contact with them and we worked together to iron out designs and also give me suggestions on how to fix certain aspects of art I had created. 
+
+Things that went wrong: 
+
+● There were times where I had general issues with understanding the art style and aesthetics of the game in the early stages of this semester’s production, and it took me time to fully understand the direction of where we wanted to go with the art. 
+
+● There were points where I had underestimated the amount of time one design or set of designs would be created and finished, and thus my schedule of designs shifted every so often and I had to try and plan around these large portions of art creation. 
+
+● I had to continue to adapt to utilizing photoshop and further understanding the program in order to update the art, which took longer periods of time. I tend to work in physical forms of media, and thus utilizing photoshop was still a bit of a challenge. 
+
+Through this project, I learned that staying ambitious in creating assets is fine, but it takes time for designs to be created and thus my process of design must be more organized in order to properly execute my types of artwork. Additionally, I found that experimentation may be needed when applying aesthetic designs and understanding what kind of process might be done in order to properly create artwork. In the future (and to which when I may be creating games in said future), I plan to further experiment with styles and various forms of art in order to get more of a handle on how such designs may be fully utilized in said games. Along with this, I plan to learn and create additional digital work in photoshop at a capacity to which I will master the program and have the capabilities to design digital art with ease. Lastly, I plan to further manage my time when developing a project such as this game. Specifically, I wish to implement a more concrete schedule at which I can follow and be able to properly work off of for the purpose of spending as much time on the game as I can for the benefit of creating numerous assets in a reasonable amount of time. Overall, I believe as part of the momentum team, I worked hard to help our project grow and develop into something that may be sold in the gaming market as a product itself, and was glad to work with everyone on our team to make our ideas a reality. 
+
+![Electric-Shot-1-Animation](https://user-images.githubusercontent.com/57156537/130663638-fdaad4a8-2d7f-4c55-bf77-4c14422f030a.gif)
+![Fire-Ball-Shot-2-Animated](https://user-images.githubusercontent.com/57156537/130663659-48e3fa1e-7240-48bc-bd54-73dcf603ea7c.gif)
+![Fire-Ball-Shot-3-Animation](https://user-images.githubusercontent.com/57156537/130663685-59578e5b-145b-464e-bf59-660f4483bad1.gif)
+![Ice-Shot-2-Animation](https://user-images.githubusercontent.com/57156537/130663713-8f85f4dd-77bf-4fbc-89fb-24908e6fb5e5.gif)
+![Ice-Shot-3-Animation](https://user-images.githubusercontent.com/57156537/130663734-49ef8ab8-e78a-49ae-bb04-415b6fbed53a.gif)
+![Sticky-Shot-Animation](https://user-images.githubusercontent.com/57156537/130663770-57a85223-b5d6-40a2-82b1-4454d5bc8c72.gif)
+
+
 [back](Blogs.html)
