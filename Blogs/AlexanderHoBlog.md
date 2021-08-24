@@ -388,5 +388,10 @@ Negative: There are a lot of other minor bugs
 Future Plan: integrate art and clean up the game. 
 
 
+I started to get the hang of assigning tasks and ditching the meeting system and instead meeting people individually was a lot more productive because it saves everyone time and it helps me understand the nuances better. Also, I was able to coordinate merges a lot better and the workflow that we had going was really good. Another good thing was that the incoming people were able to contribute signigant work to the legacy code which I thought was really helpful. 
+
+I definitly should have split it up into subteams and have them coordinate tasks and take responsibility instead of having me assign all of the tasks. I think this would have created a stronger game. Not only split up into subteams with leads but split tasks into subteams. For example, having David and Ravi coordinate by themsleves a UI would have taken a lot of weight off my shoulders. Also there was a lot of meandering. A lot of major pivotal tasks kept getting push back such as the AI and the level editor so we couldn't do anything. There also could have been a lot of better code practices in hindsight that we could have implemented because a lot of things we have to go in an manually change such as the levels but with the time that we had ripping that out and implementing a stronger software solution would have taken too long. 
+
+
 
 [back](Blogs.html)
