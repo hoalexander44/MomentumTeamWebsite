@@ -374,6 +374,19 @@ Future Plan: Clean up the UI a lot, playtest the game and tune up the AI.
 ### Week 10 - Finals Week
 Name, PPJ 9
 
+Ran Playtests: 2 hours
+Major Build bugfix: 5 hours
+Ability indicator: 3 hours
+Reconfiguration layering: 2 hours
+
+Total 12 hours
+
+Positive: finally fixed the build bug. Which was super super super annoying. But luckily Jarod and I were able to deduce the problem.
+
+Negative: There are a lot of other minor bugs
+
+Future Plan: integrate art and clean up the game. 
+
 
 
 [back](Blogs.html)
