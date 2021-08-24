@@ -375,4 +375,10 @@ I wasn't able to get all the final level variant music tracks in the game in tim
 Upcoming:
 We'll be polishing our game for finals week and getting in the last of the new music. 
 
+Postmortem:
+It was great working with everyone on Momentum. Our communication became much more efficient and effective this term. The art production pipeline was bolstered by the new artists, thankfully not causing us to place all of that load on one artist again. Everyone continued to be responsive and vocal, and adapted well to change. Our turnover times got even shorter, with the team collecting vastly more playtest data too. Although it had a rocky start, it was awesome having my level editor tool get used to generate levels by the team. 
+
+Areas that we could be stronger in, were maintaining a cleaner codebase, getting new developers up to speed, and delegating programming tasks more effectively. This presented a problem for our team towards the earlier half of our development time. 
+
+
 [back](Blogs.html)
