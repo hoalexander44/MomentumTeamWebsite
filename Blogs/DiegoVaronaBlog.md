@@ -272,19 +272,56 @@ Negative: It still feels like I am not doing much to help the team, but I unders
 Future Plan: When Kendall is done with the Level Builder I am really itching to gt to designing some levels.
 
 ### Week 6 - Week 7
-Name, PPJ 5
+Diego, PPJ 5
 
+Level Greyboxing: 2 Hours
+
+Total: 2 hours
+
+Positive: It's awesome finally start greyboxing the levels out.
+
+Negative: Would have been nice to start it sooner.
+
+Future Plan: More level greyboxing.
 
 ### Week 7 - Week 8
-Name, PPJ 6
+Diego, PPJ 6
 
+Level Greyboxing: 2 Hours
+
+Total: 2 hours
+
+Positive: Nice to develop more levels and see how they take into account the design system of the game.
+
+Negative: Not much of a negative this week, just kind of hard to gauge the difficulty of the levels.
+
+Future Plan: Create the levels FOR REAL this time.
 
 ### Week 8 - Week 9
-Name, PPJ 7
+Diego, PPJ 7
 
+Level Creation: 5 Hours
+
+Total: 5 hours
+
+Positive: I love being able to create these levels finally. I will have to see how they play out in the game itself.
+
+Negative: Was a little tedious with how the tool currently works but luckily it still works.
+
+Future Plan: Begin to run playtests.
 
 ### Week 9 - Week 10
-Name, PPJ 8
+Diego, PPJ 8
+
+Playtests: 4-5 Hours
+
+Total: 5 hours
+
+Positive: It was great to see the feedback for the game.
+
+Negative: We have to do a lot of game balancing
+
+Future Plan: Keep polishing.
 
 
 ### Week 10 - Finals Week
