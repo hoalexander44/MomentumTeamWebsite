@@ -191,5 +191,16 @@ mber of hours worked: 2
 
 What did I do: So for this week I was tasked with remaking the slassh effect for our game. The current one had alot of stuff happening during the animation. So I decided to get rid of all the extra flames and fancy highlights. So I made a simple slash thats a bright color so it can easily be seen with all the assets on screen. 
 
-Upcoming: try to add any extra art asstets we decide to squeeze in for the end of production. 
+Upcoming: try to add any extra art asstets we decide to squeeze in for the end of production.
+
+
+### Week 10 
+
+Task completed: Gather PlaytestData 
+
+number of hours: 6 
+
+What did I do: Since there was really no art work needed we decided to shift over to helping with gathering play testers. I was able to help gather more info on the game on its current state ad see how the players felt while playyin the game. 
+
+Upcoming: Help in areas that will need aid 
 [back](Blogs.html)
