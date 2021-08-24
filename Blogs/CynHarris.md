@@ -116,6 +116,12 @@ Total: 3 hours
 * Upcoming: It is approaching the end of the term, so hopefully we can polish the game and bring it to a presentable state!
 
 
+PPJ Week 10
 
+Tasks:
+1. Facilitating playtests: 2 hours
+Total: 2 hours
 
-
+* Positives: This is almost certainly going to be the most helpful playtest data we've collected. Everyone seemed to have something to say.
+* Negatives: Nothing was assigned to most of us this week, which I guess makes sense as we are nearing the end, but it always feels weird to report next to nothing.
+* Upcoming: Polishing and finishing off the game!
