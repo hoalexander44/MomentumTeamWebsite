@@ -156,3 +156,23 @@ Negative: There were no meetings this time around since it was mostly bug fixing
 
 Upcoming: Final week for working on the project is coming up so I plan to just help polish up anything that needs to be polished. Probably going to be focusing on anything that is wrong with the abilities and helping out where ever needs help.
 
+### PPJ10
+
+Atticus Ma, PPJ10
+
+Tasks: 
+
+1. Bug fixing: 1 1/2 hours
+
+Total hours: 1 1/2 hours
+
+Positive: Bug fixing was generally easy for this week. There was a bug where the player could not slide through more than one enemy if the enemies were on adjacent hexes with one another. A simple change from an if to a while statement to consistently check for enemies wrapped up the bug fix pretty well and quick. 
+
+Negative: Only negative for me was that I couldn't attend our usual Saturday meetings, so to compensate I met up with Alex for a 1 on 1 session. 
+
+Upcoming: Last thing to go is basically the last sales pitch. Crossing my fingers that the team executes the pitch flawelessly.
+
+### Post Mortem
+Overall, I was a bit skeptical at first when joining a completely new team on a game I never worked on. In the beginning everything was a little rough for me since I wasn't sure how all the coding worked for Momentum. As the weeks went on though, I met great people from the Momentum team who helped guide me on completing my tickets every week and I even learned a couple tricks from them as well. It was a good learning experience for me to work with new people as well as working on things out of my comfort zone. The best part about Momentum was probably getting to program the abilities and implementing new things such as momentum requirements to them. Getting to see everyone's work merge together was also a great site to view as long as there weren't any Github merging problems. Overall, working on Momentum was a great learning experience and I am happy with what the team has developed together. 
+
+
