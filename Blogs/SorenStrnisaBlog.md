@@ -238,4 +238,23 @@ Negative: Not much for the design team to work on except planning and reviewing 
 
 Upcoming: Update world levels based on the playtest feedback.
 
+### Week 11
+
+Soren Strnisa PPJ11
+
+Tasks:
+Revising the GDD to meet our current enemy AI, combat system, and finalized levels.
+
+Total Hours: 1.5 Hours
+
+Positive: The GDD is now completely up to date with the final build of the game.
+
+Negative: Nothing.
+
+### Final Postmortem
+
+Soren Strnisa
+
+The term started with the inclusion of many new team members, there was a bit to get used to at first. And it took some time to distrute appropriate tasks to people. My job was to work on design tasks like maintaining the GDD and creating levels along with helping with any documentation that Alex needed help with. Some problems I encountered was struggling to balance levels to meet the constantly updated combat and AI. Admittedly I was preoccupied with other classes and didn't help out as much during some of the weeks. I appreciate the leadership Alex showed during this term and the amount of work and effort Kendal and Matt put into this project. Overall, I'm pretty impressed by how much progress the team made in such a short amount of time, and it was a pleasure working with them all.
+
 [back](Blogs.html)
