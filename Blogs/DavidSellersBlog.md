@@ -120,4 +120,20 @@ Negatives: Don't have alot of contacts that can play the playtest
 Upcoming: finish the settings menu
 
 ### Week 10 - Finals Week
-Name, PPJ 9
+David, PPJ 9
+
+1. Changed the assets of the settings - 2 hour
+2. Total: 2 hours
+
+Positive: Settings menu no longer looks like it has unity default assets
+
+Negative: Volume slider doesn't have a custom slider
+
+Upcoming: help team with postmortem.
+
+Post Mortem
+	Overall it was fun to help this project.I ended up working mostly on the ui like with Altitude, which was probably the best choice. I wish I could have helped more, but I haven't played many strategy games so I didn't feel like I could help.
+
+
+
+
