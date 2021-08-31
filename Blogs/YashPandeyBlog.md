@@ -301,7 +301,7 @@ Upcoming:
 ![image](https://user-images.githubusercontent.com/50269613/125450393-32cbbea4-4c1d-4d20-8515-d5ffc93f4714.png)
 
 ### Week 5 - 6
-Yash Pandey, PPJ3 
+Yash Pandey, PPJ5
 
 Tasks - Hours Taken:
 
@@ -310,7 +310,8 @@ o 2 Hours
 
 
 - Story Development
-o 2 Hours  
+o 2 Hours
+
 Total Hours: 4 Hours
 
 Positive: Fixed a couple null-reference bugs. Got some dialogues down and ready to implement into game.
@@ -321,5 +322,73 @@ Upcoming:
 - Finish improved AI implementation
 - Flesh out story dialogues
 
+
+### Week 6 - 7
+Yash Pandey, PPJ6
+
+Tasks - Hours Taken
+
+- Story Creation (Brainstorming with Story Team)
+o 2 Hours  
+
+- Pair Programming and Debugging Branch and Issue with Singleton
+o 1.5 Hours  
+
+
+Positive: Got help with AI and passed over the task to teammate. Got to start working on some of the story elements and details necessary for our media (videos, slides, etc.)
+
+Negatives: Debugging local dev environments is still very tedious. Need to find a better system to enable team-style production and staying up to date with the latest pushes in my own dev branch
+
+Upcoming:
+- Redo of Story
+- Pick up bugs and issues from Trello
+
+### Week 7 - 8
+Yash Pandey, PPJ7
+
+Tasks - Hours Taken
+
+- Wrote behaviour scrips for new enemy attack pattern (projectile attacks and line attacks)
+o 3 Hours  
+
+Positive: New Behaviour scripts were integrated properly without hassle.
+
+Negatives: Time management is getting out of control with coursework in classes not dropping at all. Didn't get a chance to work on the story
+
+Upcoming:
+- Level Creatoion
+- Bug Fixing
+
+### Week 8 - 9
+Yash Pandey, PPJ8
+
+Tasks - Hours Taken
+
+- Created Ice Level 3 Map
+o 2 Hours  
+
+Positive: Level Editor worked in helping me finish the level
+
+Negatives: Had to revert back to original system of creating level which was tedious and time consuming. Realized some AI issues with new map creation and some bugs.
+
+Upcoming:
+- Playtesting Survey
+- Final Bug fixes, etc.
+
+### Week 9 - 10
+Yash Pandey, PPJ9
+
+Tasks - Hours Taken
+
+- Playtest Surveys
+
+- Update Ice Level 3
+
+
+Positive: Playtest data yielded some interesting ideas the team would like to see in the game
+
+Upcoming:
+- Final Sell Preparation
+- Update Slides
 
 [back](Blogs.html)
